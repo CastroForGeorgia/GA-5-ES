@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Leadership Grounded in Experience: Why I’m Running for Congress"
-description: "My journey—shaped by personal struggles, professional achievements, and a commitment to service—has prepared me to lead. I’m running for Congress to bring a voice for the people who are too often left out of the conversation."
+title: "Liderazgo Basado en la Experiencia: Por Qué Me Postulo para el Congreso"
+description: "Mi trayectoria—moldeada por luchas personales, logros profesionales y un compromiso con el servicio—me ha preparado para liderar. Me postulo para el Congreso para dar voz a las personas que a menudo son excluidas de la conversación."
 date: 2024-12-11
 image: '/images/about-me-photo.jpg'
 
@@ -9,48 +9,48 @@ redirect_from:
   - /blog/why-im-running/
 ---
 
-Leadership isn’t about where you start—it’s about the journey that brings you to the moment where you’re ready to serve. My journey has been shaped by personal struggles, professional achievements, and an unwavering commitment to service. It’s a path that’s taught me resilience, empathy, and the importance of standing up for what’s right.
+El liderazgo no se trata de dónde comienzas, sino del camino que te lleva al momento en que estás listo para servir. Mi trayectoria ha sido moldeada por luchas personales, logros profesionales y un compromiso inquebrantable con el servicio. Es un camino que me ha enseñado resiliencia, empatía y la importancia de defender lo que es correcto.
 
-I’m running for Congress because I believe in a future where no one is left behind. I believe in leadership that listens, learns, and acts decisively to create opportunity and justice for all. Most importantly, I’m running to bring a voice for the people who are too often left out of the conversation.
+Me postulo para el Congreso porque creo en un futuro donde nadie se quede atrás. Creo en un liderazgo que escucha, aprende y actúa de manera decisiva para crear oportunidades y justicia para todos. Más importante aún, me postulo para dar voz a las personas que a menudo son excluidas de la conversación.
 
-## A Journey Shaped by Struggles and Resilience
+## Un Camino Moldeado por Luchas y Resiliencia
 
-Growing up in a working-class family, I experienced the challenges so many Americans face. I watched my mother work multiple jobs to provide for us, my sister navigate the struggles of being a teen mom, and my family wrestle with a system that often felt stacked against us. These experiences gave me a firsthand understanding of the barriers working families face and the grit it takes to overcome them.
+Creciendo en una familia de clase trabajadora, experimenté los desafíos que enfrentan muchos estadounidenses. Vi a mi madre trabajar en varios empleos para proveernos, a mi hermana lidiar con las dificultades de ser madre adolescente, y a mi familia luchar contra un sistema que a menudo parecía estar en nuestra contra. Estas experiencias me dieron una comprensión de primera mano de las barreras que enfrentan las familias trabajadoras y la determinación que se necesita para superarlas.
 
-But those challenges also taught me something else: the importance of community, resilience, and the need for systems that work for everyone—not just the privileged few.
+Pero esos desafíos también me enseñaron algo más: la importancia de la comunidad, la resiliencia y la necesidad de sistemas que funcionen para todos, no solo para unos pocos privilegiados.
 
-## Building Solutions Through Experience
+## Construyendo Soluciones a Través de la Experiencia
 
-My professional journey as an engineer has been about more than solving technical problems—it’s been about understanding people, systems, and the challenges they face. I learned how to listen, how to ask the right questions, and how to design solutions that meet real needs. These lessons have shaped my approach to leadership.
+Mi trayectoria profesional como ingeniero ha sido sobre más que resolver problemas técnicos; ha sido sobre entender a las personas, los sistemas y los desafíos que enfrentan. Aprendí a escuchar, a hacer las preguntas correctas y a diseñar soluciones que satisfacen necesidades reales. Estas lecciones han moldeado mi enfoque hacia el liderazgo.
 
-Whether addressing economic inequality, housing insecurity, or systemic injustice, I approach every challenge with the same mindset: listen to the people impacted, understand the root causes, and build solutions that create lasting change.
+Ya sea abordando la desigualdad económica, la inseguridad habitacional o la injusticia sistémica, enfrento cada desafío con la misma mentalidad: escuchar a las personas afectadas, entender las causas raíz y construir soluciones que generen un cambio duradero.
 
-## A Commitment to Service
+## Un Compromiso con el Servicio
 
-Service has always been at the heart of my journey. From advocating for immigrant families to fighting for equitable education and housing, I’ve worked to ensure that every voice is heard and every person has the opportunity to thrive. My commitment to service is grounded in the belief that leadership is about empowering others—not holding power for its own sake.
+El servicio siempre ha estado en el corazón de mi trayectoria. Desde abogar por familias inmigrantes hasta luchar por una educación y vivienda equitativas, he trabajado para asegurar que cada voz sea escuchada y cada persona tenga la oportunidad de prosperar. Mi compromiso con el servicio se basa en la creencia de que el liderazgo se trata de empoderar a los demás, no de mantener el poder por sí mismo.
 
-This commitment is why I’m running for Congress. I believe that real leadership isn’t about talking over people—it’s about creating a platform for them to be heard.
+Este compromiso es la razón por la que me postulo para el Congreso. Creo que el verdadero liderazgo no se trata de hablar por encima de las personas, sino de crear una plataforma para que sean escuchadas.
 
-## Bringing a Voice for the Overlooked
+## Trayendo una Voz para los Olvidados
 
-Too many people in our communities feel unheard, unseen, and left behind. Whether it’s working families struggling to make ends meet, immigrants navigating an unjust system, or students fighting for a fair shot at success, their voices are too often ignored by those in power. I’m running to change that.
+Demasiadas personas en nuestras comunidades se sienten ignoradas, invisibles y dejadas atrás. Ya sea familias trabajadoras luchando por llegar a fin de mes, inmigrantes navegando un sistema injusto o estudiantes luchando por una oportunidad justa de éxito, sus voces son demasiado a menudo ignoradas por quienes están en el poder. Me postulo para cambiar eso.
 
-A people-centered campaign means putting those voices at the forefront. It means listening to the needs of our community and translating those needs into bold, actionable policies that uplift everyone.
+Una campaña centrada en la gente significa poner esas voces en primer plano. Significa escuchar las necesidades de nuestra comunidad y traducir esas necesidades en políticas audaces y concretas que eleven a todos.
 
-## My Vision for Leadership
+## Mi Visión para el Liderazgo
 
-I believe in leadership that:
+Creo en un liderazgo que:
 
-- **Listens First**: Engaging directly with the people impacted by decisions to ensure their needs shape the policies we create.  
-- **Acts Boldly**: Fighting for transformative solutions, from universal healthcare to affordable housing, that address systemic barriers and create opportunity for all.  
-- **Builds Coalitions**: Bringing people together across differences to create solutions that reflect our shared humanity.  
+- **Escucha Primero**: Involucrarse directamente con las personas afectadas por las decisiones para asegurar que sus necesidades den forma a las políticas que creamos.  
+- **Actúa con Valentía**: Luchar por soluciones transformadoras, desde atención médica universal hasta vivienda asequible, que aborden las barreras sistémicas y creen oportunidades para todos.  
+- **Construye Coaliciones**: Unir a las personas a través de las diferencias para crear soluciones que reflejen nuestra humanidad compartida.  
 
-My vision for leadership is rooted in experience and action. It’s about creating systems that reflect the values of equity, justice, and opportunity for everyone.
+Mi visión para el liderazgo está arraigada en la experiencia y la acción. Se trata de crear sistemas que reflejen los valores de equidad, justicia y oportunidad para todos.
 
-## Why This Matters
+## Por Qué Esto Importa
 
-We’re at a pivotal moment. The challenges we face—economic inequality, climate change, systemic injustice—require leaders who are ready to act boldly and decisively. My journey has prepared me to be that leader, and I’m ready to bring my experience, my values, and my commitment to service to Congress.
+Estamos en un momento crucial. Los desafíos que enfrentamos—la desigualdad económica, el cambio climático, la injusticia sistémica—requieren líderes que estén listos para actuar con valentía y decisión. Mi trayectoria me ha preparado para ser ese líder, y estoy listo para llevar mi experiencia, mis valores y mi compromiso con el servicio al Congreso.
 
 ---
 
-**This is why I’m running: to bring a voice for the overlooked, to create systems that work for everyone, and to lead with the empathy and resilience my journey has taught me. Together, we can build a future that reflects the strength of our communities and the power of our shared determination.**
+**Esta es la razón por la que me postulo: para dar voz a los olvidados, para crear sistemas que funcionen para todos y para liderar con la empatía y resiliencia que mi trayectoria me ha enseñado. Juntos, podemos construir un futuro que refleje la fortaleza de nuestras comunidades y el poder de nuestra determinación compartida.**

@@ -1,57 +1,57 @@
 ---
 layout: post
-title: "Understanding Through Experience: My Approach to Leadership"
-description: "Whether in my engineering career or community advocacy, I’ve learned that true understanding comes from lived experience. I approach leadership with a focus on listening, learning, and finding solutions that address real-world struggles."
+title: "Entendimiento a Través de la Experiencia: Mi Enfoque hacia el Liderazgo"
+description: "Ya sea en mi carrera de ingeniería o en la defensa de la comunidad, he aprendido que el verdadero entendimiento proviene de la experiencia vivida. Enfoque mi liderazgo en escuchar, aprender y encontrar soluciones que aborden las luchas del mundo real."
 date: 2024-12-20
 image: '/images/open-government-header.webp'
 
 redirect_from:
-  - /2025-01-01-understanding-through-experience/
+  - /2025-01-01-entendimiento-a-traves-de-la-experiencia/
 ---
 
-Leadership isn’t about knowing everything—it’s about understanding the struggles of the people you serve and finding ways to make their lives better. Whether in my engineering career or my work as a community advocate, I’ve learned that true understanding comes from experience: listening to people’s stories, learning from their challenges, and addressing the systems that shape their lives.
+El liderazgo no se trata de saberlo todo; se trata de entender las luchas de las personas a las que sirves y encontrar formas de mejorar sus vidas. Ya sea en mi carrera de ingeniería o en mi trabajo como defensor de la comunidad, he aprendido que el verdadero entendimiento proviene de la experiencia: escuchar las historias de las personas, aprender de sus desafíos y abordar los sistemas que moldean sus vidas.
 
-My approach to leadership is rooted in this belief. It’s about listening first, learning always, and crafting solutions that meet the needs of real people.
+Mi enfoque hacia el liderazgo está arraigado en esta creencia. Se trata de escuchar primero, aprender siempre y crear soluciones que satisfagan las necesidades de personas reales.
 
-## Understanding Through Lived Experience
+## Entendimiento a Través de la Experiencia Vivida
 
-Growing up in a working-class family, I saw firsthand how hard it was to make ends meet. I watched my mother juggle multiple jobs, my sister struggle as a teen mom, and my own family navigate a system that often felt stacked against us. These experiences shaped my understanding of the challenges working families face and instilled in me a deep empathy for others going through the same struggles.
+Creciendo en una familia de clase trabajadora, vi de primera mano lo difícil que era llegar a fin de mes. Observé a mi madre lidiar con múltiples trabajos, a mi hermana luchar como madre adolescente y a mi propia familia navegar un sistema que a menudo parecía estar en nuestra contra. Estas experiencias moldearon mi comprensión de los desafíos que enfrentan las familias trabajadoras y me inculcaron una profunda empatía por aquellos que atraviesan las mismas luchas.
 
-This understanding is what drives me to fight for affordable housing, universal healthcare, and equitable education. It’s not just policy to me—it’s personal. I know the stakes because I’ve lived them.
+Este entendimiento es lo que me impulsa a luchar por vivienda asequible, atención médica universal y educación equitativa. Para mí, no es solo política; es personal. Conozco las apuestas porque las he vivido.
 
-## Lessons From My Career in Engineering
+## Lecciones de Mi Carrera en Ingeniería
 
-In my engineering career, I learned that solutions are only as good as the understanding behind them. Designing a system that works requires asking the right questions, listening to feedback, and addressing the root causes of the problem. It’s not enough to apply a quick fix—you need to create something sustainable, something that works for the people using it.
+En mi carrera de ingeniería, aprendí que las soluciones son tan buenas como el entendimiento que hay detrás de ellas. Diseñar un sistema que funcione requiere hacer las preguntas correctas, escuchar los comentarios y abordar las causas raíz del problema. No es suficiente aplicar una solución rápida; necesitas crear algo sostenible, algo que funcione para las personas que lo utilizan.
 
-This mindset has shaped my approach to leadership. Whether it’s tackling systemic inequality or improving access to public resources, I prioritize understanding the context, listening to those most affected, and building solutions that last.
+Esta mentalidad ha moldeado mi enfoque hacia el liderazgo. Ya sea abordando la desigualdad sistémica o mejorando el acceso a recursos públicos, priorizo entender el contexto, escuchar a quienes más se ven afectados y construir soluciones que perduren.
 
-## Leadership Through Listening
+## Liderazgo a Través de la Escucha
 
-One of the most important lessons I’ve learned is the power of listening. True leadership starts by hearing people’s stories—understanding their struggles, hopes, and needs. When you take the time to listen, you gain the insight needed to create meaningful change.
+Una de las lecciones más importantes que he aprendido es el poder de escuchar. El verdadero liderazgo comienza por escuchar las historias de las personas: entender sus luchas, esperanzas y necesidades. Cuando te tomas el tiempo para escuchar, obtienes la perspectiva necesaria para crear un cambio significativo.
 
-In my work, this means engaging directly with the people impacted by policies, holding open forums, and fostering an ongoing dialogue. Leadership isn’t about making decisions in isolation—it’s about working together to find the best path forward.
+En mi trabajo, esto significa involucrarse directamente con las personas afectadas por las políticas, celebrar foros abiertos y fomentar un diálogo continuo. El liderazgo no se trata de tomar decisiones en aislamiento; se trata de trabajar juntos para encontrar el mejor camino a seguir.
 
-## Addressing Real-World Struggles
+## Abordando las Luchas del Mundo Real
 
-Understanding isn’t just about listening—it’s about action. The insights gained through lived experience and community engagement must lead to solutions that address real-world struggles. This is why I focus on policies that tackle the root causes of inequality and create pathways for opportunity:
+El entendimiento no se trata solo de escuchar; se trata de la acción. Las ideas obtenidas a través de la experiencia vivida y el compromiso comunitario deben conducir a soluciones que aborden las luchas del mundo real. Por eso me enfoco en políticas que abordan las causas raíz de la desigualdad y crean caminos hacia la oportunidad:
 
-- **Affordable Housing**: Ensuring every family has a stable, safe place to call home.  
-- **Universal Healthcare**: Guaranteeing access to quality care for everyone, regardless of income.  
-- **Economic Equity**: Closing wage gaps, expanding job opportunities, and supporting working families.  
-- **Educational Access**: Providing resources that empower students and families to succeed.  
+- **Vivienda Asequible**: Asegurar que cada familia tenga un lugar estable y seguro al que llamar hogar.  
+- **Atención Médica Universal**: Garantizar acceso a atención de calidad para todos, sin importar sus ingresos.  
+- **Equidad Económica**: Cerrar brechas salariales, expandir oportunidades laborales y apoyar a las familias trabajadoras.  
+- **Acceso Educativo**: Proporcionar recursos que empoderen a estudiantes y familias para tener éxito.  
 
-Each of these solutions is informed by the experiences of the people they’re meant to serve.
+Cada una de estas soluciones está informada por las experiencias de las personas a las que están destinadas a servir.
 
-## Building Systems That Work for Everyone
+## Construyendo Sistemas que Funcionen para Todos
 
-My approach to leadership is grounded in the belief that systems should work for everyone, not just the privileged few. Too often, the people who design policies are disconnected from the realities of the people affected by them. My goal is to bridge that gap—to bring lived experience into the decision-making process and ensure that policies reflect the needs of real people.
+Mi enfoque hacia el liderazgo se basa en la creencia de que los sistemas deben funcionar para todos, no solo para unos pocos privilegiados. Demasiado a menudo, las personas que diseñan políticas están desconectadas de las realidades de quienes se ven afectados por ellas. Mi objetivo es cerrar esa brecha: llevar la experiencia vivida al proceso de toma de decisiones y asegurar que las políticas reflejen las necesidades de personas reales.
 
-Whether through my technical expertise or my advocacy, I’ve seen how understanding systems—and the people within them—can lead to better outcomes. It’s this blend of empathy, expertise, and action that defines my leadership.
+Ya sea a través de mi experiencia técnica o mi defensa, he visto cómo entender los sistemas—y a las personas dentro de ellos—puede conducir a mejores resultados. Es esta combinación de empatía, experiencia y acción lo que define mi liderazgo.
 
-## Why Understanding Matters
+## Por Qué el Entendimiento Importa
 
-Understanding is the foundation of effective leadership. Without it, policies fail to address the real needs of the people. But when leaders take the time to listen, to learn, and to act with purpose, they can create systems that uplift everyone.
+El entendimiento es la base del liderazgo efectivo. Sin él, las políticas no logran abordar las verdaderas necesidades de las personas. Pero cuando los líderes se toman el tiempo para escuchar, aprender y actuar con propósito, pueden crear sistemas que eleven a todos.
 
 ---
 
-**This is why I fight: to lead with understanding, to listen and learn from real experiences, and to create solutions that address the struggles of everyday people. Together, we can build a future where leadership reflects the needs of all.**
+**Por eso lucho: para liderar con entendimiento, para escuchar y aprender de experiencias reales, y para crear soluciones que aborden las luchas de las personas cotidianas. Juntos, podemos construir un futuro donde el liderazgo refleje las necesidades de todos.**

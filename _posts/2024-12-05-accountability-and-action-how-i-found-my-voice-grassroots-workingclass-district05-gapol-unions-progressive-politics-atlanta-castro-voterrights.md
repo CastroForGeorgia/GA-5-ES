@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Accountability and Action: How I Found My Voice"
-description: "Witnessing political inaction during moments of crisis showed me the importance of stepping up. I found my voice by learning to act decisively, speak up for others, and demand better from those in power—principles that drive me to this day."
+title: "Responsabilidad y Acción: Cómo Encontré Mi Voz"
+description: "Ser testigo de la inacción política en momentos de crisis me mostró la importancia de actuar. Encontré mi voz al aprender a actuar con decisión, al alzar la voz por otros y al exigir más de quienes están en el poder—principios que me impulsan hasta el día de hoy."
 date: 2024-12-05
 image: '/images/civil-rights-equality.webp'
 
@@ -9,48 +9,48 @@ redirect_from:
   - /2025-01-01-accountability-and-action/
 ---
 
-For much of my life, I believed that change came from trusting the systems in place—that the leaders we elect would take action when we needed it most. But time and time again, I witnessed political inaction during moments of crisis. I saw how decisions made—or not made—by those in power could devastate communities while leaving the most vulnerable to fend for themselves.
+Durante gran parte de mi vida, creí que el cambio venía de confiar en los sistemas establecidos—que los líderes que elegimos actuarían cuando más los necesitáramos. Pero una y otra vez, fui testigo de la inacción política en momentos de crisis. Vi cómo las decisiones tomadas—o no tomadas—por quienes están en el poder podían devastar comunidades, dejando a los más vulnerables a su suerte.
 
-Those moments of inaction lit a fire in me. They showed me the importance of stepping up, speaking out, and demanding better. They pushed me to find my voice—not just for myself, but for others who couldn’t speak up. That voice, and the principles it’s built on, drive me to this day.
+Esos momentos de inacción encendieron una llama en mí. Me mostraron la importancia de dar un paso al frente, de alzar la voz y de exigir más. Me impulsaron a encontrar mi voz—no solo por mí, sino por aquellos que no podían hablar. Esa voz, y los principios en los que se basa, me guían hasta el día de hoy.
 
-## Witnessing Inaction
+## Testigo de la Inacción
 
-I’ll never forget the helplessness I felt watching leaders fail to act during critical moments. Whether it was the 2008 financial crisis, where families like mine lost everything while corporations were bailed out, or the ongoing struggle for affordable housing and healthcare, the message was clear: the systems designed to protect us weren’t working.
+Nunca olvidaré la impotencia que sentí al ver a los líderes fallar en actuar durante momentos críticos. Ya fuera la crisis financiera de 2008, donde familias como la mía lo perdieron todo mientras las corporaciones eran rescatadas, o la lucha continua por vivienda y atención médica asequibles, el mensaje era claro: los sistemas diseñados para protegernos no estaban funcionando.
 
-The inaction wasn’t just frustrating—it was devastating. I saw families evicted from their homes, friends who couldn’t afford healthcare, and parents forced to choose between paying rent or putting food on the table. And while those in power debated endlessly, the people they were supposed to serve suffered in silence.
+La inacción no solo era frustrante—era devastadora. Vi familias desalojadas de sus hogares, amigos que no podían costear atención médica y padres obligados a elegir entre pagar la renta o poner comida en la mesa. Y mientras quienes estaban en el poder debatían sin cesar, las personas a las que debían servir sufrían en silencio.
 
-## Finding My Voice
+## Encontrando Mi Voz
 
-It was during these moments that I realized the importance of speaking up. Change doesn’t happen when we wait for others to act—it happens when we take action ourselves. I found my voice by learning to act decisively, to speak up for others, and to hold those in power accountable for their failures.
+Fue durante estos momentos que me di cuenta de la importancia de alzar la voz. El cambio no ocurre cuando esperamos que otros actúen—sucede cuando tomamos acción nosotros mismos. Encontré mi voz al aprender a actuar con decisión, a hablar por otros y a exigir que quienes están en el poder rindan cuentas por sus fracasos.
 
-Finding my voice wasn’t easy. Like many, I was hesitant at first—afraid of making waves or standing out. But I knew that staying silent wasn’t an option. If the systems we relied on weren’t working, then it was up to us to demand better. And that’s exactly what I did.
+Encontrar mi voz no fue fácil. Como muchos, al principio era reacia—temía causar revuelo o destacar. Pero sabía que quedarme en silencio no era una opción. Si los sistemas de los que dependíamos no estaban funcionando, entonces era nuestra responsabilidad exigir más. Y eso fue exactamente lo que hice.
 
-## Turning Accountability Into Action
+## Transformando la Responsabilidad en Acción
 
-Accountability means more than just pointing out what’s wrong—it means putting power into the hands of the people who experience those wrongs every day. My commitment to a people-centered campaign is about more than just policy—it’s about creating a movement where action comes directly from the voices of the community.
+La responsabilidad significa más que señalar lo que está mal—significa poner el poder en manos de las personas que experimentan esas injusticias todos los días. Mi compromiso con una campaña centrada en la gente va más allá de la política—se trata de crear un movimiento donde la acción provenga directamente de las voces de la comunidad.
 
-Here’s how I plan to turn accountability into action:
+Aquí está cómo planeo transformar la responsabilidad en acción:
 
-1. **Community-Led Solutions**: My campaign will prioritize listening to the people most affected by broken systems—working families, immigrants, small business owners, and those often overlooked. I will host regular town halls, workshops, and listening sessions to ensure policies are shaped by the needs of the community, not political insiders.
+1. **Soluciones Lideradas por la Comunidad**: Mi campaña priorizará escuchar a las personas más afectadas por los sistemas rotos—familias trabajadoras, inmigrantes, propietarios de pequeñas empresas y aquellos a menudo pasados por alto. Organizaré asambleas comunitarias, talleres y sesiones de escucha regularmente para asegurar que las políticas se formen a partir de las necesidades de la comunidad, no de los políticos de siempre.
 
-2. **Transparent and Inclusive Governance**: I believe in open government, where every resident has access to decision-making processes. From publishing spending reports to creating open feedback platforms, I’ll ensure that constituents have a direct line to hold me and our systems accountable.
+2. **Gobernanza Transparente e Inclusiva**: Creo en un gobierno abierto, donde cada residente tenga acceso a los procesos de toma de decisiones. Desde publicar informes de gastos hasta crear plataformas de retroalimentación abiertas, aseguraré que los constituyentes tengan una línea directa para hacerme responsable a mí y a nuestros sistemas.
 
-3. **Empowering Grassroots Movements**: Real change comes from the ground up. That’s why I’m committed to building coalitions of people who are ready to act—organizing for affordable housing, healthcare access, climate action, and more. My campaign isn’t just about what I can do—it’s about amplifying the power of collective action.
+3. **Empoderando Movimientos de Base**: El verdadero cambio proviene de la base. Por eso estoy comprometido a construir coaliciones de personas listas para actuar—organizando por vivienda asequible, acceso a atención médica, acción climática y más. Mi campaña no se trata solo de lo que puedo hacer—se trata de amplificar el poder de la acción colectiva.
 
-4. **Follow-Through with Results**: Accountability doesn’t stop with promises. It requires measurable results. I’ll set clear goals for every policy we push forward, regularly report on progress, and ensure that every step we take brings tangible benefits to the community.
+4. **Cumplimiento con Resultados**: La responsabilidad no se detiene con promesas. Requiere resultados medibles. Estableceré metas claras para cada política que impulsemos, informaré regularmente sobre el progreso y aseguraré que cada paso que demos traiga beneficios tangibles a la comunidad.
 
-## A People-Centered Campaign
+## Una Campaña Centrada en la Gente
 
-A people-centered campaign means recognizing that the power to create change doesn’t come from one person—it comes from all of us. It means building systems where leaders are directly accountable to the people they serve and where action is driven by collective effort.
+Una campaña centrada en la gente significa reconocer que el poder para crear cambio no proviene de una sola persona—proviene de todos nosotros. Significa construir sistemas donde los líderes sean directamente responsables ante las personas a las que sirven y donde la acción sea impulsada por el esfuerzo colectivo.
 
-This approach isn’t just about leadership—it’s about trust. It’s about showing people that their voices matter, that their struggles are seen, and that their ideas are the foundation of real progress.
+Este enfoque no se trata solo de liderazgo—se trata de confianza. Se trata de mostrar a las personas que sus voces importan, que sus luchas son vistas y que sus ideas son la base del verdadero progreso.
 
-## Why Accountability Matters
+## Por Qué la Responsabilidad Importa
 
-Accountability is the foundation of good leadership. It’s what ensures that the promises we make are the promises we keep. It’s what holds systems and people in power responsible for their actions—or their inactions. And it’s what drives meaningful change in a world that too often rewards complacency.
+La responsabilidad es la base de un buen liderazgo. Es lo que asegura que las promesas que hacemos sean las promesas que cumplimos. Es lo que mantiene a los sistemas y a las personas en el poder responsables de sus acciones—o de su inacción. Y es lo que impulsa un cambio significativo en un mundo que a menudo recompensa la complacencia.
 
-For me, accountability isn’t just a principle—it’s a responsibility. It’s a commitment to never turn away from a challenge, to never stay silent in the face of injustice, and to always fight for the people who need it most.
+Para mí, la responsabilidad no es solo un principio—es una responsabilidad. Es un compromiso de nunca apartar la mirada de un desafío, de nunca quedarme en silencio ante la injusticia y de siempre luchar por las personas que más lo necesitan.
 
 ---
 
-**This is why I fight: to hold power accountable, to empower communities to take action, and to build a future where leadership reflects the needs and voices of the people. Together, we can demand better—and create the change we deserve.**
+**Por eso lucho: para hacer que el poder rinda cuentas, para empoderar a las comunidades a actuar y para construir un futuro donde el liderazgo refleje las necesidades y voces de la gente. Juntos, podemos exigir más—y crear el cambio que merecemos.**

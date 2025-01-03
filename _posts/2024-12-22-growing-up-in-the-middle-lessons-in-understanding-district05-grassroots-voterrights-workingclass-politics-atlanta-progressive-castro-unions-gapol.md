@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Growing Up in the Middle: Lessons in Understanding"
-description: "I grew up navigating the space between cultures, identities, and ideologies. This experience taught me to listen, empathize, and build bridges. It’s this understanding that drives my belief in leadership that unites rather than divides."
+title: "Creciendo en el Medio: Lecciones en Comprensión"
+description: "Crecí navegando el espacio entre culturas, identidades e ideologías. Esta experiencia me enseñó a escuchar, empatizar y construir puentes. Es esta comprensión la que impulsa mi creencia en un liderazgo que une en lugar de dividir."
 date: 2024-12-22
 image: '/images/civil-rights-equality.webp'
 
@@ -9,42 +9,42 @@ redirect_from:
   - /2025-01-01-growing-up-in-the-middle/
 ---
 
-I’ve often felt like I grew up in the middle—between cultures, identities, and ideologies. My family’s roots in Mexico and my wife’s family that spans both feminists and conservative Trump-supporting members created a dynamic, often challenging environment.
+A menudo he sentido que crecí en el medio—entre culturas, identidades e ideologías. Las raíces de mi familia en México y la familia de mi esposa, que abarca tanto a feministas como a miembros conservadores que apoyan a Trump, crearon un entorno dinámico y, a menudo, desafiante.
 
-This wasn’t a childhood where everything fit neatly into boxes. It was one of constant negotiation, where I had to listen, empathize, and navigate opposing views with care. While this sometimes left me feeling like I didn’t fully belong anywhere, it also gave me a gift: the ability to see the world from many perspectives.
+No fue una infancia donde todo encajara perfectamente en cajas. Fue una de constante negociación, donde tuve que escuchar, empatizar y navegar con cuidado entre puntos de vista opuestos. Si bien esto a veces me dejaba sintiendo que no pertenecía completamente a ningún lugar, también me otorgó un regalo: la capacidad de ver el mundo desde muchas perspectivas.
 
-## Living Between Cultures
+## Viviendo Entre Culturas
 
-On one hand, my family’s Mexican heritage was a source of pride, tradition, and community. On the other, I grew up trying to balance this with the experience of living in America—a place that often treated immigrants as outsiders. I gained a deeper understanding of what it means to live on the margins, to fight for recognition, and to find resilience in struggle.
+Por un lado, la herencia mexicana de mi familia era una fuente de orgullo, tradición y comunidad. Por otro, crecí tratando de equilibrar esto con la experiencia de vivir en Estados Unidos—un lugar que a menudo trataba a los inmigrantes como forasteros. Gané una comprensión más profunda de lo que significa vivir en los márgenes, luchar por el reconocimiento y encontrar resiliencia en la lucha.
 
-Each of these layers shaped my worldview. They taught me that people’s experiences aren’t simple or singular—they’re shaped by culture, history, and circumstances that run deep.
+Cada una de estas capas moldeó mi visión del mundo. Me enseñaron que las experiencias de las personas no son simples ni singulares; están moldeadas por la cultura, la historia y circunstancias que son profundas.
 
-## Understanding Diverse Perspectives
+## Comprendiendo Perspectivas Diversas
 
-It wasn’t just cultural divides I had to navigate. My wife’s family added another dimension to my understanding of the world. On one side, there were her feminists relatives and her gay uncles, who taught me about fighting for justice and equality. On the other side were her conservative Trump-supporting family members, who voiced concerns about tradition and stability in a rapidly changing world.
+No solo tenía que navegar divisiones culturales. La familia de mi esposa añadió otra dimensión a mi comprensión del mundo. Por un lado, estaban sus familiares feministas y sus tíos homosexuales, quienes me enseñaron sobre la lucha por la justicia y la igualdad. Por el otro lado estaban sus familiares conservadores que apoyan a Trump, quienes expresaban preocupaciones sobre la tradición y la estabilidad en un mundo que cambia rápidamente.
 
-Instead of dismissing these perspectives, I learned to listen. I didn’t always agree, but I tried to understand where they were coming from. I saw their fears, their frustrations, and—most importantly—their humanity.
+En lugar de desestimar estas perspectivas, aprendí a escuchar. No siempre estaba de acuerdo, pero intenté entender de dónde venían. Vi sus miedos, sus frustraciones y—lo más importante—su humanidad.
 
-This practice of listening and empathizing didn’t just help me survive family dinners; it shaped how I approach leadership. I’ve come to believe that the best solutions come from bringing people together, not pushing them apart. It’s about finding common ground without compromising on justice and equity.
+Esta práctica de escuchar y empatizar no solo me ayudó a sobrevivir las cenas familiares; moldeó cómo abordo el liderazgo. He llegado a creer que las mejores soluciones provienen de unir a las personas, no de separarlas. Se trata de encontrar un terreno común sin comprometer la justicia y la equidad.
 
-## Leadership That Unites
+## Liderazgo Que Une
 
-Growing up in the middle taught me that unity doesn’t mean uniformity. It means recognizing our shared humanity while respecting our differences. It means creating spaces where every voice is heard, even when those voices don’t agree.
+Crecí en el medio me enseñó que la unidad no significa uniformidad. Significa reconocer nuestra humanidad compartida mientras se respetan nuestras diferencias. Significa crear espacios donde cada voz sea escuchada, incluso cuando esas voces no estén de acuerdo.
 
-In a world that often feels divided—by race, by class, by ideology—this perspective is more important than ever. It’s what drives my belief in leadership that prioritizes understanding over blame, dialogue over division, and collaboration over conflict.
+En un mundo que a menudo se siente dividido—por raza, por clase, por ideología—esta perspectiva es más importante que nunca. Es lo que impulsa mi creencia en un liderazgo que prioriza la comprensión sobre la culpa, el diálogo sobre la división y la colaboración sobre el conflicto.
 
-## Building Bridges, Not Walls
+## Construyendo Puentes, No Muros
 
-When I look at the challenges we face as a country—economic inequality, systemic racism, climate change—I see problems that can’t be solved by one group alone. They require all of us to come together, to share our experiences, and to build solutions that work for everyone.
+Cuando miro los desafíos que enfrentamos como país—la desigualdad económica, el racismo sistémico, el cambio climático—veo problemas que no pueden ser resueltos por un solo grupo. Requieren que todos nos unamos, compartamos nuestras experiencias y construyamos soluciones que funcionen para todos.
 
-This isn’t easy work. It means sitting in the discomfort of disagreement, hearing out perspectives you might not like, and finding a path forward together. But it’s the only way we’ll build a future where everyone has a place.
+Este no es un trabajo fácil. Significa sentarse en la incomodidad del desacuerdo, escuchar perspectivas que quizás no te gusten y encontrar un camino hacia adelante juntos. Pero es la única manera en que construiremos un futuro donde todos tengan un lugar.
 
-## Why This Matters
+## Por Qué Esto Importa
 
-My experience of growing up in the middle isn’t unique. Millions of people navigate spaces where cultures, identities, and ideologies collide. What I’ve learned from these experiences is that our differences don’t have to divide us—they can make us stronger. 
+Mi experiencia de crecer en el medio no es única. Millones de personas navegan espacios donde las culturas, identidades e ideologías chocan. Lo que he aprendido de estas experiencias es que nuestras diferencias no tienen que dividirnos—pueden hacernos más fuertes.
 
-Leadership isn’t about picking sides. It’s about building bridges. It’s about creating a world where everyone feels seen, heard, and valued. That’s the kind of leadership I believe in, and that’s the kind of leadership I’m committed to bringing to our community and our country.
+El liderazgo no se trata de elegir lados. Se trata de construir puentes. Se trata de crear un mundo donde todos se sientan vistos, escuchados y valorados. Ese es el tipo de liderazgo en el que creo, y ese es el tipo de liderazgo que estoy comprometido a traer a nuestra comunidad y a nuestro país.
 
 ---
 
-**Together, we can create a future that values understanding, empathy, and unity. Let’s build bridges—not walls.**
+**Juntos, podemos crear un futuro que valore la comprensión, la empatía y la unidad. Construyamos puentes—no muros.**

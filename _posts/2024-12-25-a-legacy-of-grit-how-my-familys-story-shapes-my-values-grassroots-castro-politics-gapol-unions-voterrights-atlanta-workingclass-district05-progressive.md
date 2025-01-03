@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Legacy of Grit: How My Family’s Story Shapes My Values"
-description: "My family’s Grit in the face of adversity taught me to never back down from a challenge. It’s this legacy that drives my commitment to fighting for justice, equity, and opportunity for all."
+title: "Un Legado de Tenacidad: Cómo la Historia de Mi Familia Moldea Mis Valores"
+description: "La tenacidad de mi familia frente a la adversidad me enseñó a nunca rendirme ante un desafío. Es este legado el que impulsa mi compromiso de luchar por la justicia, la equidad y las oportunidades para todos."
 date: 2024-12-25
 image: '/images/immigration-policy-header.webp'
 
@@ -9,49 +9,49 @@ redirect_from:
   - /2025-01-01-legacy-of-grit/
 ---
 
-Grit isn’t something you’re born with—it’s something you learn through experience, through struggle, and through the examples of the people who come before you. For me, that example was my family. Their grit in the face of adversity shaped not only who I am but also the values I carry with me every day. 
+La tenacidad no es algo con lo que naces; es algo que aprendes a través de la experiencia, la lucha y los ejemplos de las personas que te preceden. Para mí, ese ejemplo fue mi familia. Su tenacidad frente a la adversidad no solo moldeó quién soy, sino también los valores que llevo conmigo cada día.
 
-Their Grit taught me to never back down from a challenge and to always fight for what’s right, no matter how steep the climb. It’s this legacy that drives my commitment to fighting for justice, equity, and opportunity for all.
+Su tenacidad me enseñó a nunca rendirme ante un desafío y a luchar siempre por lo que es correcto, sin importar cuán empinada sea la subida. Es este legado el que impulsa mi compromiso de luchar por la justicia, la equidad y las oportunidades para todos.
 
-## Lessons of Grit From My Mother
+## Lecciones de Tenacidad de Mi Madre
 
-My mother’s story is the cornerstone of my family’s legacy of grit. As an immigrant, she worked tirelessly to build a better life for her children. Balancing multiple jobs, navigating a system that wasn’t built for people like her, and sacrificing so much along the way, she showed me the power of determination.
+La historia de mi madre es la piedra angular del legado de tenacidad de mi familia. Como inmigrante, trabajó incansablemente para construir una vida mejor para sus hijos. Equilibrando múltiples trabajos, navegando un sistema que no estaba diseñado para personas como ella y sacrificando tanto en el camino, me mostró el poder de la determinación.
 
-Her journey to citizenship through the Reagan-era Amnesty program wasn’t just a milestone for her—it was a turning point for our family. It gave us stability, opportunity, and the chance to dream bigger. Her strength in the face of struggle taught me the value of perseverance and the importance of creating systems that offer everyone a fair shot.
+Su camino hacia la ciudadanía a través del programa de amnistía de la era Reagan no fue solo un hito para ella; fue un punto de inflexión para nuestra familia. Nos brindó estabilidad, oportunidades y la posibilidad de soñar en grande. Su fortaleza frente a la lucha me enseñó el valor de la perseverancia y la importancia de crear sistemas que ofrezcan a todos una oportunidad justa.
 
-## Watching My Sister’s Struggle
+## Observando la Lucha de Mi Hermana
 
-Another profound influence on my understanding of Grit came from watching my sister navigate life as a teen mom. At just 17, she faced challenges that could have overwhelmed anyone. Balancing school, work, and raising my niece, she showed me what it means to rise to the occasion, even when the odds are stacked against you.
+Otra influencia profunda en mi comprensión de la tenacidad provino de observar a mi hermana navegar la vida como madre adolescente. A solo 17 años, enfrentó desafíos que podrían haber abrumado a cualquiera. Equilibrando la escuela, el trabajo y criando a mi sobrina, me mostró lo que significa levantarse ante la adversidad, incluso cuando las probabilidades están en tu contra.
 
-Her experience also opened my eyes to the systemic barriers young mothers face—the lack of affordable childcare, limited access to education, and the judgment from a society that too often offers criticism instead of support. Her Grit inspired me to fight for policies that uplift families and ensure that no one has to face these challenges alone.
+Su experiencia también me abrió los ojos a las barreras sistémicas que enfrentan las jóvenes madres: la falta de guarderías asequibles, el acceso limitado a la educación y el juicio de una sociedad que a menudo ofrece críticas en lugar de apoyo. Su tenacidad me inspiró a luchar por políticas que eleven a las familias y aseguren que nadie tenga que enfrentar estos desafíos solo.
 
-## The Grit of Everyday People
+## La Tenacidad de la Gente Común
 
-What I’ve learned from my family’s story is that grit isn’t unique to us—it’s a quality shared by millions of families across this country. It’s the single mother working overtime to provide for her kids. It’s the immigrant striving for a better future despite countless obstacles. It’s the student juggling work and school to create a path forward.
+Lo que he aprendido de la historia de mi familia es que la tenacidad no es exclusiva de nosotros; es una cualidad compartida por millones de familias en este país. Es la madre soltera que trabaja horas extras para mantener a sus hijos. Es el inmigrante que lucha por un futuro mejor a pesar de innumerables obstáculos. Es el estudiante que equilibra trabajo y escuela para crear un camino hacia adelante.
 
-This grit is what drives our communities, but it’s not enough on its own. People shouldn’t have to rely solely on Grit to get by. That’s why I’m committed to building systems that don’t just reward grit but actively support it—systems that provide opportunity, stability, and fairness for everyone.
+Esta tenacidad es lo que impulsa a nuestras comunidades, pero no es suficiente por sí sola. La gente no debería tener que depender únicamente de la tenacidad para salir adelante. Por eso estoy comprometido a construir sistemas que no solo recompensen la tenacidad, sino que la apoyen activamente: sistemas que proporcionen oportunidades, estabilidad y equidad para todos.
 
-## Fighting for Justice and Equity
+## Luchando por la Justicia y la Equidad
 
-My family’s legacy of grit is the foundation of my commitment to justice and equity. It’s why I fight for:
+El legado de tenacidad de mi familia es la base de mi compromiso con la justicia y la equidad. Es por eso que lucho por:
 
-- **Affordable Housing**: Ensuring every family has a safe and stable place to call home.  
-- **Universal Healthcare**: Guaranteeing access to quality care for everyone, regardless of income.  
-- **Equitable Education**: Providing resources and opportunities that empower all students, no matter their background.  
-- **Economic Justice**: Closing wage gaps, creating fair job opportunities, and supporting working families.  
+- **Vivienda Asequible**: Asegurar que cada familia tenga un lugar seguro y estable al que llamar hogar.  
+- **Salud Universal**: Garantizar el acceso a atención de calidad para todos, sin importar sus ingresos.  
+- **Educación Equitativa**: Proporcionar recursos y oportunidades que empoderen a todos los estudiantes, sin importar su origen.  
+- **Justicia Económica**: Cerrar las brechas salariales, crear oportunidades laborales justas y apoyar a las familias trabajadoras.  
 
-These policies aren’t just abstract goals—they’re solutions rooted in the struggles I’ve seen and the values I hold dear.
+Estas políticas no son solo metas abstractas; son soluciones arraigadas en las luchas que he visto y los valores que atesoro.
 
-## A Legacy That Drives Action
+## Un Legado que Impulsa la Acción
 
-The grit my family showed in overcoming adversity isn’t just a source of pride—it’s a call to action. It reminds me that while Grit is admirable, it shouldn’t be a requirement for survival. Everyone deserves a fair chance, and it’s the responsibility of leaders to create the systems that make that possible.
+La tenacidad que mostró mi familia al superar la adversidad no es solo una fuente de orgullo; es un llamado a la acción. Me recuerda que, aunque la tenacidad es admirable, no debería ser un requisito para la supervivencia. Todos merecen una oportunidad justa, y es responsabilidad de los líderes crear los sistemas que lo hagan posible.
 
-My leadership is built on this legacy: a deep understanding of the struggles families face, a commitment to addressing systemic barriers, and a determination to fight for justice and equity every step of the way.
+Mi liderazgo se basa en este legado: una profunda comprensión de las luchas que enfrentan las familias, un compromiso para abordar las barreras sistémicas y una determinación para luchar por la justicia y la equidad en cada paso del camino.
 
-## Why It Matters
+## Por Qué Es Importante
 
-Grit is what gets us through hard times, but it shouldn’t be the only thing people can rely on. My family’s story is proof of what’s possible when Grit meets opportunity. It’s a reminder of the power of determination, but also of the need for leaders who fight to make opportunity accessible to everyone.
+La tenacidad es lo que nos ayuda a superar tiempos difíciles, pero no debería ser lo único de lo que la gente pueda depender. La historia de mi familia es prueba de lo que es posible cuando la tenacidad se encuentra con la oportunidad. Es un recordatorio del poder de la determinación, pero también de la necesidad de líderes que luchan para hacer que las oportunidades sean accesibles para todos.
 
 ---
 
-**This is why I fight: to honor the legacy of grit that shaped me, to create systems that uplift every family, and to ensure that justice, equity, and opportunity are within reach for all. Together, we can build a future that reflects the strength of our shared Grit.**
+**Por eso lucho: para honrar el legado de tenacidad que me formó, para crear sistemas que eleven a cada familia y para asegurar que la justicia, la equidad y las oportunidades estén al alcance de todos. Juntos, podemos construir un futuro que refleje la fuerza de nuestra tenacidad compartida.**

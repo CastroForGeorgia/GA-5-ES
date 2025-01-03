@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why 'We Are Family' Defines My Campaign"
-description: "Whether you’re a working parent, a veteran, an immigrant, or someone just trying to make ends meet, I believe we’re all connected. My campaign is built on the belief that we must uplift one another like family—because that’s how we create real change."
+title: "Por qué 'Somos Familia' Define Mi Campaña"
+description: "Ya seas un padre o madre trabajadora, un veterano, un inmigrante o alguien que solo intenta llegar a fin de mes, creo que todos estamos conectados. Mi campaña se basa en la creencia de que debemos apoyarnos mutuamente como familia, porque así es como creamos un cambio real."
 date: 2024-12-17
 image: '/images/housing-policy-header.webp'
 
@@ -9,42 +9,42 @@ redirect_from:
   - /2025-01-01-we-are-family-campaign/
 ---
 
-When I think about the challenges we face as a community, one thing becomes clear: we can’t tackle them alone. Whether it’s the struggle to find affordable housing, access healthcare, or make ends meet, these challenges affect us all. And just like in a family, the only way to overcome them is by looking out for one another, lifting each other up, and fighting for a better future together.
+Cuando pienso en los desafíos que enfrentamos como comunidad, una cosa queda clara: no podemos enfrentarlos solos. Ya sea la lucha por encontrar vivienda asequible, acceder a atención médica o llegar a fin de mes, estos desafíos nos afectan a todos. Y al igual que en una familia, la única manera de superarlos es cuidándonos unos a otros, levantándonos mutuamente y luchando juntos por un futuro mejor.
 
-That’s why “We Are Family” is more than just a campaign slogan—it’s the foundation of everything I stand for. It’s the belief that our differences don’t divide us; they make us stronger. It’s the commitment to building a community where everyone has a place, where no one is left behind, and where we rise together.
+Por eso “Somos Familia” es más que un eslogan de campaña: es la base de todo lo que defiendo. Es la creencia de que nuestras diferencias no nos dividen; nos hacen más fuertes. Es el compromiso de construir una comunidad donde todos tengan un lugar, donde nadie se quede atrás y donde todos avancemos juntos.
 
-## The Power of Connection
+## El Poder de la Conexión
 
-Growing up, I learned the importance of family in all its forms. My own family was a mix of cultures, identities, and perspectives—immigrants, veterans, working parents, and queer relatives who taught me the value of acceptance and resilience. I’ve seen the strength that comes from coming together, even when times are hard.
+Creciendo, aprendí la importancia de la familia en todas sus formas. Mi propia familia era una mezcla de culturas, identidades y perspectivas: inmigrantes, veteranos, padres trabajadores y familiares queer que me enseñaron el valor de la aceptación y la resiliencia. He visto la fuerza que proviene de unirnos, incluso cuando los tiempos son difíciles.
 
-I also learned that family isn’t just about blood. It’s about the people who stand by you, who support you, and who fight for you. That’s the spirit I want to bring to this campaign: a sense of connection that reminds us we’re all in this together.
+También aprendí que la familia no se trata solo de la sangre. Se trata de las personas que están a tu lado, que te apoyan y que luchan por ti. Ese es el espíritu que quiero traer a esta campaña: un sentido de conexión que nos recuerde que estamos todos en esto juntos.
 
-## Who We Fight For
+## Por Quién Luchamos
 
-When I say, “We Are Family,” I’m talking about all of us:
+Cuando digo “Somos Familia”, hablo de todos nosotros:
 
-- **If you’re a working parent trying to provide for your children**—we are family.
-- **If you’re a veteran who’s sacrificed for this country**—we are family.
-- **If you’re an immigrant chasing the promise of a better life**—we are family.
-- **If you’re struggling with healthcare costs or fighting for your reproductive rights**—we are family.
-- **If you’re an LGBTQ+ individual demanding equality**—we are family.
-- **If you’re a teacher, a nurse, or a service worker keeping our communities strong**—we are family.
-- **If you’re just trying to make ends meet**—we are family.
+- **Si eres un padre o madre trabajadora tratando de proveer para tus hijos**—somos familia.
+- **Si eres un veterano que ha sacrificado por este país**—somos familia.
+- **Si eres un inmigrante persiguiendo la promesa de una vida mejor**—somos familia.
+- **Si estás luchando con los costos de atención médica o defendiendo tus derechos reproductivos**—somos familia.
+- **Si eres una persona LGBTQ+ exigiendo igualdad**—somos familia.
+- **Si eres un maestro, una enfermera o un trabajador de servicios que mantiene nuestras comunidades fuertes**—somos familia.
+- **Si solo estás tratando de llegar a fin de mes**—somos familia.
 
-No matter your background, your struggles, or your dreams, we are connected. And when we embrace that connection, we can achieve real change.
+No importa tu origen, tus luchas o tus sueños, estamos conectados. Y cuando abrazamos esa conexión, podemos lograr un cambio real.
 
-## A Campaign Rooted in Solidarity
+## Una Campaña Fundamentada en la Solidaridad
 
-The challenges we face—rising inequality, unaffordable housing, systemic injustice—require bold solutions. But bold solutions don’t happen in isolation. They happen when we come together, when we share our stories, and when we fight for one another like family.
+Los desafíos que enfrentamos—la creciente desigualdad, la vivienda inasequible, la injusticia sistémica—requieren soluciones audaces. Pero las soluciones audaces no ocurren en aislamiento. Ocurren cuando nos unimos, cuando compartimos nuestras historias y cuando luchamos unos por otros como familia.
 
-This campaign is built on solidarity. It’s about listening to your needs, amplifying your voices, and creating policies that uplift everyone—not just the wealthy or powerful. It’s about recognizing that when one of us struggles, we all do, and when one of us succeeds, we all benefit.
+Esta campaña se basa en la solidaridad. Se trata de escuchar tus necesidades, amplificar tus voces y crear políticas que eleven a todos, no solo a los ricos o poderosos. Se trata de reconocer que cuando uno de nosotros lucha, todos lo hacemos, y cuando uno de nosotros tiene éxito, todos nos beneficiamos.
 
-## Uplifting Each Other, Building Together
+## Elevándonos unos a otros, Construyendo Juntos
 
-The idea of family reminds us of our responsibility to each other. It’s about lifting up those who’ve been left behind, empowering those who’ve been silenced, and building systems that work for all of us. Whether it’s fighting for universal healthcare, affordable housing, or economic justice, every step we take together brings us closer to a brighter future.
+La idea de familia nos recuerda nuestra responsabilidad hacia los demás. Se trata de levantar a aquellos que han sido dejados atrás, empoderar a quienes han sido silenciados y construir sistemas que funcionen para todos nosotros. Ya sea luchando por atención médica universal, vivienda asequible o justicia económica, cada paso que damos juntos nos acerca a un futuro más brillante.
 
-“We Are Family” isn’t just a slogan—it’s a call to action. It’s a reminder that we’re stronger when we stand together, that our shared humanity is more powerful than our differences, and that the future we want is one we must build as one.
+“Somos Familia” no es solo un eslogan—es un llamado a la acción. Es un recordatorio de que somos más fuertes cuando estamos juntos, que nuestra humanidad compartida es más poderosa que nuestras diferencias, y que el futuro que queremos es uno que debemos construir como uno solo.
 
 ---
 
-**This is why I’m running: to fight for all of us, to stand by you like family, and to build a future where no one is left behind. Let’s create real change—together.**
+**Por eso estoy en esta carrera: para luchar por todos nosotros, para estar a tu lado como familia y para construir un futuro donde nadie se quede atrás. Creamos un cambio real—juntos.**

@@ -1,148 +1,148 @@
 ---
-title: "Artificial General Intelligence (AGI)"
-description: "Ensuring AI and automation empower workers, protect jobs, and promote ethical, people-first development in Georgia's 5th Congressional District."
-date: 2024-12-09 00:00:00 +0000
-label: "Policy"
-image: "/images/agi-header.webp"
-keywords: [AI Policy, Artificial General Intelligence, Worker Protections, Job Security, Ethical AI Development, Automation Impact, Georgia 5th Congressional District, Reskilling Programs, Human-Centric Technology, Economic Democracy, Social Safety Nets]
+título: "Inteligencia Artificial General (IAG)"
+descripción: "Asegurando que la IA y la automatización empoderen a los trabajadores, protejan empleos y promuevan un desarrollo ético y centrado en las personas en el 5to Distrito Congressional de Georgia."
+fecha: 2024-12-09 00:00:00 +0000
+etiqueta: "Política"
+imagen: "/images/agi-header.webp"
+palabras clave: [Política de IA, Inteligencia Artificial General, Protección de Trabajadores, Seguridad Laboral, Desarrollo Ético de IA, Impacto de la Automatización, 5to Distrito Congressional de Georgia, Programas de Recapacitación, Tecnología Centrada en el Humano, Democracia Económica, Redes de Seguridad Social]
 ---
 
-# Artificial Intelligence: Technology That Works for Workers
+# Inteligencia Artificial: Tecnología que Trabaja para los Trabajadores
 
-## Overview
+## Resumen
 
-The rise of **Artificial Intelligence (AI)** and **automation** represents one of the most significant economic shifts of our generation. But technology should **serve people, not replace them**. In **Georgia’s 5th Congressional District**, we are committed to a future where AI and robotics **enhance human potential**, protect jobs, and promote economic opportunity.  
+El auge de la **Inteligencia Artificial (IA)** y la **automatización** representa uno de los cambios económicos más significativos de nuestra generación. Pero la tecnología debe **servir a las personas, no reemplazarlas**. En el **5to Distrito Congressional de Georgia**, estamos comprometidos con un futuro donde la IA y la robótica **mejoren el potencial humano**, protejan empleos y promuevan oportunidades económicas.
 
-This policy ensures that AI works for workers—**empowering communities, improving safety**, and creating pathways for shared prosperity without leaving anyone behind.
-
----
-
-## **Our Key Goals**
-
-### 🛠️ **1. Protect Workers Through Human-Centric Technology**  
-- **Exoskeletons and Assistive Tools**:  
-  Invest in wearable technologies that enhance workers’ safety and productivity, especially in industries like manufacturing and construction. These tools **reduce physical strain** and prevent injuries while keeping jobs secure.  
-
-- **No Job Replacement Without Enhancement**:  
-  Pass legislation requiring AI to **enhance workers’ abilities**—not replace them—before companies can deploy automation systems.  
+Esta política asegura que la IA trabaje para los trabajadores—**empoderando comunidades, mejorando la seguridad**, y creando caminos hacia la prosperidad compartida sin dejar a nadie atrás.
 
 ---
 
-### 📋 **2. Job Security and Worker Voice in Automation**  
-- **Automation Impact Assessments**:  
-  Require companies to conduct **public impact assessments** before automating jobs, outlining how they will protect workers or retrain displaced employees.  
+## **Nuestros Objetivos Clave**
 
-- **Worker Representation**:  
-  Establish **worker committees** to oversee AI deployment in workplaces, ensuring employees have a voice in decisions that affect their jobs.  
+### 🛠️ **1. Proteger a los Trabajadores a Través de Tecnología Centrada en el Humano**  
+- **Exoesqueletos y Herramientas Asistivas**:  
+  Invertir en tecnologías portátiles que mejoren la seguridad y productividad de los trabajadores, especialmente en industrias como la manufactura y la construcción. Estas herramientas **reducen la carga física** y previenen lesiones mientras mantienen seguros los empleos.
 
-- **Pro-Worker AI Standards**:  
-  Ban AI systems from independently making decisions about hiring, firing, or wages without **direct human oversight**.
-
----
-
-### 📚 **3. Reskilling and Education for the Future**  
-- **Free Reskilling Programs**:  
-  Launch free or low-cost programs to teach workers skills in AI maintenance, robotics programming, and other future-ready fields.  
-
-- **Community Tech Hubs**:  
-  Establish **local tech hubs** where residents can learn new skills, collaborate on projects, and explore entrepreneurship opportunities.  
-
-- **Equity in Access**:  
-  Ensure immigrant, low-income, and marginalized workers have access to reskilling programs with support in **multiple languages and flexible formats**.
+- **Sin Reemplazo de Empleo Sin Mejora**:  
+  Aprobar legislación que requiera que la IA **mejore las habilidades de los trabajadores**—no que los reemplace—antes de que las empresas puedan implementar sistemas de automatización.
 
 ---
 
-### 🛡️ **4. Strengthen Social Safety Nets**  
-- **Unemployment Support and Retraining**:  
-  Expand unemployment benefits to include stipends for retraining programs and longer coverage for workers displaced by AI adoption.  
+### 📋 **2. Seguridad Laboral y Voz de los Trabajadores en la Automatización**  
+- **Evaluaciones de Impacto de la Automatización**:  
+  Requerir a las empresas que realicen **evaluaciones de impacto público** antes de automatizar empleos, describiendo cómo protegerán a los trabajadores o reentrenarán a los empleados desplazados.
 
-- **Universal Basic Income (UBI) Pilot Programs**:  
-  Explore UBI as a safety net for families navigating transitions caused by automation and economic disruption.  
+- **Representación de los Trabajadores**:  
+  Establecer **comités de trabajadores** para supervisar la implementación de la IA en los lugares de trabajo, asegurando que los empleados tengan voz en decisiones que afectan sus empleos.
 
-- **Healthcare and Mental Health Support**:  
-  Guarantee access to affordable healthcare and mental health services for workers affected by technological displacement.
-
----
-
-### 💡 **5. Promote Economic Democracy**  
-- **Worker Ownership of AI Companies**:  
-  Incentivize the creation of **employee-owned businesses** in AI and robotics industries to give workers a stake in technological advancements and profits.  
-
-- **Support Local Innovation**:  
-  Provide grants, loans, and mentorship to help workers and small businesses build **AI-driven startups** that create jobs and serve the community.  
+- **Estándares de IA Pro-Trabajador**:  
+  Prohibir que los sistemas de IA tomen decisiones de manera independiente sobre contrataciones, despidos o salarios sin **supervisión humana directa**.
 
 ---
 
-### 🧭 **6. Ethical AI Development and Oversight**  
-- **Ethics Before Automation**:  
-  Require companies to conduct **impact assessments** to evaluate how AI systems affect workers, communities, and privacy before deployment.  
+### 📚 **3. Recapacitación y Educación para el Futuro**  
+- **Programas de Recapacitación Gratuitos**:  
+  Lanzar programas gratuitos o de bajo costo para enseñar a los trabajadores habilidades en mantenimiento de IA, programación de robótica y otros campos preparados para el futuro.
 
-- **Transparency and Accountability**:  
-  Mandate that AI systems are transparent, with clear documentation on decision-making processes.  
+- **Centros Tecnológicos Comunitarios**:  
+  Establecer **centros tecnológicos locales** donde los residentes puedan aprender nuevas habilidades, colaborar en proyectos y explorar oportunidades de emprendimiento.
 
-- **Community Oversight**:  
-  Establish citizen-led boards to provide input and oversight on how AI is integrated into public and private sectors, ensuring public accountability.  
-
----
-
-## **Action Plan**
-
-✅ **1. Legislative Leadership**  
-- Introduce laws requiring AI systems to prioritize worker safety, enhance human roles, and undergo community impact reviews.  
-- Collaborate with labor unions and industry experts to establish **ethical AI standards** that protect jobs and communities.  
-
-✅ **2. Workforce and Education Investment**  
-- Fund **free reskilling programs** and community tech hubs to ensure workers can adapt to AI-driven industries.  
-- Partner with local schools, colleges, and unions to deliver flexible, future-focused training programs.  
-
-✅ **3. Expand Social Safety Nets**  
-- Strengthen unemployment benefits and provide retraining stipends for displaced workers.  
-- Pilot **UBI programs** to ensure financial stability during economic transitions caused by automation.  
-
-✅ **4. Create Opportunities for Local Innovation**  
-- Offer grants, low-interest loans, and mentorship to small businesses and startups using AI to create **good-paying local jobs**.  
-- Incentivize worker-owned AI companies to ensure employees benefit directly from technological progress.  
-
-✅ **5. Ethical and Transparent Development**  
-- Implement mandatory **impact assessments** and require companies to disclose the societal effects of AI systems.  
-- Establish public, citizen-led boards to oversee ethical AI deployment in both public and private sectors.  
+- **Equidad en el Acceso**:  
+  Asegurar que los trabajadores inmigrantes, de bajos ingresos y marginados tengan acceso a programas de recapacitación con apoyo en **múltiples idiomas y formatos flexibles**.
 
 ---
 
-## **Why This Matters**
+### 🛡️ **4. Fortalecer las Redes de Seguridad Social**  
+- **Apoyo por Desempleo y Recapacitación**:  
+  Ampliar los beneficios por desempleo para incluir estipendios para programas de recapacitación y una cobertura más prolongada para los trabajadores desplazados por la adopción de la IA.
 
-### ✅ **Protecting Jobs**  
-We must ensure technology **enhances human labor**, creating safer, more productive workplaces without eliminating livelihoods.
+- **Programas Piloto de Ingreso Básico Universal (IBU)**:  
+  Explorar el IBU como una red de seguridad para las familias que navegan transiciones causadas por la automatización y la disrupción económica.
 
-### 📈 **Economic Opportunity**  
-By investing in reskilling, innovation, and entrepreneurship, we will prepare workers for high-demand jobs in AI-driven industries.  
-
-### 🌍 **Ethical Development**  
-AI must be developed transparently and responsibly, prioritizing people’s well-being over profits.  
-
-### 🛡️ **Support for Workers**  
-A robust safety net, mental health support, and pathways to ownership will ensure workers and families thrive during this transition.
+- **Apoyo en Salud y Salud Mental**:  
+  Garantizar acceso a atención médica asequible y servicios de salud mental para los trabajadores afectados por el desplazamiento tecnológico.
 
 ---
 
-## **Our Commitment to Georgia’s 5th District**
+### 💡 **5. Promover la Democracia Económica**  
+- **Propiedad de los Trabajadores en Empresas de IA**:  
+  Incentivar la creación de **empresas de propiedad de empleados** en las industrias de IA y robótica para dar a los trabajadores una participación en los avances tecnológicos y las ganancias.
 
-The future of work doesn’t have to mean uncertainty. By ensuring AI and automation are deployed **responsibly**, we can protect workers, strengthen our communities, and create opportunities for shared prosperity.  
-
-Technology must **work for us, not replace us**—and with bold, people-first policies, we will lead the way in building a fair and inclusive future.
-
----
-
-## Conclusion: A Future That Works for Everyone  
-
-We stand at a turning point. The rise of AI and automation can either widen inequality or create pathways to empowerment and progress. With policies that put **workers first**, invest in reskilling, and enforce ethical development, we can ensure that **no one is left behind** in the technological revolution.  
-
-**Together, we will build a future where technology works for all of us—not just a privileged few.**
+- **Apoyar la Innovación Local**:  
+  Proporcionar subvenciones, préstamos y mentoría para ayudar a los trabajadores y pequeñas empresas a construir **startups impulsadas por IA** que creen empleos y sirvan a la comunidad.
 
 ---
 
-### **Join Us in Shaping a People-First AI Future**
+### 🧭 **6. Desarrollo y Supervisión Ética de la IA**  
+- **Ética Antes de la Automatización**:  
+  Requerir que las empresas realicen **evaluaciones de impacto** para evaluar cómo los sistemas de IA afectan a los trabajadores, comunidades y la privacidad antes de su implementación.
 
-Stand with us as we fight for policies that protect workers, promote innovation, and ensure AI serves humanity.  
+- **Transparencia y Responsabilidad**:  
+  Mandatar que los sistemas de IA sean transparentes, con documentación clara sobre los procesos de toma de decisiones.
 
-**#TechForWorkers #HumanFirstAI #JobSecurity #AIForAll #Georgia5thDistrict**
+- **Supervisión Comunitaria**:  
+  Establecer juntas lideradas por ciudadanos para proporcionar aportes y supervisión sobre cómo se integra la IA en los sectores público y privado, asegurando la responsabilidad pública.
+
+---
+
+## **Plan de Acción**
+
+✅ **1. Liderazgo Legislativo**  
+- Introducir leyes que requieran que los sistemas de IA prioricen la seguridad de los trabajadores, mejoren los roles humanos y se sometan a revisiones de impacto comunitario.  
+- Colaborar con sindicatos y expertos de la industria para establecer **estándares éticos de IA** que protejan empleos y comunidades.
+
+✅ **2. Inversión en Fuerza Laboral y Educación**  
+- Financiar **programas gratuitos de recapacitación** y centros tecnológicos comunitarios para asegurar que los trabajadores puedan adaptarse a las industrias impulsadas por la IA.  
+- Asociarse con escuelas locales, colegios y sindicatos para ofrecer programas de capacitación flexibles y enfocados en el futuro.
+
+✅ **3. Ampliar las Redes de Seguridad Social**  
+- Fortalecer los beneficios por desempleo y proporcionar estipendios de recapacitación para trabajadores desplazados.  
+- Probar **programas de IBU** para asegurar estabilidad financiera durante transiciones económicas causadas por la automatización.
+
+✅ **4. Crear Oportunidades para la Innovación Local**  
+- Ofrecer subvenciones, préstamos a bajo interés y mentoría a pequeñas empresas y startups que utilicen IA para crear **empleos bien remunerados en la comunidad**.  
+- Incentivar a las empresas de IA de propiedad de trabajadores para asegurar que los empleados se beneficien directamente del progreso tecnológico.
+
+✅ **5. Desarrollo Ético y Transparente**  
+- Implementar **evaluaciones de impacto** obligatorias y requerir que las empresas divulguen los efectos sociales de los sistemas de IA.  
+- Establecer juntas públicas lideradas por ciudadanos para supervisar la implementación ética de la IA en los sectores público y privado.
+
+---
+
+## **Por Qué Esto Importa**
+
+### ✅ **Proteger Empleos**  
+Debemos asegurar que la tecnología **mejore el trabajo humano**, creando lugares de trabajo más seguros y productivos sin eliminar medios de vida.
+
+### 📈 **Oportunidad Económica**  
+Al invertir en recapacitación, innovación y emprendimiento, prepararemos a los trabajadores para empleos de alta demanda en industrias impulsadas por la IA.
+
+### 🌍 **Desarrollo Ético**  
+La IA debe desarrollarse de manera transparente y responsable, priorizando el bienestar de las personas sobre las ganancias.
+
+### 🛡️ **Apoyo a los Trabajadores**  
+Una red de seguridad robusta, apoyo en salud mental y caminos hacia la propiedad asegurarán que los trabajadores y sus familias prosperen durante esta transición.
+
+---
+
+## **Nuestro Compromiso con el 5to Distrito de Georgia**
+
+El futuro del trabajo no tiene que significar incertidumbre. Al asegurar que la IA y la automatización se implementen **responsablemente**, podemos proteger a los trabajadores, fortalecer nuestras comunidades y crear oportunidades para la prosperidad compartida.
+
+La tecnología debe **trabajar para nosotros, no reemplazarnos**—y con políticas audaces y centradas en las personas, lideraremos el camino hacia un futuro justo e inclusivo.
+
+---
+
+## Conclusión: Un Futuro que Funciona para Todos  
+
+Estamos en un punto de inflexión. El auge de la IA y la automatización puede ampliar la desigualdad o crear caminos hacia el empoderamiento y el progreso. Con políticas que pongan a **los trabajadores primero**, inviertan en recapacitación y hagan cumplir un desarrollo ético, podemos asegurar que **nadie se quede atrás** en la revolución tecnológica.
+
+**Juntos, construiremos un futuro donde la tecnología trabaje para todos nosotros—no solo para unos pocos privilegiados.**
+
+---
+
+### **Únete a Nosotros para Dar Forma a un Futuro de IA Centrado en las Personas**
+
+Apóyanos en nuestra lucha por políticas que protejan a los trabajadores, promuevan la innovación y aseguren que la IA sirva a la humanidad.
+
+**#TecnologíaParaTrabajadores #IAPrimeroHumano #SeguridadLaboral #IAParaTodos #Distrito5Georgia**

@@ -1,34 +1,34 @@
 ---
 layout: page
-title: About Andres Castro
-description: Meet Andres Castro, a working-class leader and software engineer running for Congress in Georgia’s 5th District to fight for families, equality, and bold, people-powered solutions.
+title: Sobre Andres Castro
+description: Conoce a Andres Castro, un líder de clase trabajadora y ingeniero de software que se postula para el Congreso en el 5to Distrito de Georgia para luchar por las familias, la igualdad y soluciones audaces impulsadas por la gente.
 permalink: /about/
 image: '/images/about-me-photo.jpg'
-keywords: [Andres Castro, Working-Class Leadership, Georgia 5th District, Inclusive Society, Economic Justice, Technology for Good, Affordable Housing, Universal Healthcare]
+keywords: [Andres Castro, Liderazgo de Clase Trabajadora, 5to Distrito de Georgia, Sociedad Inclusiva, Justicia Económica, Tecnología para el Bien, Vivienda Asequible, Atención Médica Universal]
 ---
 
-# About Andres Castro
+# Sobre Andres Castro
 
-Hi, I’m **Andres Castro**, a software engineer and working-class leader running for Congress in **Georgia’s 5th District**. My journey began as the son of a courageous immigrant from Acapulco, Mexico, who moved us to Georgia to escape abuse and poverty. Growing up in **Marietta and Powder Springs**, I experienced the challenges of poverty, racism, and systemic barriers firsthand.
+Hola, soy **Andres Castro**, ingeniero de software y líder de clase trabajadora que se postula para el Congreso en el **5to Distrito de Georgia**. Mi historia comenzó como hijo de un valiente inmigrante de Acapulco, México, quien nos trajo a Georgia para escapar del abuso y la pobreza. Creciendo en **Marietta y Powder Springs**, viví de primera mano los desafíos de la pobreza, el racismo y las barreras sistémicas.
 
-Through grit and determination, I earned a degree in **Computer Science** from Kennesaw State University, launched a successful engineering career, and became a proud homeowner in **Oakland City, Atlanta**. My experiences taught me that systemic change is needed to ensure no one is left behind.
+Con esfuerzo y determinación, obtuve un título en **Ciencias de la Computación** de la Universidad Estatal de Kennesaw, lancé una exitosa carrera en ingeniería y me convertí en un orgulloso propietario de vivienda en **Oakland City, Atlanta**. Mis experiencias me enseñaron que se necesita un cambio sistémico para asegurar que nadie se quede atrás.
 
-I’m running for Congress to fight for:  
-- **Economic Justice**: A fair economy with living wages, strong unions, and housing affordability.  
-- **Universal Healthcare**: Medicare for All to guarantee quality care for every resident.  
-- **Civil Rights**: Equality and protections for all, including marginalized and LGBTQ+ communities.  
-- **Open Government**: Transparency and accountability, giving power back to the people.  
-- **Technology for Good**: Policies that ensure innovation serves humanity, not corporate greed.  
+Me postulo para el Congreso para luchar por:  
+- **Justicia Económica**: Una economía justa con salarios dignos, sindicatos fuertes y vivienda asequible.  
+- **Atención Médica Universal**: Medicare para Todos para garantizar atención de calidad a cada residente.  
+- **Derechos Civiles**: Igualdad y protección para todos, incluidas las comunidades marginadas y LGBTQ+.  
+- **Gobierno Abierto**: Transparencia y rendición de cuentas, devolviendo el poder al pueblo.  
+- **Tecnología para el Bien**: Políticas que aseguren que la innovación sirva a la humanidad, no a la avaricia corporativa.  
 
-This campaign is about **you**, your family, and building a future where everyone can thrive.
+Esta campaña se trata de **ti**, tu familia y de construir un futuro donde todos puedan prosperar.
 
-## Learn More About My Story and Vision:
-- [Why I’m Running for Congress](/blog/leadership-grounded-in-experience-why-im-running-for-congress-district05-unions-voterrights-grassroots-progressive-workingclass-atlanta-politics-castro-gapol/)
-- [The Workers’ Housing Guarantee: Affordable Homes for All](/project/housing-community/)
-- [Healthcare is a Human Right: My Plan for Medicare for All](/project/healthcare/)
-- [Civil Rights and Equality: Standing Up for Justice](/project/civil-rights-equality)
-- [Technology for People: My Vision for Ethical AI](/project/ai/)
+## Aprende Más Sobre Mi Historia y Visión:
+- [Por Qué Me Postulo para el Congreso](/blog/leadership-grounded-in-experience-why-im-running-for-congress-district05-unions-voterrights-grassroots-progressive-workingclass-atlanta-politics-castro-gapol/)
+- [La Garantía de Vivienda para Trabajadores: Viviendas Asequibles para Todos](/project/housing-community/)
+- [La Atención Médica es un Derecho Humano: Mi Plan para Medicare para Todos](/project/healthcare/)
+- [Derechos Civiles e Igualdad: Defendiendo la Justicia](/project/civil-rights-equality)
+- [Tecnología para las Personas: Mi Visión para una IA Ética](/project/ai/)
 
-Together, we can build a fairer, stronger future for **Georgia’s 5th District**.  
-Let’s get to work.  
-**[Join Us Today](https://actionnetwork.org/forms/subscribe-form)**  
+Juntos, podemos construir un futuro más justo y fuerte para el **5to Distrito de Georgia**.  
+Pongámonos a trabajar.  
+**[Únete a Nosotros Hoy](https://actionnetwork.org/forms/subscribe-form)**
