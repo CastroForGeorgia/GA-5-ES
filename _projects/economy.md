@@ -1,17 +1,17 @@
 ---
-título: "Economía"
-descripción: "Creando oportunidades justas al proteger empleos locales, construir vivienda asequible y cerrar lagunas fiscales injustas para fomentar una economía próspera y equitativa en el 5to Distrito de Georgia."
-fecha: 2024-11-28 00:00:00 +0000
-etiqueta: "Política"
-imagen: "/images/economy-policy-header.webp"
-palabras clave: [Política Económica, Tributación Justa, Automatización, Vivienda Asequible, Garantía de Vivienda para Trabajadores, Empleos Locales, Creación de Empleos, 5to Distrito Congressional de Georgia, Justicia Económica, Desigualdad de Riqueza]
+title: "Economía"
+description: "Creando oportunidades justas al proteger empleos locales, construir vivienda asequible y cerrar lagunas fiscales injustas para fomentar una economía próspera y equitativa en el 5to Distrito de Georgia."
+date: 2024-11-28 00:00:00 +0000
+label: "Política"
+image: "/images/economy-policy-header.webp"
+keywords: [Política Económica, Tributación Justa, Automatización, Vivienda Asequible, Garantía de Vivienda para Trabajadores, Empleos Locales, Creación de Empleos, 5to Distrito Congresional de Georgia, Justicia Económica, Desigualdad de Riqueza]
 ---
 
 # Construyendo una Economía que Funcione para Todos
 
 ## Resumen
 
-En el **5to Distrito Congressional de Georgia**, las familias trabajadoras son la columna vertebral de nuestra economía. Sin embargo, soportan una carga fiscal injusta, enfrentan inestabilidad habitacional y lidian con los impactos disruptivos de la automatización. Nuestra política económica buscará **nivelar el campo de juego**, salvaguardar los empleos locales y construir un futuro donde cada residente tenga acceso a vivienda, oportunidades y una oportunidad justa de prosperar.
+En el **5to Distrito Congresional de Georgia**, las familias trabajadoras son la columna vertebral de nuestra economía. Sin embargo, soportan una carga fiscal injusta, enfrentan inestabilidad habitacional y lidian con los impactos disruptivos de la automatización. Nuestra política económica **nivelará el campo de juego**, protegerá los empleos locales y construirá un futuro donde cada residente tenga acceso a vivienda, oportunidades y una oportunidad justa de prosperar.
 
 ---
 
@@ -19,16 +19,16 @@ En el **5to Distrito Congressional de Georgia**, las familias trabajadoras son l
 
 ### 🛡️ **1. Proteger a los Trabajadores de la Avaricia Corporativa**
 - **Eliminar Lagunas Fiscales en el Extranjero**: Eliminar los paraísos fiscales y las penalizaciones que permiten a las corporaciones externalizar empleos y ocultar ganancias en el extranjero.
-- **Penalizar la Externalización de Empleos**: Las empresas que reubiquen **más del 1% de su fuerza laboral anualmente** enfrentarán sanciones financieras para desincentivar despidos masivos.
-- **Cerrar Lagunas de Apalancamiento de Acciones**: Los inversores adinerados deben pagar su parte justa al apalancar acciones como ingresos líquidos.
+- **Penalizar la Externalización de Empleos**: Las empresas que reubiquen **más del 1% de su fuerza laboral anualmente** enfrentarán sanciones financieras para desalentar despidos masivos.
+- **Cerrar Lagunas Fiscales en el Apalancamiento de Acciones**: Los inversionistas adinerados deben pagar su parte justa al utilizar acciones como ingreso líquido.
 
 ---
 
-### 🏗️ **2. Garantizar Vivienda Asequible para Trabajadores**
+### 🏗️ **2. Garantizar Vivienda Asequible para los Trabajadores**
 **La Garantía de Vivienda para Trabajadores** es una piedra angular de nuestro plan para abordar la inseguridad habitacional y fomentar el crecimiento económico.
 
 - **Crear Miles de Empleos**:  
-  La construcción de vivienda asequible estimula industrias como **la construcción, la manufactura y los servicios locales**, generando oportunidades de empleo sostenibles.
+  Construir vivienda asequible estimula industrias como **la construcción, la manufactura y los servicios locales**, generando oportunidades de empleo sostenibles.
 
 - **Construir Hogares Asequibles**:  
   Invertir en **vivienda segura y accesible** que asegure que cada trabajador pueda permitirse un hogar estable, mejorando la seguridad financiera y el bienestar comunitario.
@@ -41,12 +41,12 @@ En el **5to Distrito Congressional de Georgia**, las familias trabajadoras son l
 ### 🤝 **3. Tributación Justa para un Crecimiento Sostenible**
 Cerraremos las lagunas fiscales y aseguraremos que los multimillonarios y las corporaciones paguen su parte justa:
 
-- **Gravar el Apalancamiento de Acciones como Ingresos**:  
-  Cuando las acciones se utilicen como garantía para préstamos u otra liquidez, se gravarán como **ingresos**, al igual que los cheques de pago de los trabajadores.
+- **Gravar el Apalancamiento de Acciones como Ingreso**:  
+  Cuando las acciones se utilizan como garantía para préstamos u otra liquidez, serán gravadas como **ingreso**, al igual que los cheques de pago de los trabajadores.
 
-- **Eliminar Lagunas de Avaricia Corporativa**:  
+- **Eliminar Lagunas Fiscales de la Avaricia Corporativa**:  
   - Prevenir la evasión fiscal a través de cuentas en el extranjero.  
-  - Eliminar incentivos para que las empresas reemplacen a los trabajadores con automatización sin un plan para reentrenar o redistribuir a esos empleados.  
+  - Eliminar los incentivos para que las empresas reemplacen a los trabajadores con automatización sin un plan para reentrenar o redistribuir a esos empleados.  
 
 - **Apoyar a las Familias Trabajadoras**:  
   La tributación justa nos permite reinvertir en programas como vivienda asequible, educación e infraestructura que benefician a todos.
@@ -61,25 +61,25 @@ La automatización puede ser una herramienta para el progreso, pero no a costa d
 
 - **Capacitación Laboral y Transición Profesional**:  
   - Financiar **programas de reentrenamiento** para trabajadores desplazados por la automatización.  
-  - Proporcionar asesoramiento profesional y recursos para ayudar a los trabajadores a asegurar empleos sostenibles y preparados para el futuro.
+  - Proporcionar asesoramiento profesional y recursos para ayudar a los trabajadores a asegurar empleos sostenibles y listos para el futuro.
 
 - **Apoyar la Automatización Colaborativa**:  
-  Incentivar a las empresas que utilizan la automatización para aumentar la productividad mientras protegen o expanden las oportunidades laborales para los empleados.
+  Incentivar a las empresas que utilizan la automatización para aumentar la productividad mientras protegen o amplían las oportunidades laborales para los empleados.
 
 ---
 
 ## **Cómo Nuestro Plan Beneficia al 5to Distrito**
 
 ### 📈 **Crecimiento Económico a Través de Políticas Justas**
-- Cerrar lagunas fiscales y reinvertir en vivienda asequible estimulará la **creación de empleos** y levantará las economías locales.
+- Cerrar las lagunas fiscales y reinvertir en vivienda asequible estimulará la **creación de empleos** y levantará las economías locales.
 - La tributación justa asegura que los ricos contribuyan con su parte, reduciendo las cargas sobre las familias trabajadoras.
 
 ### 🏘️ **Estabilidad Habitacional para Todos**
 - La **Garantía de Vivienda para Trabajadores** asegura vivienda asequible para las familias, mejorando la seguridad financiera y la calidad de vida.
-- La construcción de viviendas crea miles de empleos locales en diversas industrias.
+- Construir vivienda crea miles de empleos locales en diversas industrias.
 
 ### 🤖 **Preparando los Empleos para el Futuro**
-- Al abordar los desafíos de la automatización de manera proactiva, los trabajadores tendrán acceso a capacitación, apoyo y protecciones que aseguran que **nadie se quede atrás**.
+- Al abordar los desafíos de la automatización de manera directa, los trabajadores tendrán acceso a capacitación, apoyo y protecciones que aseguran que **nadie se quede atrás**.
 
 ### 💪 **Comunidades Locales Más Fuertes**
 - La estabilidad habitacional, la creación de empleos y las políticas fiscales justas empoderan a las familias para **ahorrar, invertir localmente y prosperar**, impulsando un crecimiento comunitario vibrante.
@@ -89,15 +89,15 @@ La automatización puede ser una herramienta para el progreso, pero no a costa d
 ## **Plan de Acción**
 
 ✅ **1. Legislación para Cerrar Lagunas Fiscales**
-- Introducir leyes para gravar el apalancamiento de acciones como ingresos y terminar con la evasión fiscal en el extranjero.  
+- Introducir leyes para gravar el apalancamiento de acciones como ingreso y poner fin a la evasión fiscal en el extranjero.  
 - Penalizar a las corporaciones que externalizan empleos sin reinvertir en las comunidades locales.
 
 ✅ **2. Inversión en Vivienda y Empleos**
 - Lanzar **La Garantía de Vivienda para Trabajadores** para construir hogares asequibles y crear miles de empleos en construcción.  
-- Financiar proyectos de infraestructura que generen oportunidades de empleo duraderas y mejoren los recursos comunitarios.
+- Financiar proyectos de infraestructura que creen oportunidades de empleo duraderas y mejoren los recursos comunitarios.
 
 ✅ **3. Proteger a los Trabajadores de la Automatización**
-- Implementar regulaciones que exijan a las empresas adoptar **automatización amigable con los trabajadores**.  
+- Implementar regulaciones que requieran a las empresas adoptar **automatización amigable con los trabajadores**.  
 - Establecer programas de reentrenamiento financiados por el gobierno federal para trabajadores desplazados para asegurar que tengan las habilidades necesarias para tener éxito en industrias en evolución.
 
 ✅ **4. Apoyar el Crecimiento Económico Local**
@@ -108,7 +108,7 @@ La automatización puede ser una herramienta para el progreso, pero no a costa d
 
 ## Conclusión
 
-Nuestra visión económica para el **5to Distrito Congressional de Georgia** es simple: **justicia, oportunidad y prosperidad para todos**. Al cerrar las lagunas fiscales corporativas, proteger a los trabajadores y construir vivienda asequible, crearemos una economía donde cada familia tenga la oportunidad de prosperar.
+Nuestra visión económica para el **5to Distrito Congresional de Georgia** es simple: **justicia, oportunidad y prosperidad para todos**. Al cerrar las lagunas fiscales corporativas, proteger a los trabajadores y construir vivienda asequible, crearemos una economía donde cada familia tenga la oportunidad de prosperar.
 
 Creemos en una economía donde **la riqueza se comparte, no se acumula**, donde se protegen los empleos locales y donde nadie se queda atrás ante los cambios económicos.  
 
@@ -116,4 +116,4 @@ Creemos en una economía donde **la riqueza se comparte, no se acumula**, donde 
 
 ---
 
-**#GarantíaViviendaTrabajadores #TributaciónJusta #EmpleosParaTodos #JusticiaAutomatización #JusticiaEconómica**
+**#GarantíaDeViviendaParaTrabajadores #TributaciónJusta #EmpleosParaTodos #JusticiaAutomatización #JusticiaEconómica**
