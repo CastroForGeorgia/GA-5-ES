@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Role of Grit in Overcoming Life’s Challenges"
-description: "Growing up without a father and navigating economic struggles taught me grit. It’s this perseverance that drives me to fight for working families and ensure no one is left behind by the systems that are meant to serve us."
+title: "El Papel de la Tenacidad en Superar los Desafíos de la Vida"
+description: "Crecer sin un padre y enfrentar dificultades económicas me enseñó tenacidad. Es esta perseverancia la que me impulsa a luchar por las familias trabajadoras y asegurar que nadie se quede atrás por los sistemas que están destinados a servirnos."
 date: 2024-12-18 00:00:00
 image: '/images/party_reform.jpeg'
 
@@ -9,42 +9,42 @@ redirect_from:
   - /2025-01-01-role-of-grit/
 ---
 
-Life doesn’t always hand us the tools we need to succeed. Sometimes, we have to build those tools ourselves. For me, growing up without a father and facing economic struggles taught me one of the most important lessons in life: grit.
+La vida no siempre nos proporciona las herramientas que necesitamos para tener éxito. A veces, tenemos que construir esas herramientas nosotros mismos. Para mí, crecer sin un padre y enfrentar dificultades económicas me enseñó una de las lecciones más importantes de la vida: la tenacidad.
 
-But it wasn’t always a source of pride. Early on, I was so ashamed of being poor that I tried to hide parts of myself out of fear of being judged. I saw my mother working multiple jobs just to keep us afloat, and I felt helpless knowing I couldn’t do more to ease her burden. We couldn’t afford babysitters, so I stayed home to look after my little brother instead of participating in after-school activities. Daycare and extracurriculars were luxuries we simply couldn’t afford.
+Pero no siempre fue una fuente de orgullo. Desde pequeño, me sentía tan avergonzado de ser pobre que trataba de ocultar partes de mí por miedo a ser juzgado. Veía a mi madre trabajando en múltiples empleos solo para mantenernos a flote, y me sentía impotente al saber que no podía hacer más para aliviar su carga. No podíamos permitirnos ni niñeras, así que me quedaba en casa cuidando a mi hermanito en lugar de participar en actividades extracurriculares. La guardería y las actividades después de la escuela eran lujos que simplemente no podíamos costear.
 
-## Hiding Out of Fear
+## Ocultándome por Miedo
 
-As a child, poverty often feels like a weight you can’t escape. It’s isolating. I remember making excuses for why I couldn’t join friends at events or participate in school programs, when the truth was we just couldn’t afford it. I felt like I had to keep my struggles hidden, as if being honest about them would make me less worthy in the eyes of others.
+Como niño, la pobreza a menudo se siente como un peso del que no puedes escapar. Es aislante. Recuerdo hacer excusas sobre por qué no podía unirme a mis amigos en eventos o participar en programas escolares, cuando la verdad era que simplemente no podíamos pagarlo. Sentía que tenía que mantener ocultas mis luchas, como si ser honesto sobre ellas me hiciera menos digno a los ojos de los demás.
 
-But those struggles also planted a seed. I saw how hard my mom worked—how she never stopped, even when it seemed like the odds were stacked against her. I didn’t understand it fully at the time, but her resilience became my foundation.
+Pero esas luchas también plantaron una semilla. Vi lo duro que trabajaba mi mamá—cómo nunca se rendía, incluso cuando parecía que las probabilidades estaban en su contra. No lo entendía completamente en ese momento, pero su resiliencia se convirtió en mi fundamento.
 
-## Finding Strength in Struggle
+## Encontrando Fuerza en la Lucha
 
-Over time, I began to see our hardships differently. Yes, we were poor, and yes, it was difficult. But those experiences gave me a perspective and determination that I carry with me to this day. They taught me to empathize with others who feel unseen or unsupported, and they fueled my desire to create systems that don’t leave people behind.
+Con el tiempo, comencé a ver nuestras dificultades de manera diferente. Sí, éramos pobres, y sí, era difícil. Pero esas experiencias me dieron una perspectiva y una determinación que llevo conmigo hasta el día de hoy. Me enseñaron a empatizar con otros que se sienten invisibles o desamparados, y alimentaron mi deseo de crear sistemas que no dejen a las personas atrás.
 
-I came to understand that poverty wasn’t something to be ashamed of—it was something to fight against. And that fight didn’t start with blaming individuals for their circumstances but with recognizing the systems that make it so hard for working families to get ahead.
+Llegué a entender que la pobreza no era algo de lo que avergonzarse—era algo contra lo que luchar. Y esa lucha no comenzaba culpando a las personas por sus circunstancias, sino reconociendo los sistemas que dificultan que las familias trabajadoras avancen.
 
-## Fighting for Working Families
+## Luchando por las Familias Trabajadoras
 
-My family’s story isn’t unique. Millions of families face the same impossible choices every day: whether to pay for childcare or put food on the table, whether to work another shift or spend time with their kids. These aren’t choices anyone should have to make.
+La historia de mi familia no es única. Millones de familias enfrentan las mismas decisiones imposibles todos los días: si pagar por el cuidado de los niños o poner comida en la mesa, si trabajar otro turno o pasar tiempo con sus hijos. Estas no son decisiones que nadie debería tener que tomar.
 
-That’s why I fight for policies that uplift working families—because I’ve lived those struggles, and I know how much they shape your life. From affordable childcare to universal after-school programs, I’m committed to building a future where no child has to feel left out because their family can’t afford opportunities, and no parent has to work multiple jobs just to scrape by.
+Por eso lucho por políticas que eleven a las familias trabajadoras—porque he vivido esas luchas, y sé cuánto moldean tu vida. Desde cuidado infantil asequible hasta programas universales después de la escuela, estoy comprometido a construir un futuro donde ningún niño tenga que sentirse excluido porque su familia no puede permitirse oportunidades, y ningún padre tenga que trabajar múltiples empleos solo para sobrevivir.
 
-## Grit as a Guiding Principle
+## La Tenacidad como Principio Guía
 
-Grit isn’t just about working hard—it’s about persevering even when the odds seem impossible. It’s about taking the lessons from your struggles and using them to create change. That’s the kind of grit I bring to leadership: the determination to fight for equity, the empathy to understand others’ struggles, and the resolve to build systems that truly serve everyone.
+La tenacidad no se trata solo de trabajar duro—se trata de perseverar incluso cuando las probabilidades parecen imposibles. Se trata de tomar las lecciones de tus luchas y usarlas para crear cambio. Ese es el tipo de tenacidad que aporto al liderazgo: la determinación de luchar por la equidad, la empatía para entender las luchas de los demás y la resolución de construir sistemas que realmente sirvan a todos.
 
-## Building Systems That Work for Everyone
+## Construyendo Sistemas que Funcionen para Todos
 
-Our systems weren’t built to support families like mine growing up. Too often, they favor the wealthy and powerful while leaving working families behind. But I believe we can rebuild these systems to create a fairer, more compassionate society—one where every family has a chance to thrive.
+Nuestros sistemas no fueron diseñados para apoyar a familias como la mía mientras crecía. Demasiado a menudo, favorecen a los ricos y poderosos mientras dejan atrás a las familias trabajadoras. Pero creo que podemos reconstruir estos sistemas para crear una sociedad más justa y compasiva—una donde cada familia tenga la oportunidad de prosperar.
 
-That means fighting for affordable childcare, accessible healthcare, fair wages, and equitable education. It means ensuring that no family is forced to choose between work and their children, and no child is denied opportunities because of their zip code.
+Eso significa luchar por cuidado infantil asequible, atención médica accesible, salarios justos y educación equitativa. Significa asegurar que ninguna familia se vea obligada a elegir entre trabajar y cuidar a sus hijos, y que ningún niño se vea privado de oportunidades por su código postal.
 
-## Why Grit Matters
+## Por Qué Importa la Tenacidad
 
-Grit isn’t just a personal trait—it’s a tool for creating change. It’s what allows us to push forward, to rise above challenges, and to build a future that works for everyone. My life has shown me the power of perseverance, and it’s that same perseverance that fuels my fight for our community.
+La tenacidad no es solo un rasgo personal—es una herramienta para crear cambio. Es lo que nos permite avanzar, superar desafíos y construir un futuro que funcione para todos. Mi vida me ha mostrado el poder de la perseverancia, y es esa misma perseverancia la que alimenta mi lucha por nuestra comunidad.
 
 ---
 
-**This is what drives me: the grit to overcome challenges, the compassion to fight for those who’ve been left behind, and the determination to build a better future for all. Together, we can create a system that uplifts everyone and leaves no one behind.**
+**Esto es lo que me impulsa: la tenacidad para superar desafíos, la compasión para luchar por aquellos que han sido dejados atrás y la determinación de construir un futuro mejor para todos. Juntos, podemos crear un sistema que eleve a todos y no deje a nadie atrás.**

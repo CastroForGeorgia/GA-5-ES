@@ -1,119 +1,119 @@
 ---
-title: "Economy"
-description: "Creating fair opportunities by protecting local jobs, building affordable housing, and closing unfair tax loopholes to foster a thriving, equitable economy in Georgia's 5th District."
+title: "Economía"
+description: "Creando oportunidades justas al proteger empleos locales, construir vivienda asequible y cerrar lagunas fiscales injustas para fomentar una economía próspera y equitativa en el 5to Distrito de Georgia."
 date: 2024-11-28 00:00:00 +0000
-label: "Policy"
+label: "Política"
 image: "/images/economy-policy-header.webp"
-keywords: [Economic Policy, Fair Taxation, Automation, Affordable Housing, Workers’ Housing Guarantee, Local Jobs, Job Creation, Georgia 5th Congressional District, Economic Justice, Wealth Inequality]
+keywords: [Política Económica, Tributación Justa, Automatización, Vivienda Asequible, Garantía de Vivienda para Trabajadores, Empleos Locales, Creación de Empleos, 5to Distrito Congresional de Georgia, Justicia Económica, Desigualdad de Riqueza]
 ---
 
-# Building an Economy That Works for Everyone
+# Construyendo una Economía que Funcione para Todos
 
-## Overview
+## Resumen
 
-In **Georgia's 5th Congressional District**, working families form the backbone of our economy. Yet, they shoulder an unfair tax burden, face housing instability, and grapple with the disruptive impacts of automation. Our economic policy will **level the playing field**, safeguard local jobs, and build a future where every resident has access to housing, opportunities, and a fair shot at prosperity.
-
----
-
-## **Our Economic Goals**
-
-### 🛡️ **1. Protect Workers from Corporate Greed**
-- **End Offshore Loopholes**: Eliminate tax havens and penalties that allow corporations to outsource jobs and hide profits overseas.
-- **Penalize Job Outsourcing**: Companies relocating **over 1% of their workforce annually** will face financial penalties to discourage mass layoffs.
-- **Close Stock Leveraging Loopholes**: Wealthy investors must pay their fair share when leveraging stock as liquid income.
+En el **5to Distrito Congresional de Georgia**, las familias trabajadoras son la columna vertebral de nuestra economía. Sin embargo, soportan una carga fiscal injusta, enfrentan inestabilidad habitacional y lidian con los impactos disruptivos de la automatización. Nuestra política económica **nivelará el campo de juego**, protegerá los empleos locales y construirá un futuro donde cada residente tenga acceso a vivienda, oportunidades y una oportunidad justa de prosperar.
 
 ---
 
-### 🏗️ **2. Guarantee Affordable Housing for Workers**
-**The Workers’ Housing Guarantee** is a cornerstone of our plan to tackle housing insecurity and drive economic growth.
+## **Nuestros Objetivos Económicos**
 
-- **Create Thousands of Jobs**:  
-  Building affordable housing stimulates industries like **construction, manufacturing, and local services**, generating sustainable employment opportunities.
-
-- **Build Affordable Homes**:  
-  Invest in **safe, accessible housing** that ensures every worker can afford a stable home, improving financial security and community well-being.
-
-- **Strengthen Local Economies**:  
-  Stable housing allows families to save, invest locally, and support small businesses—boosting economic vitality.
+### 🛡️ **1. Proteger a los Trabajadores de la Avaricia Corporativa**
+- **Eliminar Lagunas Fiscales en el Extranjero**: Eliminar los paraísos fiscales y las penalizaciones que permiten a las corporaciones externalizar empleos y ocultar ganancias en el extranjero.
+- **Penalizar la Externalización de Empleos**: Las empresas que reubiquen **más del 1% de su fuerza laboral anualmente** enfrentarán sanciones financieras para desalentar despidos masivos.
+- **Cerrar Lagunas Fiscales en el Apalancamiento de Acciones**: Los inversionistas adinerados deben pagar su parte justa al utilizar acciones como ingreso líquido.
 
 ---
 
-### 🤝 **3. Fair Taxation for Sustainable Growth**
-We will close loopholes and ensure billionaires and corporations pay their fair share:
+### 🏗️ **2. Garantizar Vivienda Asequible para los Trabajadores**
+**La Garantía de Vivienda para Trabajadores** es una piedra angular de nuestro plan para abordar la inseguridad habitacional y fomentar el crecimiento económico.
 
-- **Tax Stock Leveraging as Income**:  
-  When stocks are used as collateral for loans or other liquidity, they will be taxed as **income**, just like workers' paychecks.
+- **Crear Miles de Empleos**:  
+  Construir vivienda asequible estimula industrias como **la construcción, la manufactura y los servicios locales**, generando oportunidades de empleo sostenibles.
 
-- **End Corporate Greed Loopholes**:  
-  - Prevent tax avoidance through offshore accounts.  
-  - Eliminate incentives for companies to replace workers with automation without a plan to retrain or redeploy those employees.  
+- **Construir Hogares Asequibles**:  
+  Invertir en **vivienda segura y accesible** que asegure que cada trabajador pueda permitirse un hogar estable, mejorando la seguridad financiera y el bienestar comunitario.
 
-- **Support Working Families**:  
-  Fair taxation allows us to reinvest in programs like affordable housing, education, and infrastructure that benefit everyone.
-
----
-
-### ⚙️ **4. Address Automation’s Impact on Workers**
-Automation can be a tool for progress—but not at the cost of workers' livelihoods.
-
-- **Regulate Job-Stealing Automation**:  
-  Implement safeguards to ensure **new technologies complement workers**, rather than replace them entirely.
-
-- **Job Training and Career Transition**:  
-  - Fund **retraining programs** for workers displaced by automation.  
-  - Provide career counseling and resources to help workers secure sustainable, future-ready jobs.
-
-- **Support Collaborative Automation**:  
-  Incentivize businesses that use automation to boost productivity while protecting or expanding job opportunities for employees.
+- **Fortalecer las Economías Locales**:  
+  La vivienda estable permite a las familias ahorrar, invertir localmente y apoyar a las pequeñas empresas, impulsando la vitalidad económica.
 
 ---
 
-## **How Our Plan Benefits the 5th District**
+### 🤝 **3. Tributación Justa para un Crecimiento Sostenible**
+Cerraremos las lagunas fiscales y aseguraremos que los multimillonarios y las corporaciones paguen su parte justa:
 
-### 📈 **Economic Growth Through Fair Policies**
-- Closing tax loopholes and reinvesting in affordable housing will spur **job creation** and lift local economies.
-- Fair taxation ensures the wealthy contribute their share, reducing burdens on working families.
+- **Gravar el Apalancamiento de Acciones como Ingreso**:  
+  Cuando las acciones se utilizan como garantía para préstamos u otra liquidez, serán gravadas como **ingreso**, al igual que los cheques de pago de los trabajadores.
 
-### 🏘️ **Housing Stability for All**
-- The **Workers’ Housing Guarantee** ensures affordable housing for families, improving financial security and quality of life.
-- Building housing creates thousands of local jobs across industries.
+- **Eliminar Lagunas Fiscales de la Avaricia Corporativa**:  
+  - Prevenir la evasión fiscal a través de cuentas en el extranjero.  
+  - Eliminar los incentivos para que las empresas reemplacen a los trabajadores con automatización sin un plan para reentrenar o redistribuir a esos empleados.  
 
-### 🤖 **Future-Proofing Jobs**
-- By addressing automation’s challenges head-on, workers will have access to training, support, and protections that ensure **no one is left behind**.
-
-### 💪 **Stronger Local Communities**
-- Housing stability, job creation, and fair tax policies empower families to **save, invest locally, and thrive**—driving vibrant community growth.
+- **Apoyar a las Familias Trabajadoras**:  
+  La tributación justa nos permite reinvertir en programas como vivienda asequible, educación e infraestructura que benefician a todos.
 
 ---
 
-## **Action Plan**
+### ⚙️ **4. Abordar el Impacto de la Automatización en los Trabajadores**
+La automatización puede ser una herramienta para el progreso, pero no a costa de los medios de vida de los trabajadores.
 
-✅ **1. Legislation to Close Tax Loopholes**
-- Introduce laws to tax stock leveraging as income and end offshore tax avoidance.  
-- Penalize corporations that outsource jobs without reinvesting in local communities.
+- **Regular la Automatización que Roba Empleos**:  
+  Implementar salvaguardias para asegurar que **nuevas tecnologías complementen a los trabajadores**, en lugar de reemplazarlos por completo.
 
-✅ **2. Investment in Housing and Jobs**
-- Launch **The Workers’ Housing Guarantee** to build affordable homes and create thousands of construction jobs.  
-- Fund infrastructure projects that create lasting employment opportunities and improve community resources.
+- **Capacitación Laboral y Transición Profesional**:  
+  - Financiar **programas de reentrenamiento** para trabajadores desplazados por la automatización.  
+  - Proporcionar asesoramiento profesional y recursos para ayudar a los trabajadores a asegurar empleos sostenibles y listos para el futuro.
 
-✅ **3. Protect Workers from Automation**
-- Implement regulations that require businesses to adopt **worker-friendly automation**.  
-- Establish federally funded retraining programs for displaced workers to ensure they have the skills to succeed in evolving industries.
-
-✅ **4. Support Local Economic Growth**
-- Partner with small businesses to strengthen local job creation.  
-- Invest in programs that expand access to education, vocational training, and affordable childcare.
+- **Apoyar la Automatización Colaborativa**:  
+  Incentivar a las empresas que utilizan la automatización para aumentar la productividad mientras protegen o amplían las oportunidades laborales para los empleados.
 
 ---
 
-## Conclusion
+## **Cómo Nuestro Plan Beneficia al 5to Distrito**
 
-Our economic vision for **Georgia's 5th Congressional District** is simple: **fairness, opportunity, and prosperity for all**. By closing corporate loopholes, protecting workers, and building affordable housing, we will create an economy where every family has a chance to thrive.
+### 📈 **Crecimiento Económico a Través de Políticas Justas**
+- Cerrar las lagunas fiscales y reinvertir en vivienda asequible estimulará la **creación de empleos** y levantará las economías locales.
+- La tributación justa asegura que los ricos contribuyan con su parte, reduciendo las cargas sobre las familias trabajadoras.
 
-We believe in an economy where **wealth is shared, not hoarded**, where local jobs are protected, and where no one is left behind in the face of economic change.  
+### 🏘️ **Estabilidad Habitacional para Todos**
+- La **Garantía de Vivienda para Trabajadores** asegura vivienda asequible para las familias, mejorando la seguridad financiera y la calidad de vida.
+- Construir vivienda crea miles de empleos locales en diversas industrias.
 
-**Stand with us as we build a fairer, stronger, and more resilient economy for Georgia’s 5th District.**
+### 🤖 **Preparando los Empleos para el Futuro**
+- Al abordar los desafíos de la automatización de manera directa, los trabajadores tendrán acceso a capacitación, apoyo y protecciones que aseguran que **nadie se quede atrás**.
+
+### 💪 **Comunidades Locales Más Fuertes**
+- La estabilidad habitacional, la creación de empleos y las políticas fiscales justas empoderan a las familias para **ahorrar, invertir localmente y prosperar**, impulsando un crecimiento comunitario vibrante.
 
 ---
 
-**#WorkersHousingGuarantee #FairTaxation #JobsForAll #AutomationJustice #EconomicJustice**
+## **Plan de Acción**
+
+✅ **1. Legislación para Cerrar Lagunas Fiscales**
+- Introducir leyes para gravar el apalancamiento de acciones como ingreso y poner fin a la evasión fiscal en el extranjero.  
+- Penalizar a las corporaciones que externalizan empleos sin reinvertir en las comunidades locales.
+
+✅ **2. Inversión en Vivienda y Empleos**
+- Lanzar **La Garantía de Vivienda para Trabajadores** para construir hogares asequibles y crear miles de empleos en construcción.  
+- Financiar proyectos de infraestructura que creen oportunidades de empleo duraderas y mejoren los recursos comunitarios.
+
+✅ **3. Proteger a los Trabajadores de la Automatización**
+- Implementar regulaciones que requieran a las empresas adoptar **automatización amigable con los trabajadores**.  
+- Establecer programas de reentrenamiento financiados por el gobierno federal para trabajadores desplazados para asegurar que tengan las habilidades necesarias para tener éxito en industrias en evolución.
+
+✅ **4. Apoyar el Crecimiento Económico Local**
+- Asociarse con pequeñas empresas para fortalecer la creación de empleos locales.  
+- Invertir en programas que amplíen el acceso a la educación, la capacitación vocacional y el cuidado infantil asequible.
+
+---
+
+## Conclusión
+
+Nuestra visión económica para el **5to Distrito Congresional de Georgia** es simple: **justicia, oportunidad y prosperidad para todos**. Al cerrar las lagunas fiscales corporativas, proteger a los trabajadores y construir vivienda asequible, crearemos una economía donde cada familia tenga la oportunidad de prosperar.
+
+Creemos en una economía donde **la riqueza se comparte, no se acumula**, donde se protegen los empleos locales y donde nadie se queda atrás ante los cambios económicos.  
+
+**Únete a nosotros mientras construimos una economía más justa, fuerte y resiliente para el 5to Distrito de Georgia.**
+
+---
+
+**#GarantíaDeViviendaParaTrabajadores #TributaciónJusta #EmpleosParaTodos #JusticiaAutomatización #JusticiaEconómica**

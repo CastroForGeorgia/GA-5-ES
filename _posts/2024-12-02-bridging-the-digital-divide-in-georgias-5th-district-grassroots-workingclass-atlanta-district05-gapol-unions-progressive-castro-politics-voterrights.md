@@ -1,66 +1,66 @@
 ---
 layout: post
-title: "Bridging the Digital Divide in Georgia’s 5th District"
-description: "The digital divide impacts education, job opportunities, and civic participation in Georgia’s 5th District. Let’s expand affordable broadband and create community tech hubs to ensure everyone can thrive in the digital age."
+title: "Cerrando la Brecha Digital en el 5to Distrito de Georgia"
+description: "La brecha digital impacta la educación, las oportunidades laborales y la participación cívica en el 5to Distrito de Georgia. Ampliemos el acceso a internet de banda ancha asequible y creemos centros tecnológicos comunitarios para asegurar que todos puedan prosperar en la era digital."
 date: 2024-12-02
 image: '/images/agi-header.webp'
 
 redirect_from:
-  - /2025-01-01-bridging-digital-divide/
+  - /2025-01-01-cerrando-brecha-digital/
 ---
 
-In today’s world, digital access is more than a convenience—it’s a necessity. From education to job opportunities to civic participation, our ability to thrive often depends on reliable internet and access to technology. Yet, in Georgia’s 5th District, far too many families are left behind by the growing digital divide.
+En el mundo actual, el acceso digital es más que una conveniencia: es una necesidad. Desde la educación hasta las oportunidades laborales y la participación cívica, nuestra capacidad para prosperar a menudo depende de un internet confiable y del acceso a la tecnología. Sin embargo, en el 5to Distrito de Georgia, muchas familias se quedan atrás debido a la creciente brecha digital.
 
-Bridging this divide isn’t just about connecting people to the internet—it’s about ensuring that every person, regardless of income or location, has the tools and opportunities to succeed in the digital age. It’s about leveling the playing field and making sure no one is excluded from the opportunities technology provides.
+Cerrar esta brecha no se trata solo de conectar a las personas a internet; se trata de garantizar que cada persona, sin importar su ingreso o ubicación, tenga las herramientas y oportunidades para tener éxito en la era digital. Se trata de nivelar el campo de juego y asegurarse de que nadie quede excluido de las oportunidades que brinda la tecnología.
 
-## The Impact of the Digital Divide
+## El Impacto de la Brecha Digital
 
-The digital divide in Georgia’s 5th District disproportionately affects low-income families, rural communities, and people of color. The lack of reliable, affordable internet access creates barriers in critical areas:
+La brecha digital en el 5to Distrito de Georgia afecta desproporcionadamente a las familias de bajos ingresos, las comunidades rurales y las personas de color. La falta de acceso a internet confiable y asequible crea barreras en áreas críticas:
 
-- **Education**: Students without access to broadband or devices struggle to complete homework, attend virtual classes, or participate in online learning resources. The pandemic highlighted this disparity, leaving many children at a disadvantage.  
-- **Job Opportunities**: From applying for jobs to acquiring new skills through online training, digital access is essential for career advancement. Yet, many in our district lack the connectivity needed to seize these opportunities.  
-- **Civic Participation**: The internet plays a vital role in staying informed, registering to vote, and engaging with elected officials. Without access, communities are silenced in conversations that shape their futures.  
+- **Educación**: Los estudiantes sin acceso a banda ancha o dispositivos luchan por completar tareas, asistir a clases virtuales o participar en recursos de aprendizaje en línea. La pandemia destacó esta disparidad, dejando a muchos niños en desventaja.  
+- **Oportunidades Laborales**: Desde postularse a trabajos hasta adquirir nuevas habilidades a través de capacitación en línea, el acceso digital es esencial para el avance profesional. Sin embargo, muchos en nuestro distrito carecen de la conectividad necesaria para aprovechar estas oportunidades.  
+- **Participación Cívica**: Internet juega un papel vital en mantenerse informado, registrarse para votar y relacionarse con funcionarios electos. Sin acceso, las comunidades quedan silenciadas en conversaciones que moldean su futuro.  
 
-The digital divide is a systemic barrier that reinforces inequality, making it harder for underserved communities to catch up and thrive.
+La brecha digital es una barrera sistémica que refuerza la desigualdad, dificultando que las comunidades desatendidas se pongan al día y prosperen.
 
-## A Vision for Digital Equity
+## Una Visión para la Equidad Digital
 
-Closing the digital divide is about more than providing internet—it’s about creating a foundation for equity and opportunity. Here’s how we can make it happen in Georgia’s 5th District:
+Cerrar la brecha digital es más que proporcionar internet; se trata de crear una base para la equidad y la oportunidad. Aquí hay algunas formas en que podemos lograrlo en el 5to Distrito de Georgia:
 
-### 1. **Expanding Affordable Broadband Access**
+### 1. **Ampliar el Acceso a Banda Ancha Asequible**
 
-Reliable and affordable broadband should be a basic utility, not a luxury. We need to:
+Una banda ancha confiable y asequible debería ser un servicio básico, no un lujo. Necesitamos:
 
-- Work with local and federal partners to expand broadband infrastructure to underserved neighborhoods and rural areas.  
-- Subsidize internet access for low-income families through programs that ensure no household is left offline.  
-- Hold internet service providers accountable for fair pricing and transparent practices.  
+- Trabajar con socios locales y federales para expandir la infraestructura de banda ancha a vecindarios desatendidos y áreas rurales.  
+- Subvencionar el acceso a internet para familias de bajos ingresos a través de programas que aseguren que ningún hogar quede desconectado.  
+- Hacer que los proveedores de servicios de internet sean responsables de precios justos y prácticas transparentes.  
 
-Access to broadband is a right, and we must treat it as such.
+El acceso a la banda ancha es un derecho, y debemos tratarlo como tal.
 
-### 2. **Creating Community Tech Hubs**
+### 2. **Crear Centros Tecnológicos Comunitarios**
 
-Community tech hubs can serve as vital resources for education, training, and innovation. These spaces can:
+Los centros tecnológicos comunitarios pueden servir como recursos vitales para la educación, la capacitación y la innovación. Estos espacios pueden:
 
-- Provide free access to computers, high-speed internet, and digital literacy training.  
-- Host workshops on coding, resume building, and other skills that empower residents to advance their careers.  
-- Serve as gathering places where community members can connect, collaborate, and innovate together.  
+- Proporcionar acceso gratuito a computadoras, internet de alta velocidad y capacitación en alfabetización digital.  
+- Organizar talleres sobre programación, elaboración de currículums y otras habilidades que empoderen a los residentes para avanzar en sus carreras.  
+- Servir como lugares de encuentro donde los miembros de la comunidad puedan conectarse, colaborar e innovar juntos.  
 
-By investing in these hubs, we can create spaces that empower people and build stronger, more connected communities.
+Al invertir en estos centros, podemos crear espacios que empoderen a las personas y construyan comunidades más fuertes y conectadas.
 
-### 3. **Investing in Digital Literacy Programs**
+### 3. **Invertir en Programas de Alfabetización Digital**
 
-Digital literacy is as important as access itself. We need to ensure that everyone—from students to seniors—has the skills to navigate the digital world. Programs should focus on:
+La alfabetización digital es tan importante como el acceso mismo. Necesitamos asegurarnos de que todos, desde estudiantes hasta adultos mayores, tengan las habilidades para navegar en el mundo digital. Los programas deben enfocarse en:
 
-- Teaching essential skills like using email, online banking, and navigating government services.  
-- Offering advanced training in areas like coding, data analysis, and digital marketing to prepare residents for high-demand careers.  
-- Partnering with schools and libraries to provide ongoing resources and support.  
+- Enseñar habilidades esenciales como el uso de correo electrónico, banca en línea y navegación de servicios gubernamentales.  
+- Ofrecer capacitación avanzada en áreas como programación, análisis de datos y marketing digital para preparar a los residentes para carreras de alta demanda.  
+- Colaborar con escuelas y bibliotecas para proporcionar recursos y apoyo continuos.  
 
-When people are equipped with the skills they need, they can take full advantage of the opportunities technology offers.
+Cuando las personas están equipadas con las habilidades que necesitan, pueden aprovechar al máximo las oportunidades que ofrece la tecnología.
 
-## Why This Matters
+## Por Qué Esto Importa
 
-The digital divide isn’t just a tech problem—it’s a justice problem. It’s about ensuring every person in Georgia’s 5th District has the same opportunities to learn, work, and participate in society. It’s about closing gaps that have persisted for too long and creating a future where technology is a bridge, not a barrier.
+La brecha digital no es solo un problema tecnológico; es un problema de justicia. Se trata de garantizar que cada persona en el 5to Distrito de Georgia tenga las mismas oportunidades para aprender, trabajar y participar en la sociedad. Se trata de cerrar las brechas que han persistido durante demasiado tiempo y crear un futuro donde la tecnología sea un puente, no una barrera.
 
 ---
 
-**This is why I fight: to close the digital divide, to bring affordable broadband to every corner of our district, and to empower our communities through technology. Together, we can ensure that everyone has the tools they need to succeed in the digital age.**
+**Por eso lucho: para cerrar la brecha digital, para llevar banda ancha asequible a cada rincón de nuestro distrito y para empoderar a nuestras comunidades a través de la tecnología. Juntos, podemos asegurar que todos tengan las herramientas que necesitan para tener éxito en la era digital.**

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning by Doing: How My Career Shaped My Leadership"
-description: "My engineering career wasn’t just about solving technical problems—it was about understanding people, systems, and context. Those lessons guide how I approach the challenges facing our communities, always seeking solutions that uplift everyone."
+title: "Aprender Haciendo: Cómo Mi Carrera Moldeó Mi Liderazgo"
+description: "Mi carrera en ingeniería no se trató solo de resolver problemas técnicos; se trató de entender a las personas, los sistemas y el contexto. Esas lecciones guían mi enfoque ante los desafíos que enfrentan nuestras comunidades, siempre buscando soluciones que beneficien a todos."
 date: 2024-12-31
 image: '/images/economy-policy-header.webp'
 
@@ -9,40 +9,40 @@ redirect_from:
   - /2025-01-01-learning-by-doing/
 ---
 
-When I began my career as an engineer, I thought the job was all about solving technical problems—writing code, debugging systems, and making things work. But as I grew in my career, I realized that engineering isn’t just about technology. It’s about people. It’s about understanding the systems we build, the context in which they operate, and the human challenges they aim to solve.
+Cuando comencé mi carrera como ingeniero, pensaba que el trabajo se trataba únicamente de resolver problemas técnicos: escribir código, depurar sistemas y hacer que las cosas funcionaran. Pero a medida que fui avanzando en mi carrera, me di cuenta de que la ingeniería no es solo tecnología. Se trata de personas. Se trata de entender los sistemas que construimos, el contexto en el que operan y los desafíos humanos que buscan resolver.
 
-Those lessons didn’t just make me a better engineer—they shaped my approach to leadership. Today, I carry those principles into my work as an advocate and leader, tackling the challenges facing our communities with the same mindset I brought to solving complex systems: with empathy, curiosity, and a commitment to finding solutions that work for everyone.
+Esas lecciones no solo me hicieron un mejor ingeniero; moldearon mi enfoque hacia el liderazgo. Hoy, llevo esos principios a mi trabajo como defensor y líder, enfrentando los desafíos que enfrentan nuestras comunidades con la misma mentalidad que aporté a la resolución de sistemas complejos: con empatía, curiosidad y un compromiso por encontrar soluciones que funcionen para todos.
 
-## Understanding Systems Through People
+## Entendiendo Sistemas a Través de las Personas
 
-One of the most important lessons I learned as an engineer is that every system reflects the people who built it. Behind every piece of code, there’s a story: of tight deadlines, limited resources, or creative problem-solving. Before you can fix a broken system, you have to understand the context that created it.
+Una de las lecciones más importantes que aprendí como ingeniero es que cada sistema refleja a las personas que lo construyeron. Detrás de cada línea de código, hay una historia: de plazos ajustados, recursos limitados o soluciones creativas. Antes de poder arreglar un sistema roto, debes entender el contexto que lo creó.
 
-The same is true for the challenges our communities face. Whether it’s economic inequality, housing insecurity, or gaps in healthcare, these issues don’t exist in a vacuum. They’re the result of systems shaped by policies, histories, and human decisions. To create meaningful change, we have to understand the root causes and address them with solutions that reflect the realities of people’s lives.
+Lo mismo ocurre con los desafíos que enfrentan nuestras comunidades. Ya sea la desigualdad económica, la inseguridad habitacional o las brechas en la atención médica, estos problemas no existen en un vacío. Son el resultado de sistemas moldeados por políticas, historias y decisiones humanas. Para crear un cambio significativo, debemos entender las causas raíz y abordarlas con soluciones que reflejen las realidades de la vida de las personas.
 
-## Learning by Doing
+## Aprender Haciendo
 
-Engineering taught me the power of learning by doing—of diving into challenges, experimenting with solutions, and refining them over time. Leadership requires the same approach. You don’t start with all the answers; you start with the willingness to listen, to learn, and to act.
+La ingeniería me enseñó el poder de aprender haciendo: de sumergirse en los desafíos, experimentar con soluciones y refinarlas con el tiempo. El liderazgo requiere el mismo enfoque. No comienzas con todas las respuestas; comienzas con la disposición de escuchar, aprender y actuar.
 
-In my career, I learned to listen to teammates, to customers, and to the people affected by the systems I built. Those insights shaped better outcomes, and they taught me that the best solutions come from collaboration. Today, I bring that same commitment to listening and collaboration to my work in public life, ensuring that the voices of those impacted by decisions are at the center of the solutions.
+En mi carrera, aprendí a escuchar a mis compañeros de equipo, a los clientes y a las personas afectadas por los sistemas que construí. Esos conocimientos dieron lugar a mejores resultados y me enseñaron que las mejores soluciones provienen de la colaboración. Hoy, llevo ese mismo compromiso de escuchar y colaborar a mi trabajo en la vida pública, asegurando que las voces de quienes se ven afectados por las decisiones estén en el centro de las soluciones.
 
-## Balancing the Technical and the Human
+## Equilibrando lo Técnico y lo Humano
 
-One of the most rewarding aspects of my engineering career was balancing technical challenges with human needs. It wasn’t enough to build a system that worked—it had to work for people. Whether it was designing user-friendly interfaces or ensuring that systems were accessible and inclusive, I learned that the best solutions prioritize the needs of the people they serve.
+Uno de los aspectos más gratificantes de mi carrera en ingeniería fue equilibrar los desafíos técnicos con las necesidades humanas. No era suficiente construir un sistema que funcionara; tenía que funcionar para las personas. Ya fuera diseñando interfaces amigables o asegurando que los sistemas fueran accesibles e inclusivos, aprendí que las mejores soluciones priorizan las necesidades de las personas a las que sirven.
 
-This principle guides my leadership today. When addressing complex issues like affordable housing or healthcare access, I focus on solutions that don’t just look good on paper but make a real difference in people’s lives. It’s not about one-size-fits-all fixes—it’s about understanding the nuances and creating systems that uplift everyone.
+Este principio guía mi liderazgo hoy. Al abordar problemas complejos como la vivienda asequible o el acceso a la atención médica, me enfoco en soluciones que no solo se vean bien en papel, sino que realmente marquen una diferencia en la vida de las personas. No se trata de soluciones universales; se trata de entender las sutilezas y crear sistemas que beneficien a todos.
 
-## Leadership Rooted in Problem-Solving
+## Liderazgo Basado en la Resolución de Problemas
 
-Leadership, like engineering, is about solving problems. But it’s also about seeing possibilities. It’s about looking at what’s broken and asking, “How can we make this better?” It’s about recognizing the potential for change and taking the steps to make it happen.
+El liderazgo, al igual que la ingeniería, se trata de resolver problemas. Pero también se trata de ver posibilidades. Se trata de mirar lo que está roto y preguntar: "¿Cómo podemos mejorar esto?" Se trata de reconocer el potencial de cambio y tomar las medidas necesarias para hacerlo realidad.
 
-Throughout my career, I’ve learned that progress doesn’t come from perfect plans—it comes from action, iteration, and persistence. It’s a mindset I carry into my advocacy and leadership, always looking for ways to improve the systems that shape our communities.
+A lo largo de mi carrera, he aprendido que el progreso no proviene de planes perfectos; proviene de la acción, la iteración y la persistencia. Es una mentalidad que llevo a mi defensa y liderazgo, siempre buscando formas de mejorar los sistemas que dan forma a nuestras comunidades.
 
-## Why It Matters
+## Por Qué Es Importante
 
-The lessons I’ve learned from my career—about people, systems, and the power of problem-solving—are the foundation of my leadership. They remind me that no challenge is too big when we approach it with empathy, collaboration, and a commitment to finding solutions that work for everyone.
+Las lecciones que he aprendido de mi carrera—sobre las personas, los sistemas y el poder de resolver problemas—son la base de mi liderazgo. Me recuerdan que ningún desafío es demasiado grande cuando lo abordamos con empatía, colaboración y un compromiso por encontrar soluciones que funcionen para todos.
 
-Our communities face complex challenges, but they also hold incredible potential. By applying the principles I’ve learned—listening to people, understanding systems, and acting boldly—we can create a future where every person has the opportunity to thrive.
+Nuestras comunidades enfrentan desafíos complejos, pero también tienen un potencial increíble. Al aplicar los principios que he aprendido—escuchando a las personas, entendiendo los sistemas y actuando con valentía—podemos crear un futuro donde cada persona tenga la oportunidad de prosperar.
 
 ---
 
-**This is why I fight: to bring the lessons of my career into public life, to solve the challenges facing our communities, and to build systems that uplift everyone. Together, we can create meaningful change.**
+**Por eso lucho: para llevar las lecciones de mi carrera a la vida pública, para resolver los desafíos que enfrentan nuestras comunidades y para construir sistemas que beneficien a todos. Juntos, podemos crear un cambio significativo.**

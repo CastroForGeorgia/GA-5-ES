@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "From Overlooked to Empowered: My Commitment to Representation"
-description: "Growing up, I often felt like my voice didn’t matter. That experience fuels my belief that leadership should reflect the people it serves. My mission is to ensure everyone—especially the overlooked—has a voice in the decisions that shape their lives."
+title: "De Pasar Desapercibido a Empoderado: Mi Compromiso con la Representación"
+description: "Al crecer, a menudo sentí que mi voz no importaba. Esa experiencia alimenta mi creencia de que el liderazgo debe reflejar a las personas a las que sirve. Mi misión es asegurar que todos—especialmente los que son pasados por alto—tengan voz en las decisiones que dan forma a sus vidas."
 date: 2024-12-15
 image: '/images/civil-rights-equality.webp'
 
@@ -9,49 +9,49 @@ redirect_from:
   - /2025-01-01-from-overlooked-to-empowered/
 ---
 
-Growing up, I often felt like my voice didn’t matter. Whether it was because of my quiet nature, my family’s economic struggles, or the systemic barriers that seemed insurmountable, there were times when I felt invisible—overlooked by the systems and people who were supposed to help. 
+Al crecer, a menudo sentí que mi voz no importaba. Ya fuera por mi naturaleza callada, las luchas económicas de mi familia o las barreras sistémicas que parecían insuperables, hubo momentos en los que me sentí invisible—pasado por alto por los sistemas y las personas que debían ayudarme.
 
-That experience shaped me. It taught me how it feels to be unheard, how isolating it can be to feel like your struggles don’t matter to those in power. But it also gave me a mission: to ensure no one feels that way again. It’s why I’m committed to leadership that reflects the people it serves, and to making sure everyone—especially the overlooked—has a voice in the decisions that shape their lives.
+Esa experiencia me moldeó. Me enseñó cómo se siente no ser escuchado, lo aislante que puede ser sentir que tus luchas no importan a quienes están en el poder. Pero también me dio una misión: asegurar que nadie vuelva a sentirse así. Por eso estoy comprometido con un liderazgo que refleje a las personas a las que sirve y con asegurar que todos—especialmente los que son pasados por alto—tengan voz en las decisiones que dan forma a sus vidas.
 
-## The Pain of Being Overlooked
+## El Dolor de Ser Pasado por Alto
 
-As a kid, I was the quiet one in the room—the one more likely to observe than to speak up. Add to that the challenges of growing up in a working-class family, where survival often took precedence over dreams, and it’s easy to see why I felt overlooked.
+De niño, yo era el callado en la sala—el que era más propenso a observar que a hablar. A eso se suman los desafíos de crecer en una familia de clase trabajadora, donde la supervivencia a menudo tenía prioridad sobre los sueños, y es fácil ver por qué me sentía pasado por alto.
 
-I saw how the systems around us often ignored families like mine. From education to healthcare to housing, it felt like the rules were written for someone else—someone with more resources, more connections, or more power. That sense of exclusion left a mark, but it also fueled a fire in me to ensure others wouldn’t face the same struggles.
+Vi cómo los sistemas a nuestro alrededor a menudo ignoraban a familias como la mía. Desde la educación hasta la atención médica y la vivienda, parecía que las reglas estaban escritas para alguien más—alguien con más recursos, más conexiones o más poder. Esa sensación de exclusión dejó una marca, pero también avivó un fuego en mí para asegurar que otros no enfrentaran las mismas luchas.
 
-## Technology Gave Me a Voice
+## La Tecnología Me Dio Voz
 
-As I grew older, I found that technology offered a path to reclaiming my voice. It didn’t just allow me to participate—it gave me the tools to build systems that could empower others. My career as an engineer gave me a unique perspective and power: I understand how systems work, and I have the skills to design them myself.
+A medida que crecí, descubrí que la tecnología ofrecía un camino para recuperar mi voz. No solo me permitió participar—me dio las herramientas para construir sistemas que pudieran empoderar a otros. Mi carrera como ingeniero me otorgó una perspectiva y un poder únicos: entiendo cómo funcionan los sistemas y tengo las habilidades para diseñarlos yo mismo.
 
-Technology became a way for me to connect with others who felt overlooked, to amplify their voices, and to create platforms that prioritize inclusion and accessibility. This ability to build systems—not just criticize them—has shaped my approach to leadership. I’m not content to identify what’s wrong; I want to fix it and ensure it works for everyone.
+La tecnología se convirtió en una forma de conectarme con otros que se sentían pasados por alto, de amplificar sus voces y de crear plataformas que priorizan la inclusión y la accesibilidad. Esta capacidad de construir sistemas—no solo de criticarlos—ha moldeado mi enfoque hacia el liderazgo. No me conformo con identificar lo que está mal; quiero solucionarlo y asegurarme de que funcione para todos.
 
-## Turning Pain Into Purpose
+## Transformando el Dolor en Propósito
 
-What I realized as I grew older was that the problem wasn’t with me or families like mine—it was with the systems that failed to include us. Leadership that doesn’t reflect the people it serves will always leave someone behind. That realization became the foundation of my commitment to representation.
+Lo que me di cuenta al crecer fue que el problema no estaba en mí ni en familias como la mía—estaba en los sistemas que fallaban en incluirnos. Un liderazgo que no refleja a las personas a las que sirve siempre dejará a alguien atrás. Esa realización se convirtió en la base de mi compromiso con la representación.
 
-I began advocating not just for myself, but for others who felt unheard. I spoke out about the gaps in our systems, the policies that favored the wealthy over the working class, and the need for leaders who truly understand the struggles of everyday people. Slowly but surely, I found my voice—and with it, a purpose.
+Comencé a abogar no solo por mí, sino por otros que se sentían no escuchados. Hablé sobre las brechas en nuestros sistemas, las políticas que favorecían a los ricos sobre la clase trabajadora y la necesidad de líderes que realmente comprendan las luchas de la gente común. Poco a poco, encontré mi voz—y con ella, un propósito.
 
-## Representation That Reflects Us All
+## Representación que Nos Refleja a Todos
 
-True representation means more than diversity on paper—it means leadership that listens, that values lived experience, and that fights for policies grounded in empathy and equity. For me, that means:
+La verdadera representación significa más que diversidad en papel—significa un liderazgo que escucha, que valora la experiencia vivida y que lucha por políticas fundamentadas en la empatía y la equidad. Para mí, eso significa:
 
-- **Elevating Overlooked Voices**: Ensuring that those most affected by policy decisions—working families, immigrants, marginalized communities—have a seat at the table and a platform to share their experiences.  
-- **Harnessing Technology for Inclusion**: Using my technical expertise to design systems and tools that amplify voices, foster transparency, and make government accessible to everyone.  
-- **Fighting for Equity**: Advocating for policies that close gaps and remove barriers, from affordable housing to universal healthcare to equitable education.  
-- **Building Inclusive Systems**: Creating spaces where everyone, regardless of their background, feels empowered to participate in shaping their communities and futures.  
+- **Elevar Voces Pasadas por Alto**: Asegurar que aquellos más afectados por las decisiones políticas—familias trabajadoras, inmigrantes, comunidades marginadas—tengan un lugar en la mesa y una plataforma para compartir sus experiencias.  
+- **Aprovechar la Tecnología para la Inclusión**: Usar mi experiencia técnica para diseñar sistemas y herramientas que amplifiquen voces, fomenten la transparencia y hagan que el gobierno sea accesible para todos.  
+- **Luchar por la Equidad**: Abogar por políticas que cierren brechas y eliminen barreras, desde vivienda asequible hasta atención médica universal y educación equitativa.  
+- **Construir Sistemas Inclusivos**: Crear espacios donde todos, independientemente de su origen, se sientan empoderados para participar en la construcción de sus comunidades y futuros.  
 
-Representation isn’t just about being heard—it’s about being seen, valued, and included in every step of the decision-making process.
+La representación no se trata solo de ser escuchado—se trata de ser visto, valorado e incluido en cada paso del proceso de toma de decisiones.
 
-## Leadership Rooted in Service
+## Liderazgo Basado en el Servicio
 
-My commitment to representation goes beyond policy—it’s about how I lead. It’s about showing up for the people who feel left behind, listening to their needs, and turning those conversations into action. It’s about leading with empathy and ensuring that every decision I make reflects the voices of the people I serve.
+Mi compromiso con la representación va más allá de la política—se trata de cómo lidero. Se trata de estar presente para las personas que se sienten dejadas atrás, escuchar sus necesidades y convertir esas conversaciones en acción. Se trata de liderar con empatía y asegurar que cada decisión que tome refleje las voces de las personas a las que sirvo.
 
-I believe leadership should be a mirror of the community it represents. When leadership reflects the struggles, hopes, and dreams of the people, it creates systems that work for everyone—not just the privileged few.
+Creo que el liderazgo debe ser un espejo de la comunidad que representa. Cuando el liderazgo refleja las luchas, esperanzas y sueños de la gente, crea sistemas que funcionan para todos—no solo para unos pocos privilegiados.
 
-## Why Representation Matters
+## Por Qué la Representación Importa
 
-Representation isn’t just a principle—it’s a necessity. Without it, our systems will continue to overlook the very people they’re supposed to serve. But when we center the voices of the overlooked and use tools like technology to amplify those voices, we build stronger, more equitable systems. Technology has given me the ability not just to understand these systems, but to rebuild them to work for everyone.
+La representación no es solo un principio—es una necesidad. Sin ella, nuestros sistemas seguirán pasando por alto a las mismas personas a las que se supone que deben servir. Pero cuando centramos las voces de los pasados por alto y usamos herramientas como la tecnología para amplificar esas voces, construimos sistemas más fuertes y equitativos. La tecnología me ha dado la capacidad no solo de entender estos sistemas, sino de reconstruirlos para que funcionen para todos.
 
 ---
 
-**This is why I fight: to turn pain into purpose, to ensure leadership reflects the people it serves, and to use technology to empower every voice in the decisions that shape our lives. Together, we can create a future where no one is overlooked, and everyone has the opportunity to thrive.**
+**Por eso lucho: para transformar el dolor en propósito, para asegurar que el liderazgo refleje a las personas a las que sirve y para usar la tecnología para empoderar cada voz en las decisiones que dan forma a nuestras vidas. Juntos, podemos crear un futuro donde nadie sea pasado por alto y todos tengan la oportunidad de prosperar.**

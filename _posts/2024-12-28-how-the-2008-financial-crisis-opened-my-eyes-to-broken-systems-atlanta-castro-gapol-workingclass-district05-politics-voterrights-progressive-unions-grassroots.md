@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How the 2008 Financial Crisis Opened My Eyes to Broken Systems"
-description: "The 2008 crisis devastated families like mine, while the wealthy escaped accountability. Watching the system fail to protect everyday people was a turning point for me—it’s why I fight for policies that hold the powerful accountable and empower working families."
+title: "Cómo la Crisis Financiera de 2008 Abrió Mis Ojos a los Sistemas Dañados"
+description: "La crisis de 2008 devastó a familias como la mía, mientras que los ricos escaparon de la responsabilidad. Ver cómo el sistema falló en proteger a la gente común fue un punto de inflexión para mí—es por eso que lucho por políticas que responsabilicen a los poderosos y empoderen a las familias trabajadoras."
 date: 2024-12-28
 image: '/images/criminal-justice-reform.webp'
 
@@ -9,43 +9,43 @@ redirect_from:
   - /2025-01-01-2008-financial-crisis/
 ---
 
-The 2008 financial crisis was more than a headline—it was a turning point for millions of families, including mine. I watched as hardworking people lost their homes, their savings, and their sense of security, while the wealthy and powerful walked away unscathed. It was a wake-up call that opened my eyes to the deep flaws in our systems—systems that prioritize profits over people and protect the powerful while leaving working families to fend for themselves.
+La crisis financiera de 2008 fue más que un titular—fue un punto de inflexión para millones de familias, incluida la mía. Observé cómo personas trabajadoras perdieron sus hogares, sus ahorros y su sentido de seguridad, mientras que los ricos y poderosos se alejaron ilesos. Fue un llamado de atención que me abrió los ojos a las profundas fallas en nuestros sistemas—sistemas que priorizan las ganancias sobre las personas y protegen a los poderosos mientras dejan a las familias trabajadoras a su suerte.
 
-That crisis didn’t just change the economy; it changed me. It’s one of the reasons I fight for policies that hold the powerful accountable, protect everyday people, and ensure no family has to endure the devastation that mine and so many others faced.
+Esa crisis no solo cambió la economía; me cambió a mí. Es una de las razones por las que lucho por políticas que responsabilicen a los poderosos, protejan a la gente común y aseguren que ninguna familia tenga que soportar la devastación que enfrentó la mía y tantas otras.
 
-## Watching My Family Struggle
+## Observando la Lucha de Mi Familia
 
-The 2008 crisis hit families like mine hard. Jobs disappeared, bills piled up, and the dream of stability felt further away than ever. I saw how the ripple effects of Wall Street’s greed reached into the lives of everyday people—people who had done everything right but still found themselves on the losing end.
+La crisis de 2008 golpeó duramente a familias como la mía. Los empleos desaparecieron, las cuentas se acumularon y el sueño de la estabilidad se sentía más lejano que nunca. Vi cómo los efectos de la codicia de Wall Street llegaron a la vida de personas comunes—personas que habían hecho todo bien pero que aún se encontraron en el lado perdedor.
 
-We weren’t just dealing with an economic downturn. We were dealing with a system that allowed banks and corporations to gamble with people’s futures and face no real consequences. Meanwhile, families like mine were left to pick up the pieces, with little to no support.
+No solo estábamos lidiando con una recesión económica. Estábamos enfrentando un sistema que permitía a los bancos y corporaciones jugar con el futuro de las personas sin enfrentar consecuencias reales. Mientras tanto, familias como la mía se quedaron recogiendo los pedazos, con poco o ningún apoyo.
 
-## A System Built to Protect the Powerful
+## Un Sistema Construido para Proteger a los Poderosos
 
-What struck me most about the crisis was the stark contrast between who was held accountable and who wasn’t. While families struggled to rebuild, the same corporations that caused the crash were bailed out with taxpayer dollars. Executives kept their bonuses, and the cycle of inequality continued.
+Lo que más me impactó de la crisis fue el marcado contraste entre quienes fueron responsabilizados y quienes no. Mientras las familias luchaban por reconstruirse, las mismas corporaciones que causaron el colapso fueron rescatadas con dinero de los contribuyentes. Los ejecutivos mantuvieron sus bonificaciones, y el ciclo de la desigualdad continuó.
 
-The message was clear: the system wasn’t built to protect people like us. It was built to shield the wealthy and powerful from the consequences of their actions, while leaving working families to bear the brunt of their mistakes. This realization was a turning point for me. I knew then that if we wanted real change, we needed to rebuild the system from the ground up.
+El mensaje era claro: el sistema no estaba diseñado para proteger a personas como nosotros. Estaba construido para proteger a los ricos y poderosos de las consecuencias de sus acciones, mientras dejaba a las familias trabajadoras a cargar con el peso de sus errores. Esta realización fue un punto de inflexión para mí. Supe entonces que si queríamos un cambio real, necesitábamos reconstruir el sistema desde cero.
 
-## Fighting for Accountability and Change
+## Luchando por Responsabilidad y Cambio
 
-The 2008 crisis showed me the urgent need for policies that prioritize people over profits. It’s why I fight for:
+La crisis de 2008 me mostró la urgente necesidad de políticas que prioricen a las personas sobre las ganancias. Es por eso que lucho por:
 
-- **Holding Corporations Accountable**: Corporations that harm communities or engage in reckless practices should face real consequences—not golden parachutes.
-- **Protecting Working Families**: Policies like affordable housing, universal healthcare, and a living wage ensure that families have the stability they need to thrive.
-- **Breaking the Cycle of Inequality**: Closing tax loopholes, ending corporate greed, and reinvesting in education and infrastructure can level the playing field for everyone.
-- **Strengthening Economic Protections**: We need stronger regulations to prevent another crisis and ensure that financial institutions serve the public good, not just their shareholders.
+- **Responsabilizar a las Corporaciones**: Las corporaciones que dañan a las comunidades o participan en prácticas irresponsables deben enfrentar consecuencias reales—no paracaídas dorados.
+- **Proteger a las Familias Trabajadoras**: Políticas como vivienda asequible, atención médica universal y un salario digno aseguran que las familias tengan la estabilidad que necesitan para prosperar.
+- **Romper el Ciclo de la Desigualdad**: Cerrar los vacíos fiscales, poner fin a la codicia corporativa y reinvertir en educación e infraestructura puede nivelar el campo de juego para todos.
+- **Fortalecer las Protecciones Económicas**: Necesitamos regulaciones más estrictas para prevenir otra crisis y asegurar que las instituciones financieras sirvan al bien público, no solo a sus accionistas.
 
-## A Call for Leadership
+## Un Llamado a la Liderazgo
 
-The 2008 crisis wasn’t just an economic failure—it was a failure of leadership. It was a failure to prioritize the needs of the many over the greed of the few. But we can do better. We can build a system that works for everyone, not just the wealthy and powerful.
+La crisis de 2008 no fue solo un fracaso económico—fue un fracaso de liderazgo. Fue un fracaso al no priorizar las necesidades de muchos sobre la codicia de unos pocos. Pero podemos hacerlo mejor. Podemos construir un sistema que funcione para todos, no solo para los ricos y poderosos.
 
-This requires bold leadership—leaders who are willing to stand up to corporate interests, listen to the voices of working families, and fight for policies that ensure stability, fairness, and opportunity for all.
+Esto requiere un liderazgo audaz—líderes que estén dispuestos a enfrentar los intereses corporativos, escuchar las voces de las familias trabajadoras y luchar por políticas que aseguren estabilidad, equidad y oportunidades para todos.
 
-## Why It Matters
+## Por Qué Importa
 
-The scars of the 2008 crisis are still visible today. Families are still struggling to recover, and the systems that caused the crash remain largely intact. But it doesn’t have to be this way. By holding the powerful accountable and prioritizing the needs of everyday people, we can create an economy that works for everyone.
+Las cicatrices de la crisis de 2008 todavía son visibles hoy. Las familias aún luchan por recuperarse, y los sistemas que causaron el colapso permanecen en gran medida intactos. Pero no tiene que ser así. Al responsabilizar a los poderosos y priorizar las necesidades de la gente común, podemos crear una economía que funcione para todos.
 
-The 2008 financial crisis opened my eyes to the broken systems that shape our lives. It’s why I fight for accountability, equity, and opportunity. It’s why I believe in rebuilding the system to serve the people it was meant to protect.
+La crisis financiera de 2008 me abrió los ojos a los sistemas dañados que moldean nuestras vidas. Es por eso que lucho por la responsabilidad, la equidad y la oportunidad. Es por eso que creo en reconstruir el sistema para servir a las personas que se suponía que debía proteger.
 
 ---
 
-**This is why I fight: to hold the powerful accountable, to empower working families, and to build an economy that works for everyone. Together, we can create a future where no family is left behind.**
+**Esta es la razón por la que lucho: para responsabilizar a los poderosos, para empoderar a las familias trabajadoras y para construir una economía que funcione para todos. Juntos, podemos crear un futuro donde ninguna familia se quede atrás.**

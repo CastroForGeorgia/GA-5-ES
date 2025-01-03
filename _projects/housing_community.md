@@ -1,157 +1,157 @@
 ---
-title: "The Workers’ Housing Guarantee"
-description: "A bold initiative to build and modernize affordable homes, create good-paying jobs, and empower families in Georgia's 5th Congressional District without displacing communities or burdening the environment."
+title: "La Garantía de Vivienda para Trabajadores"
+description: "Una iniciativa audaz para construir y modernizar viviendas asequibles, crear empleos bien remunerados y empoderar a las familias en el 5to Distrito Congresional de Georgia sin desplazar comunidades ni perjudicar el medio ambiente."
 date: 2024-11-28 00:00:00 +0000
-label: "Policy"
+label: "Política"
 image: "/images/housing-policy-header.webp"
-keywords: [Affordable Housing, Workers’ Housing Guarantee, Housing Modernization, Job Works Program, Build Baby Build, Georgia 5th Congressional District, Housing Policy, Homeownership, Sustainable Development, Housing Affordability]
+keywords: [Vivienda Asequible, Garantía de Vivienda para Trabajadores, Modernización de Viviendas, Programa de Trabajos de Construcción, Construir, Bebé, Construir, 5to Distrito Congresional de Georgia, Política de Vivienda, Propiedad de Vivienda, Desarrollo Sostenible, Asequibilidad de Vivienda]
 ---
 
-# 🏠 Build Baby Build: The Workers’ Housing Guarantee
+# 🏠 Construir, Bebé, Construir: La Garantía de Vivienda para Trabajadores
 
-## Overview
+## Resumen
 
-Housing is more than a roof over our heads—it’s the foundation for opportunity, dignity, and strong communities. Our **Workers’ Housing Guarantee**—rallied under the motto **Build Baby Build**—is about more than just constructing new homes. It’s about revitalizing and modernizing existing buildings, creating **sustainable, affordable housing**, and preserving the character of our neighborhoods. By focusing on **condos, first-time ownership properties**, and energy-efficient redevelopment, we will expand housing opportunities without destroying communities or burdening the environment.  
-
----
-
-## **Why It Matters**
-
-- **Housing Costs Are Out of Control**:  
-  Families are being priced out of their neighborhoods as housing becomes unaffordable.  
-
-- **We Don’t Need to Build Over Everything**:  
-  Georgia’s 5th has plenty of land and underutilized buildings that can be transformed into **affordable, modern housing**.  
-
-- **Sustainability and Community Go Hand-in-Hand**:  
-  Development must enhance—not erase—our existing neighborhoods, ensuring that local families and businesses thrive.  
+La vivienda es más que un techo sobre nuestras cabezas—es la base para la oportunidad, la dignidad y comunidades fuertes. Nuestra **Garantía de Vivienda para Trabajadores**—unida bajo el lema **Construir, Bebé, Construir**—se trata de más que solo construir nuevas casas. Se trata de revitalizar y modernizar edificios existentes, crear **viviendas asequibles y sostenibles**, y preservar el carácter de nuestros vecindarios. Al enfocarnos en **condominios, propiedades para propietarios primerizos** y la reurbanización eficiente en energía, ampliaremos las oportunidades de vivienda sin destruir comunidades ni perjudicar el medio ambiente.  
 
 ---
 
-## **The Workers’ Housing Guarantee**
+## **Por Qué Es Importante**
 
-### 🏗️ **1. Modernize and Expand Affordable Housing**
-- **Revitalize Existing Buildings**:  
-  Prioritize refurbishing old and underutilized buildings into energy-efficient, affordable condos, apartments, and homes.  
+- **Los Costos de Vivienda Están Fuera de Control**:  
+  Las familias están siendo desplazadas de sus vecindarios a medida que la vivienda se vuelve inasequible.  
 
-- **Build Smart, Not Sprawling**:  
-  Focus on **small first-time ownership properties**, modern condos, and mixed-use developments to expand housing options while protecting open spaces.  
+- **No Necesitamos Construir Sobre Todo**:  
+  El 5to Distrito de Georgia tiene mucho terreno y edificios subutilizados que pueden transformarse en **viviendas asequibles y modernas**.  
 
-- **Sustainable Development**:  
-  Use **green building practices** to lower construction emissions and reduce energy costs for homeowners.  
-
----
-
-### 💼 **2. Create Jobs Through a Housing Works Program**
-- **Hire and Train Local Workers**:  
-  Provide **good-paying jobs** in construction, renovation, and green energy retrofitting.  
-
-- **Employment for the Homeless**:  
-  Offer job opportunities to unhoused individuals, pairing employment with training and housing credits.  
-
-- **Workforce Training**:  
-  Equip workers with certifications in sustainable construction, energy retrofits, and property rehabilitation—skills that will power the next generation of housing solutions.  
+- **La Sostenibilidad y la Comunidad Van de la Mano**:  
+  El desarrollo debe mejorar—no borrar—nuestros vecindarios existentes, asegurando que las familias y negocios locales prosperen.  
 
 ---
 
-### 🏠 **3. Build Pathways to Homeownership**
-- **Affordable First-Time Homes**:  
-  Create opportunities for working families to own their first homes with down-payment assistance and income-based financing.  
+## **La Garantía de Vivienda para Trabajadores**
 
-- **Earn Home Credits**:  
-  Workers who help build or modernize homes will accumulate credits toward purchasing one of the properties they’ve worked on.  
+### 🏗️ **1. Modernizar y Ampliar Viviendas Asequibles**
+- **Revitalizar Edificios Existentes**:  
+  Priorizar la renovación de edificios antiguos y subutilizados en condominios, apartamentos y casas asequibles y eficientes en energía.  
 
-- **Protect Long-Time Residents**:  
-  Prioritize affordable housing for existing community members to prevent displacement and gentrification.  
+- **Construir Inteligente, No en Expansión**:  
+  Enfocarse en **pequeñas propiedades para propietarios primerizos**, condominios modernos y desarrollos de uso mixto para ampliar las opciones de vivienda mientras se protegen los espacios abiertos.  
 
----
-
-### 🌱 **4. Preserve Communities and the Environment**
-- **Protect Neighborhoods**:  
-  Development will respect community environments by focusing on modernizing existing spaces, not tearing them down.  
-
-- **Prevent Environmental Burden**:  
-  Use Georgia’s available land efficiently, with an emphasis on urban infill projects and multi-family housing options like condos and townhomes.  
-
-- **Sustainable Infrastructure**:  
-  Invest in renewable energy systems, energy-efficient upgrades, and eco-friendly materials to make housing sustainable and affordable in the long run.
+- **Desarrollo Sostenible**:  
+  Utilizar **prácticas de construcción ecológica** para reducir las emisiones de construcción y los costos de energía para los propietarios.  
 
 ---
 
-## **How It Works: Build Baby Build**
+### 💼 **2. Crear Empleos a Través de un Programa de Trabajos de Vivienda**
+- **Contratar y Capacitar a Trabajadores Locales**:  
+  Proporcionar **empleos bien remunerados** en construcción, renovación y modernización de energía verde.  
 
-### 🔹 **Modernize Existing Housing**
-- Renovate aging or abandoned buildings into vibrant, energy-efficient homes and condos.  
-- Preserve historic structures and neighborhood character while bringing properties into the 21st century.  
+- **Empleo para Personas Sin Hogar**:  
+  Ofrecer oportunidades laborales a personas sin hogar, combinando empleo con capacitación y créditos de vivienda.  
 
-### 🔹 **Smart Expansion Without Sprawl**
-- Build affordable **condos, townhomes, and mixed-use properties** on underutilized land.  
-- Use **infill development** to create new housing without compromising green spaces or community integrity.  
-
-### 🔹 **Housing Works Job Program**
-- Train and hire local residents, including the homeless and unemployed, for construction and modernization projects.  
-- Provide fair wages, benefits, and skills training that create pathways to long-term employment.  
-
-### 🔹 **Pathways to Homeownership**
-- Create programs that allow workers to earn home credits toward purchasing properties they helped build or modernize.  
-- Offer financial literacy support and affordable loan options for first-time buyers.  
+- **Capacitación de la Fuerza Laboral**:  
+  Equipar a los trabajadores con certificaciones en construcción sostenible, modernización energética y rehabilitación de propiedades—habilidades que impulsarán la próxima generación de soluciones habitacionales.  
 
 ---
 
-## **Why the Workers’ Housing Guarantee Matters**
+### 🏠 **3. Construir Caminos hacia la Propiedad de Vivienda**
+- **Viviendas Asequibles para Primeros Compradores**:  
+  Crear oportunidades para que las familias trabajadoras posean sus primeras casas con asistencia para el pago inicial y financiamiento basado en ingresos.  
 
-### 🌟 **Affordable Homes Without Displacement**
-- Families can stay in their neighborhoods without fear of skyrocketing rents or gentrification.  
-- By modernizing old buildings, we increase housing stock without erasing local history.  
+- **Ganar Créditos de Vivienda**:  
+  Los trabajadores que ayuden a construir o modernizar casas acumularán créditos para la compra de una de las propiedades en las que han trabajado.  
 
-### 📈 **Economic Opportunity for All**
-- Thousands of good-paying jobs will be created through construction, renovation, and energy retrofitting.  
-- Homeownership opportunities build generational wealth and economic stability for working families.  
-
-### 🌱 **Sustainable, Responsible Growth**
-- Energy-efficient housing lowers monthly costs for families while reducing environmental impact.  
-- Thoughtful, community-centered development prevents urban sprawl and preserves green spaces.
+- **Proteger a Residentes de Largo Plazo**:  
+  Priorizar la vivienda asequible para los miembros de la comunidad existentes para prevenir el desplazamiento y la gentrificación.  
 
 ---
 
-## **Action Plan**
+### 🌱 **4. Preservar Comunidades y el Medio Ambiente**
+- **Proteger Vecindarios**:  
+  El desarrollo respetará los entornos comunitarios al enfocarse en modernizar los espacios existentes, no en derribarlos.  
 
-✅ **1. Launch Housing Modernization and New Builds**  
-- Identify underutilized buildings and available land to convert into affordable, energy-efficient housing.  
-- Prioritize sustainable construction and renovation that preserves community character.  
+- **Prevenir la Carga Ambiental**:  
+  Utilizar de manera eficiente el terreno disponible en Georgia, con énfasis en proyectos de infill urbano y opciones de vivienda multifamiliar como condominios y casas adosadas.  
 
-✅ **2. Implement the Housing Works Program**  
-- Partner with local unions, vocational schools, and community organizations to train workers.  
-- Provide housing credits to workers who contribute to these projects, creating a direct pathway to homeownership.  
-
-✅ **3. Protect and Support First-Time Homebuyers**  
-- Offer down-payment assistance and financing programs for first-time buyers.  
-- Prevent displacement by prioritizing long-time residents and families.  
-
-✅ **4. Build Smart and Sustainably**  
-- Focus on condos, townhomes, and mixed-use properties to maximize housing options without burdening the environment.  
-- Incorporate renewable energy and energy-efficient materials into all projects.
+- **Infraestructura Sostenible**:  
+  Invertir en sistemas de energía renovable, mejoras energéticas y materiales ecológicos para hacer que la vivienda sea sostenible y asequible a largo plazo.
 
 ---
 
-## **Our Promise to Georgia's 5th District**
+## **Cómo Funciona: Construir, Bebé, Construir**
 
-The **Workers’ Housing Guarantee** under **Build Baby Build** will deliver affordable homes, good-paying jobs, and stronger, more vibrant communities. By revitalizing what we already have and building thoughtfully for the future, we will ensure that every family in our district has access to housing opportunities that are **sustainable, inclusive, and dignified**.
+### 🔹 **Modernizar Viviendas Existentes**
+- Renovar edificios envejecidos o abandonados en hogares y condominios vibrantes y eficientes en energía.  
+- Preservar estructuras históricas y el carácter del vecindario mientras se traen propiedades al siglo XXI.  
 
-This isn’t just about homes—it’s about creating communities where **everyone can thrive**.
+### 🔹 **Expansión Inteligente Sin Esprawl**
+- Construir **condominios, casas adosadas y propiedades de uso mixto** en terrenos subutilizados.  
+- Utilizar **desarrollo de infill** para crear nuevas viviendas sin comprometer los espacios verdes o la integridad comunitaria.  
+
+### 🔹 **Programa de Trabajo de Vivienda**
+- Capacitar y contratar a residentes locales, incluidos personas sin hogar y desempleados, para proyectos de construcción y modernización.  
+- Proporcionar salarios justos, beneficios y capacitación en habilidades que creen caminos hacia el empleo a largo plazo.  
+
+### 🔹 **Caminos hacia la Propiedad de Vivienda**
+- Crear programas que permitan a los trabajadores ganar créditos de vivienda para la compra de propiedades que ayudaron a construir o modernizar.  
+- Ofrecer apoyo en educación financiera y opciones de préstamos asequibles para compradores primerizos.  
 
 ---
 
-## Conclusion: Build Baby Build, Responsibly and Boldly  
+## **Por Qué Importa la Garantía de Vivienda para Trabajadores**
 
-We can solve the housing crisis **without sacrificing our environment or displacing families**. The **Workers’ Housing Guarantee** will expand affordable housing, create good-paying jobs, and empower working families to achieve homeownership. By modernizing old buildings, building smart on existing land, and respecting community spaces, we will transform Georgia’s 5th District into a place where **everyone has a home, a job, and a future**.  
+### 🌟 **Viviendas Asequibles Sin Desplazamiento**
+- Las familias pueden quedarse en sus vecindarios sin temor a alquileres desorbitados o gentrificación.  
+- Al modernizar edificios antiguos, aumentamos el stock de vivienda sin borrar la historia local.  
 
-**Together, we’ll Build Baby Build—better, smarter, and for everyone.**  
+### 📈 **Oportunidad Económica para Todos**
+- Miles de empleos bien remunerados se crearán a través de la construcción, renovación y modernización energética.  
+- Las oportunidades de propiedad de vivienda construyen riqueza generacional y estabilidad económica para las familias trabajadoras.  
+
+### 🌱 **Crecimiento Sostenible y Responsable**
+- La vivienda eficiente en energía reduce los costos mensuales para las familias mientras disminuye el impacto ambiental.  
+- Un desarrollo reflexivo y centrado en la comunidad previene la expansión urbana y preserva los espacios verdes.
 
 ---
 
-### **Join Us in Building a Better Future**
+## **Plan de Acción**
 
-Stand with us as we invest in housing solutions that work for people and the planet.  
+✅ **1. Lanzar la Modernización de Viviendas y Nuevas Construcciones**  
+- Identificar edificios subutilizados y terrenos disponibles para convertir en viviendas asequibles y eficientes en energía.  
+- Priorizar la construcción y renovación sostenible que preserve el carácter comunitario.  
 
-**#WorkersHousingGuarantee #BuildBabyBuild #AffordableHousing #HousingJustice #SustainableDevelopment #Georgia5thDistrict**
+✅ **2. Implementar el Programa de Trabajos de Vivienda**  
+- Colaborar con sindicatos locales, escuelas vocacionales y organizaciones comunitarias para capacitar a los trabajadores.  
+- Proporcionar créditos de vivienda a los trabajadores que contribuyan a estos proyectos, creando un camino directo hacia la propiedad de vivienda.  
+
+✅ **3. Proteger y Apoyar a Compradores de Vivienda por Primera Vez**  
+- Ofrecer asistencia para el pago inicial y programas de financiamiento para compradores primerizos.  
+- Prevenir el desplazamiento priorizando a residentes y familias de largo plazo.  
+
+✅ **4. Construir de Manera Inteligente y Sostenible**  
+- Enfocarse en condominios, casas adosadas y propiedades de uso mixto para maximizar las opciones de vivienda sin perjudicar el medio ambiente.  
+- Incorporar energía renovable y materiales eficientes en energía en todos los proyectos.
+
+---
+
+## **Nuestra Promesa al 5to Distrito de Georgia**
+
+La **Garantía de Vivienda para Trabajadores** bajo **Construir, Bebé, Construir** ofrecerá viviendas asequibles, empleos bien remunerados y comunidades más fuertes y vibrantes. Al revitalizar lo que ya tenemos y construir de manera reflexiva para el futuro, aseguraremos que cada familia en nuestro distrito tenga acceso a oportunidades de vivienda que sean **sostenibles, inclusivas y dignas**.
+
+Esto no se trata solo de casas—se trata de crear comunidades donde **todos puedan prosperar**.
+
+---
+
+## Conclusión: Construir, Bebé, Construir, de Manera Responsable y Audaz  
+
+Podemos resolver la crisis de vivienda **sin sacrificar nuestro medio ambiente ni desplazar familias**. La **Garantía de Vivienda para Trabajadores** ampliará la vivienda asequible, creará empleos bien remunerados y empoderará a las familias trabajadoras para lograr la propiedad de vivienda. Al modernizar edificios antiguos, construir de manera inteligente en terrenos existentes y respetar los espacios comunitarios, transformaremos el 5to Distrito de Georgia en un lugar donde **todos tengan un hogar, un trabajo y un futuro**.  
+
+**Juntos, construiremos, bebé, construiremos—mejor, más inteligente y para todos.**  
+
+---
+
+### **Únete a Nosotros en la Construcción de un Futuro Mejor**
+
+Apóyanos mientras invertimos en soluciones de vivienda que funcionen para las personas y el planeta.  
+
+**#GarantíaDeViviendaParaTrabajadores #ConstruirBebéConstruir #ViviendaAsequible #JusticiaHabitacional #DesarrolloSostenible #5toDistritoDeGeorgia**

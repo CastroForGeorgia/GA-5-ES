@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Building Bridges Across Differences: Lessons from My Family"
-description: "My family, with its mix of progressive and conservative values, taught me the importance of listening and finding common ground. This ability to connect with people across divides shapes my approach to advocacy and leadership."
+title: "Construyendo Puentes a Través de las Diferencias: Lecciones de Mi Familia"
+description: "Mi familia, con su mezcla de valores progresistas y conservadores, me enseñó la importancia de escuchar y encontrar puntos en común. Esta habilidad para conectar con personas a través de las divisiones moldea mi enfoque hacia la defensa y el liderazgo."
 date: 2024-12-24
 image: '/images/open-government-header.webp'
 
@@ -9,38 +9,38 @@ redirect_from:
   - /2025-01-01-building-bridges/
 ---
 
-Growing up in a family that spanned a wide spectrum of beliefs and values was both a challenge and a gift. On one side, I had relatives who were feminists queer advocates, and activists who fought for justice and equality. On the other, I had conservative family members, including staunch Trump supporters, who valued tradition and stability. The conversations weren’t always easy, but they were always meaningful.
+Crecer en una familia que abarcaba un amplio espectro de creencias y valores fue tanto un desafío como un regalo. Por un lado, tenía familiares que eran feministas, defensores de la comunidad LGBTQ+ y activistas que luchaban por la justicia y la igualdad. Por el otro, tenía miembros conservadores de la familia, incluidos fervientes seguidores de Trump, que valoraban la tradición y la estabilidad. Las conversaciones no siempre eran fáciles, pero siempre eran significativas.
 
-My family taught me one of the most important lessons I carry with me today: the power of listening and the importance of finding common ground. It’s a lesson that shapes how I approach advocacy, leadership, and the way I connect with people across divides.
+Mi familia me enseñó una de las lecciones más importantes que llevo conmigo hoy: el poder de escuchar y la importancia de encontrar puntos en común. Es una lección que moldea mi enfoque hacia la defensa, el liderazgo y la forma en que me conecto con las personas a través de las divisiones.
 
-## A Family of Contrasts
+## Una Familia de Contrastes
 
-The differences in my family weren’t just ideological—they were deeply personal. One side of the dinner table might discuss the urgent need for reproductive rights or LGBTQ+ equality, while the other side expressed concerns about preserving traditional values and resisting rapid societal change. 
+Las diferencias en mi familia no eran solo ideológicas; eran profundamente personales. Un lado de la mesa podría discutir la urgente necesidad de derechos reproductivos o la igualdad LGBTQ+, mientras que el otro lado expresaba preocupaciones sobre la preservación de los valores tradicionales y la resistencia al cambio social rápido.
 
-Rather than dividing us, these contrasts forced us to engage. We didn’t always agree, but we listened. We shared stories, we argued (sometimes passionately), and we found ways to stay connected despite our differences. It wasn’t about winning an argument—it was about understanding the people I loved.
+En lugar de dividirnos, estos contrastes nos obligaron a comprometernos. No siempre estábamos de acuerdo, pero escuchábamos. Compartíamos historias, discutíamos (a veces con pasión) y encontrábamos formas de mantenernos conectados a pesar de nuestras diferencias. No se trataba de ganar un argumento; se trataba de entender a las personas que amaba.
 
-## The Importance of Listening
+## La Importancia de Escuchar
 
-What I’ve learned is that listening isn’t just a courtesy—it’s a tool for building trust. When you take the time to truly hear someone, you begin to understand the fears, hopes, and values that drive their beliefs. It doesn’t mean you have to agree, but it opens the door to empathy and connection.
+Lo que he aprendido es que escuchar no es solo una cortesía; es una herramienta para construir confianza. Cuando te tomas el tiempo para realmente escuchar a alguien, comienzas a entender los miedos, esperanzas y valores que impulsan sus creencias. No significa que tengas que estar de acuerdo, pero abre la puerta a la empatía y la conexión.
 
-This ability to listen and empathize has become a cornerstone of my leadership. Whether I’m speaking with a young activist fighting for climate action or a small business owner worried about government overreach, I approach every conversation with the goal of understanding—not judging.
+Esta habilidad para escuchar y empatizar se ha convertido en una piedra angular de mi liderazgo. Ya sea que esté hablando con un joven activista que lucha por la acción climática o un pequeño empresario preocupado por el exceso de poder del gobierno, abordo cada conversación con el objetivo de entender, no de juzgar.
 
-## Finding Common Ground
+## Encontrando Puntos en Común
 
-One of the greatest lessons from my family is that unity doesn’t mean uniformity. We don’t have to agree on every issue to find common ground. At the heart of our differences, I found shared values: a desire for safety, opportunity, and dignity for our families and communities. These shared values became the foundation for building bridges, both within my family and in the broader world.
+Una de las mayores lecciones de mi familia es que la unidad no significa uniformidad. No tenemos que estar de acuerdo en cada tema para encontrar puntos en común. En el corazón de nuestras diferencias, encontré valores compartidos: un deseo de seguridad, oportunidades y dignidad para nuestras familias y comunidades. Estos valores compartidos se convirtieron en la base para construir puentes, tanto dentro de mi familia como en el mundo en general.
 
-In my advocacy, I prioritize finding solutions that reflect these shared values. I believe in crafting policies that uplift everyone—regardless of political affiliation—because real progress requires collaboration and a willingness to bridge divides.
+En mi defensa, priorizo encontrar soluciones que reflejen estos valores compartidos. Creo en elaborar políticas que beneficien a todos, independientemente de la afiliación política, porque el verdadero progreso requiere colaboración y una disposición para unir divisiones.
 
-## Building Bridges in Leadership
+## Construyendo Puentes en el Liderazgo
 
-The lessons from my family go beyond personal relationships—they shape my approach to leadership. In a time when our society feels more divided than ever, we need leaders who can bring people together, who can focus on solutions instead of partisanship, and who understand that our differences are a source of strength, not division.
+Las lecciones de mi familia van más allá de las relaciones personales; moldean mi enfoque hacia el liderazgo. En un momento en que nuestra sociedad se siente más dividida que nunca, necesitamos líderes que puedan unir a las personas, que puedan enfocarse en soluciones en lugar de en el partidismo, y que entiendan que nuestras diferencias son una fuente de fortaleza, no de división.
 
-Building bridges isn’t about compromise for the sake of appeasement—it’s about creating spaces where everyone feels heard and valued. It’s about crafting policies that address the root causes of our challenges and ensuring that every voice contributes to the solution.
+Construir puentes no se trata de compromisos por el simple hecho de apaciguar; se trata de crear espacios donde todos se sientan escuchados y valorados. Se trata de elaborar políticas que aborden las causas raíz de nuestros desafíos y asegurar que cada voz contribuya a la solución.
 
-## Why It Matters
+## Por Qué Es Importante
 
-Our country is at its best when we work together, not against each other. My family taught me that it’s possible to have hard conversations, to disagree, and still find ways to move forward. That’s the kind of leadership I strive to bring to public life—a leadership that listens, empathizes, and builds connections.
+Nuestro país está en su mejor momento cuando trabajamos juntos, no en contra de los demás. Mi familia me enseñó que es posible tener conversaciones difíciles, estar en desacuerdo y aún así encontrar formas de avanzar. Ese es el tipo de liderazgo que aspiro a traer a la vida pública: un liderazgo que escucha, empatiza y construye conexiones.
 
 ---
 
-**This is why I fight: to bridge divides, to build a future that reflects our shared values, and to create a world where everyone—regardless of their beliefs—has the opportunity to thrive. Together, we can build bridges and create lasting change.**
+**Por eso lucho: para unir divisiones, para construir un futuro que refleje nuestros valores compartidos y para crear un mundo donde todos, independientemente de sus creencias, tengan la oportunidad de prosperar. Juntos, podemos construir puentes y crear un cambio duradero.**

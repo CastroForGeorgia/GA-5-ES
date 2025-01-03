@@ -1,48 +1,48 @@
 ---
 layout: post
-title: "Why Technology is My Superpower"
-description: "My journey in tech, from solving complex coding problems to leading transformative projects, has equipped me to navigate systemic challenges with empathy and precision."
+title: "Por qué la Tecnología es Mi Superpoder"
+description: "Mi trayectoria en la tecnología, desde resolver problemas complejos de programación hasta liderar proyectos transformadores, me ha preparado para enfrentar desafíos sistémicos con empatía y precisión."
 date: 2024-12-07
 image: '/images/agi-header.webp'
 
 redirect_from:
-  - /2025-01-01-why-technology-is-my-superpower/
+  - /2025-01-01-por-que-la-tecnologia-es-mi-superpoder/
 ---
 
-Technology has always been more than a career for me—it’s been a way to solve problems, connect people, and create opportunities. From the first time I wrote a simple program to my work leading transformative projects, I’ve seen firsthand how technology can be a powerful tool for change. It’s taught me to think critically, act decisively, and always consider the human impact of the systems we build.
+La tecnología siempre ha sido más que una carrera para mí; ha sido una forma de resolver problemas, conectar personas y crear oportunidades. Desde la primera vez que escribí un programa sencillo hasta mi trabajo liderando proyectos transformadores, he visto de primera mano cómo la tecnología puede ser una herramienta poderosa para el cambio. Me ha enseñado a pensar críticamente, actuar con decisión y siempre considerar el impacto humano de los sistemas que construimos.
 
-My background in engineering is more than just a set of technical skills—it’s my superpower. It’s what equips me to navigate systemic challenges with empathy and precision, bringing a problem-solver’s mindset to the issues that matter most to our communities.
+Mi formación en ingeniería es más que un conjunto de habilidades técnicas; es mi superpoder. Es lo que me permite enfrentar desafíos sistémicos con empatía y precisión, aportando una mentalidad de solucionador de problemas a los temas que más importan a nuestras comunidades.
 
-## The Journey from Coder to Leader
+## El Viaje de Programador a Líder
 
-When I started my journey in tech, it was all about the thrill of solving problems. Debugging code, optimizing systems, and building tools that made people’s lives easier gave me a sense of purpose and accomplishment. But as I grew in my career, I realized that technology wasn’t just about what you build—it’s about who you build it for.
+Cuando comencé mi camino en la tecnología, todo giraba en torno a la emoción de resolver problemas. Depurar código, optimizar sistemas y construir herramientas que facilitaran la vida de las personas me daba un sentido de propósito y logro. Pero a medida que avanzaba en mi carrera, me di cuenta de que la tecnología no se trata solo de lo que construyes; se trata de para quién lo construyes.
 
-Leading projects for organizations like the **Baltimore Symphony Orchestra**, the **High Museum of Art**, and the **Seattle Symphony Orchestra** gave me a deep understanding of how technology could serve industries beyond Silicon Valley. I learned how nonprofits and arts organizations navigated limited resources and complex challenges, and I built tools that helped them thrive.
+Liderar proyectos para organizaciones como la **Orquesta Sinfónica de Baltimore**, el **Museo de Arte High** y la **Orquesta Sinfónica de Seattle** me dio una comprensión profunda de cómo la tecnología puede servir a industrias más allá de Silicon Valley. Aprendí cómo las organizaciones sin fines de lucro y las de artes navegan por recursos limitados y desafíos complejos, y construí herramientas que les ayudaron a prosperar.
 
-From there, my work expanded to include projects in healthcare and platforms that empower small businesses—industries where the stakes are high, and the impact is immediate. These experiences shaped my approach to leadership, showing me how to design solutions that prioritize people while addressing systemic inefficiencies.
+A partir de ahí, mi trabajo se expandió para incluir proyectos en el sector salud y plataformas que empoderan a pequeñas empresas, industrias donde las apuestas son altas y el impacto es inmediato. Estas experiencias moldearon mi enfoque hacia el liderazgo, mostrándome cómo diseñar soluciones que priorizan a las personas mientras abordan ineficiencias sistémicas.
 
-## Applying Tech to Systemic Challenges
+## Aplicando la Tecnología a Desafíos Sistémicos
 
-Technology isn’t just about writing code—it’s about understanding systems. It’s about identifying what’s broken, listening to the people affected, and building tools that create meaningful change. My engineering background has taught me to:
+La tecnología no se trata solo de escribir código; se trata de entender sistemas. Se trata de identificar lo que está roto, escuchar a las personas afectadas y construir herramientas que generen un cambio significativo. Mi formación en ingeniería me ha enseñado a:
 
-- **Break Down Complex Problems**: Whether it’s debugging a program or addressing economic inequality, the key is to tackle challenges one step at a time while keeping the bigger picture in mind.  
-- **Design Human-Centered Solutions**: Technology is only effective when it serves real people. I approach every challenge by asking how it impacts those who are most vulnerable and how we can make systems more inclusive.  
-- **Iterate and Improve**: No solution is perfect on the first try. Just as I refine code, I believe in refining policies and systems based on feedback and real-world results.  
+- **Descomponer Problemas Complejos**: Ya sea depurando un programa o abordando la desigualdad económica, la clave es enfrentar los desafíos paso a paso, manteniendo siempre en mente el panorama general.  
+- **Diseñar Soluciones Centrada en las Personas**: La tecnología solo es efectiva cuando sirve a personas reales. Abordo cada desafío preguntando cómo impacta a los más vulnerables y cómo podemos hacer que los sistemas sean más inclusivos.  
+- **Iterar y Mejorar**: Ninguna solución es perfecta a la primera. Así como refino el código, creo en refinar políticas y sistemas basados en la retroalimentación y resultados del mundo real.  
 
-These principles guide how I approach the systemic challenges our communities face today—from housing insecurity to healthcare access to government accountability.
+Estos principios guían mi enfoque ante los desafíos sistémicos que enfrentan nuestras comunidades hoy, desde la inseguridad habitacional hasta el acceso a la salud y la rendición de cuentas del gobierno.
 
-## The Power of Empathy in Technology
+## El Poder de la Empatía en la Tecnología
 
-While technology gives us incredible tools, it’s empathy that ensures we use them wisely. My work has taught me to look beyond the technical problem and consider the human experience. Whether it’s a family trying to find affordable housing or a small business owner navigating bureaucracy, the goal is always to make systems easier, fairer, and more effective.
+Si bien la tecnología nos brinda herramientas increíbles, es la empatía la que asegura que las usemos sabiamente. Mi trabajo me ha enseñado a mirar más allá del problema técnico y considerar la experiencia humana. Ya sea una familia tratando de encontrar vivienda asequible o un pequeño empresario navegando por la burocracia, el objetivo siempre es hacer que los sistemas sean más fáciles, justos y efectivos.
 
-This combination of technical expertise and human understanding is what sets technology apart as a tool for empowerment. It’s not just about innovation—it’s about creating solutions that uplift people and build stronger communities.
+Esta combinación de experiencia técnica y comprensión humana es lo que distingue a la tecnología como una herramienta de empoderamiento. No se trata solo de innovación; se trata de crear soluciones que eleven a las personas y construyan comunidades más fuertes.
 
-## Why This Matters
+## Por Qué Esto Importa
 
-In Congress, I plan to bring this same mindset to leadership. Technology has taught me to think critically, act with precision, and always center the needs of the people I serve. Whether it’s using data to hold politicians accountable, building platforms like the **Mantle Platform** to connect people with resources, or designing policies that address systemic inequities, my goal is to use my superpower for good.
+En el Congreso, planeo llevar esta misma mentalidad al liderazgo. La tecnología me ha enseñado a pensar críticamente, actuar con precisión y siempre centrarme en las necesidades de las personas a las que sirvo. Ya sea utilizando datos para responsabilizar a los políticos, construyendo plataformas como la **Plataforma Mantle** para conectar a las personas con recursos, o diseñando políticas que aborden inequidades sistémicas, mi objetivo es usar mi superpoder para el bien.
 
-We need leaders who understand how systems work—leaders who don’t just point out what’s broken but have the skills and vision to fix it. That’s what I bring to the table, and that’s why I’m fighting for a future where technology isn’t just a tool for the few but a resource for everyone.
+Necesitamos líderes que entiendan cómo funcionan los sistemas; líderes que no solo señalen lo que está roto, sino que tengan las habilidades y la visión para solucionarlo. Eso es lo que aporto a la mesa, y por eso estoy luchando por un futuro donde la tecnología no sea solo una herramienta para unos pocos, sino un recurso para todos.
 
 ---
 
-**This is why I fight: to use technology as a force for empowerment, to bring a problem-solver’s mindset to leadership, and to build systems that work for everyone. Together, we can harness the power of innovation to create a better future for all.**
+**Por eso lucho: para usar la tecnología como una fuerza de empoderamiento, para llevar una mentalidad de solucionador de problemas al liderazgo y para construir sistemas que funcionen para todos. Juntos, podemos aprovechar el poder de la innovación para crear un futuro mejor para todos.**

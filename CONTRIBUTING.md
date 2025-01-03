@@ -1,53 +1,53 @@
-# Contributing to Castro for GA5
+# Contribuyendo a Castro para GA5
 
-Thank you for your interest in contributing to the **Andres Castro for Georgia's 5th Congressional District** campaign! Your support and participation are invaluable to our mission. Please follow these guidelines to ensure a smooth and effective collaboration.
+¡Gracias por tu interés en contribuir a la campaña de **Andres Castro para el Quinto Distrito Congressional de Georgia**! Tu apoyo y participación son invaluables para nuestra misión. Por favor, sigue estas pautas para asegurar una colaboración fluida y efectiva.
 
-## How to Contribute
+## Cómo Contribuir
 
-We offer several ways for you to get involved and make a meaningful impact on our campaign. Please choose the option that best fits your interests and expertise:
+Ofrecemos varias maneras para que te involucres y hagas un impacto significativo en nuestra campaña. Por favor, elige la opción que mejor se adapte a tus intereses y habilidades:
 
-### **1. Propose a Policy**
+### **1. Proponer una Política**
 
-Help shape our campaign's policies by suggesting new ideas or improvements to existing ones.
+Ayuda a dar forma a las políticas de nuestra campaña sugiriendo nuevas ideas o mejoras a las existentes.
 
-- **How to Contribute:**  
-  Open an issue using the [Policy Suggestion template](./.github/ISSUE_TEMPLATE/policy_suggestion.md).
+- **Cómo Contribuir:**  
+  Abre un tema usando la [plantilla de Sugerencia de Política](./.github/ISSUE_TEMPLATE/policy_suggestion.md).
 
-### **2. Volunteer**
+### **2. Ser Voluntario**
 
-Join our team and contribute your time and skills to support various campaign activities.
+Únete a nuestro equipo y contribuye con tu tiempo y habilidades para apoyar diversas actividades de la campaña.
 
-- **How to Contribute:**  
-  Open an issue using the [Volunteer Sign-Up template](./.github/ISSUE_TEMPLATE/volunteer_sign_up.md).
+- **Cómo Contribuir:**  
+  Abre un tema usando la [plantilla de Inscripción de Voluntarios](./.github/ISSUE_TEMPLATE/volunteer_sign_up.md).
 
-### **3. Propose an Event Idea**
+### **3. Proponer una Idea para un Evento**
 
-Have an idea for a rally, town hall, or any other campaign event? We’d love to hear it!
+¿Tienes una idea para un mitin, una reunión comunitaria o cualquier otro evento de campaña? ¡Nos encantaría escucharla!
 
-- **How to Contribute:**  
-  Open an issue using the [Event Idea template](./.github/ISSUE_TEMPLATE/event_idea.md).
+- **Cómo Contribuir:**  
+  Abre un tema usando la [plantilla de Idea para Evento](./.github/ISSUE_TEMPLATE/event_idea.md).
 
-### **4. Provide General Feedback**
+### **4. Proporcionar Retroalimentación General**
 
-Share your thoughts on our campaign strategies, materials, or any other aspect you think can be improved.
+Comparte tus pensamientos sobre nuestras estrategias de campaña, materiales o cualquier otro aspecto que creas que se puede mejorar.
 
-- **How to Contribute:**  
-  Open an issue using the [General Feedback template](./.github/ISSUE_TEMPLATE/general_feedback.md).
+- **Cómo Contribuir:**  
+  Abre un tema usando la [plantilla de Retroalimentación General](./.github/ISSUE_TEMPLATE/general_feedback.md).
 
-### **5. Report an Issue**
+### **5. Reportar un Problema**
 
-Encountered a problem with our campaign website, materials, or other resources? Let us know so we can address it promptly.
+¿Te has encontrado con un problema en nuestro sitio web de campaña, materiales u otros recursos? Háznoslo saber para que podamos abordarlo de inmediato.
 
-- **How to Contribute:**  
-  Open an issue using the [Report an Issue template](./.github/ISSUE_TEMPLATE/report_issue.md).
+- **Cómo Contribuir:**  
+  Abre un tema usando la [plantilla de Reportar un Problema](./.github/ISSUE_TEMPLATE/report_issue.md).
 
-### **6. Update Contact Information**
+### **6. Actualizar Información de Contacto**
 
-Need to update or correct your contact details in our records? Please inform us through the designated channel.
+¿Necesitas actualizar o corregir tus datos de contacto en nuestros registros? Por favor, infórmanos a través del canal designado.
 
-- **How to Contribute:**  
-  Open an issue using the [Contact Information Update template](./.github/ISSUE_TEMPLATE/contact_update.md).
+- **Cómo Contribuir:**  
+  Abre un tema usando la [plantilla de Actualización de Información de Contacto](./.github/ISSUE_TEMPLATE/contact_update.md).
 
-## Code of Conduct
+## Código de Conducta
 
-Please ensure that you adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions with the campaign team and fellow contributors. We are committed to maintaining a respectful and inclusive environment for everyone.
+Por favor, asegúrate de cumplir con nuestro [Código de Conducta](CODE_OF_CONDUCT.md) en todas tus interacciones con el equipo de campaña y otros colaboradores. Estamos comprometidos a mantener un ambiente respetuoso e inclusivo para todos.

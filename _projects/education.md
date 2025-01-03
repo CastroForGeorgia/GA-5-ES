@@ -1,131 +1,131 @@
 ---
-title: "Education"
-description: "Investing in our teachers, modernizing public schools, and ensuring equitable education funding to create a brighter, fairer future for Georgia's 5th District."
+title: "Educación"
+description: "Invertir en nuestros maestros, modernizar las escuelas públicas y garantizar un financiamiento educativo equitativo para crear un futuro más brillante y justo para el 5to Distrito de Georgia."
 date: 2024-11-28 00:00:00 +0000
-label: "Policy"
+label: "Política"
 image: "/images/education-policy-header.webp"
-keywords: [Public Education, Teacher Pay, Education Equity, Georgia 5th Congressional District, Affordable Education, Classroom Funding, Modern Schools, Community Schools, Education Reform, Mental Health Support]
+keywords: [Educación Pública, Sueldo de Maestros, Equidad Educativa, 5to Distrito Congresional de Georgia, Educación Asequible, Financiamiento Escolar, Escuelas Modernas, Escuelas Comunitarias, Reforma Educativa, Apoyo a la Salud Mental]
 ---
 
-# Education for All: A Brighter Future Through Public Schools
+# Educación para Todos: Un Futuro Brillante a Través de las Escuelas Públicas
 
-## Overview
+## Resumen
 
-**Public education is the great equalizer**—a promise that every child, regardless of background, has access to opportunity. Yet, underfunding, teacher burnout, and the diversion of public resources to private institutions undermine this foundation. In **Georgia's 5th Congressional District**, we will restore and reinvest in public education to support teachers, modernize schools, and ensure every student thrives.
-
----
-
-## **Our Education Goals**
-
-### 👩‍🏫 **1. Support Our Teachers**
-- **Raise Teacher Pay**:  
-  Implement competitive salary scales so no teacher needs a second job to make ends meet.  
-- **Stop Out-of-Pocket Expenses**:  
-  Fully fund classroom supplies and ensure teachers don’t spend personal money on resources.  
-- **Comprehensive Benefits**:  
-  Provide quality healthcare, retirement plans, and wellness programs to support teachers’ physical and mental health.
+**La educación pública es el gran igualador**—una promesa de que cada niño, sin importar su origen, tiene acceso a oportunidades. Sin embargo, la falta de financiamiento, el agotamiento de los maestros y la desviación de recursos públicos hacia instituciones privadas socavan esta base. En **el 5to Distrito Congresional de Georgia**, restauraremos y reinvertiremos en la educación pública para apoyar a los maestros, modernizar las escuelas y asegurar que cada estudiante prospere.
 
 ---
 
-### 🏫 **2. Increase and Equitably Distribute Public Education Funding**
-- **Boost Federal and State Investment**:  
-  Secure increased funding to modernize schools and bridge resource gaps in low-income communities.  
-- **Target Underserved Schools**:  
-  Direct funding to districts with the highest need to reduce educational inequality.  
-- **No Public Funds for Private Schools**:  
-  End vouchers and privatization schemes that drain resources from public education.
+## **Nuestros Objetivos Educativos**
+
+### 👩‍🏫 **1. Apoyar a Nuestros Maestros**
+- **Aumentar el Sueldo de los Maestros**:  
+  Implementar escalas salariales competitivas para que ningún maestro necesite un segundo trabajo para llegar a fin de mes.  
+- **Eliminar Gastos de Su Propio Bolsillo**:  
+  Financiar completamente los suministros de aula y asegurar que los maestros no gasten dinero personal en recursos.  
+- **Beneficios Integrales**:  
+  Proporcionar atención médica de calidad, planes de jubilación y programas de bienestar para apoyar la salud física y mental de los maestros.
 
 ---
 
-### 🛠️ **3. Modernize Our Schools**
-- **Upgrade Infrastructure**:  
-  Renovate aging school buildings to provide safe, modern, and energy-efficient learning spaces.  
-- **Technology in Every Classroom**:  
-  Equip schools with updated technology, internet access, and teacher training to prepare students for a digital economy.  
+### 🏫 **2. Aumentar y Distribuir Equitativamente el Financiamiento de la Educación Pública**
+- **Incrementar la Inversión Federal y Estatal**:  
+  Asegurar un aumento en el financiamiento para modernizar las escuelas y cerrar las brechas de recursos en comunidades de bajos ingresos.  
+- **Dirigir Fondos a Escuelas Desatendidas**:  
+  Canalizar financiamiento a distritos con mayor necesidad para reducir la desigualdad educativa.  
+- **No a los Fondos Públicos para Escuelas Privadas**:  
+  Terminar con los vales y esquemas de privatización que drenan recursos de la educación pública.
 
 ---
 
-### 🤝 **4. Build Inclusive, Supportive Learning Communities**
-- **Mental Health Services**:  
-  Fund school counselors, psychologists, and social workers to address students’ emotional and mental health needs.  
-- **Diversity and Anti-Discrimination Policies**:  
-  Enforce policies that create inclusive, equitable school environments for all students.  
-- **Community Schools**:  
-  Support schools as community hubs offering after-school programs, family resources, and healthcare access.
+### 🛠️ **3. Modernizar Nuestras Escuelas**
+- **Actualizar la Infraestructura**:  
+  Renovar edificios escolares envejecidos para proporcionar espacios de aprendizaje seguros, modernos y energéticamente eficientes.  
+- **Tecnología en Cada Aula**:  
+  Equipar las escuelas con tecnología actualizada, acceso a internet y capacitación para maestros para preparar a los estudiantes para una economía digital.  
 
 ---
 
-## **Policy Initiatives**
-
-### **1. Fair Pay and Full Support for Teachers**
-- **Salary Reform**: Raise teacher pay to match their critical role in shaping our future.  
-- **Eliminate Personal Costs**: Fully fund supplies, materials, and teaching aids to relieve financial burdens.  
-- **Benefit Packages**: Expand healthcare options, retirement plans, and paid leave for educators.
-
----
-
-### **2. Equitable Education Funding**
-- **Revise Funding Formulas**: Direct resources to low-income schools and underserved communities.  
-- **Stop Privatization**: Prevent public dollars from funding private or charter schools.  
-- **Transparency and Accountability**: Require clear reporting on school budgets to ensure equitable spending.
+### 🤝 **4. Construir Comunidades de Aprendizaje Inclusivas y Solidarias**
+- **Servicios de Salud Mental**:  
+  Financiar consejeros escolares, psicólogos y trabajadores sociales para abordar las necesidades emocionales y de salud mental de los estudiantes.  
+- **Políticas de Diversidad y Antidiscriminación**:  
+  Hacer cumplir políticas que creen entornos escolares inclusivos y equitativos para todos los estudiantes.  
+- **Escuelas Comunitarias**:  
+  Apoyar a las escuelas como centros comunitarios que ofrecen programas extracurriculares, recursos familiares y acceso a atención médica.
 
 ---
 
-### **3. Modernize Facilities and Technology**
-- **Safe and Modern Classrooms**: Renovate outdated facilities and implement energy-efficient systems.  
-- **Tech Access for All**: Provide every school with computers, high-speed internet, and teacher training on new technologies.  
+## **Iniciativas de Política**
+
+### **1. Pago Justo y Apoyo Completo para los Maestros**
+- **Reforma Salarial**: Aumentar el sueldo de los maestros para que refleje su papel crítico en la formación de nuestro futuro.  
+- **Eliminar Costos Personales**: Financiar completamente suministros, materiales y ayudas didácticas para aliviar las cargas financieras.  
+- **Paquetes de Beneficios**: Ampliar las opciones de atención médica, planes de jubilación y licencias pagadas para educadores.
 
 ---
 
-### **4. Mental Health and Inclusive Education**
-- **Mental Health Support**: Fund counselors, therapists, and mental health programs in schools.  
-- **Anti-Discrimination Programs**: Implement policies that protect students from bias and bullying while celebrating diversity.  
-- **Expand Community Schools**: Develop schools that provide family services, after-school enrichment, and healthcare.
+### **2. Financiamiento Educativo Equitativo**
+- **Revisar las Fórmulas de Financiamiento**: Dirigir recursos a escuelas de bajos ingresos y comunidades desatendidas.  
+- **Detener la Privatización**: Prevenir que los fondos públicos financien escuelas privadas o charter.  
+- **Transparencia y Responsabilidad**: Requerir informes claros sobre los presupuestos escolares para asegurar un gasto equitativo.
 
 ---
 
-## **How This Benefits Georgia’s 5th District**
-
-### 🎓 **Improved Educational Outcomes**
-- Better-funded schools and well-supported teachers lead to higher graduation rates and academic success.  
-
-### 💼 **Stronger Local Economy**
-- Investments in public education build a skilled, competitive workforce ready for the jobs of tomorrow.  
-
-### 🏘️ **Thriving Communities**
-- Schools become centers of community engagement, family support, and economic opportunity.  
-
-### 🤝 **Reduced Inequality**
-- Equitable funding ensures every child—regardless of zip code—receives a quality education.
+### **3. Modernizar Instalaciones y Tecnología**
+- **Aulas Seguras y Modernas**: Renovar instalaciones obsoletas e implementar sistemas energéticamente eficientes.  
+- **Acceso a Tecnología para Todos**: Proporcionar a cada escuela computadoras, internet de alta velocidad y capacitación para maestros en nuevas tecnologías.  
 
 ---
 
-## **Action Plan**
-
-✅ **1. Legislative Leadership**  
-- Introduce bills to raise teacher salaries, fully fund schools, and prohibit public funds from supporting private institutions.  
-- Advocate for increased federal funding to modernize classrooms and address disparities.
-
-✅ **2. Invest in Mental Health**  
-- Secure funding for mental health counselors and create school-based wellness programs to support students and staff.  
-
-✅ **3. Infrastructure and Technology Investment**  
-- Partner with federal and local programs to renovate schools and provide up-to-date learning tools.  
-
-✅ **4. Community Engagement**  
-- Host town halls to gather feedback and ensure community voices shape education policy.  
-- Work with local organizations to develop community school models.
+### **4. Apoyo a la Salud Mental y Educación Inclusiva**
+- **Apoyo a la Salud Mental**: Financiar consejeros, terapeutas y programas de salud mental en las escuelas.  
+- **Programas Antidiscriminación**: Implementar políticas que protejan a los estudiantes de sesgos y acosos mientras celebran la diversidad.  
+- **Expandir Escuelas Comunitarias**: Desarrollar escuelas que ofrezcan servicios familiares, enriquecimiento extracurricular y atención médica.
 
 ---
 
-## Conclusion: A Future We Can Build Together
+## **Cómo Esto Beneficia al 5to Distrito de Georgia**
 
-**Public education is not just a policy—it’s a promise.** A promise that every child will have the tools to succeed, that every teacher will be respected and supported, and that every community will thrive.  
+### 🎓 **Mejores Resultados Educativos**
+- Escuelas mejor financiadas y maestros bien apoyados conducen a tasas de graduación más altas y éxito académico.  
 
-In **Georgia's 5th District**, we will fight to restore and strengthen public education. By investing in teachers, modernizing schools, and prioritizing equity, we can build a brighter, fairer future for our children, families, and communities.  
+### 💼 **Economía Local Más Fuerte**
+- Las inversiones en educación pública construyen una fuerza laboral calificada y competitiva lista para los empleos del mañana.  
 
-**Join us in the fight for strong public schools. Together, we’ll deliver on the promise of education for all.**
+### 🏘️ **Comunidades Prósperas**
+- Las escuelas se convierten en centros de participación comunitaria, apoyo familiar y oportunidades económicas.  
+
+### 🤝 **Reducción de la Desigualdad**
+- Un financiamiento equitativo asegura que cada niño—sin importar su código postal—reciba una educación de calidad.
 
 ---
 
-**#PublicEducation #TeacherPay #ModernSchools #EducationJustice #SupportOurStudents #Georgia5thDistrict**
+## **Plan de Acción**
+
+✅ **1. Liderazgo Legislativo**  
+- Introducir proyectos de ley para aumentar los salarios de los maestros, financiar completamente las escuelas y prohibir que los fondos públicos apoyen instituciones privadas.  
+- Abogar por un aumento del financiamiento federal para modernizar las aulas y abordar las disparidades.
+
+✅ **2. Invertir en Salud Mental**  
+- Asegurar financiamiento para consejeros de salud mental y crear programas de bienestar en las escuelas para apoyar a estudiantes y personal.  
+
+✅ **3. Inversión en Infraestructura y Tecnología**  
+- Asociarse con programas federales y locales para renovar escuelas y proporcionar herramientas de aprendizaje actualizadas.  
+
+✅ **4. Compromiso Comunitario**  
+- Organizar asambleas comunitarias para recopilar opiniones y asegurar que las voces de la comunidad den forma a la política educativa.  
+- Trabajar con organizaciones locales para desarrollar modelos de escuelas comunitarias.
+
+---
+
+## Conclusión: Un Futuro que Podemos Construir Juntos
+
+**La educación pública no es solo una política—es una promesa.** Una promesa de que cada niño tendrá las herramientas para tener éxito, que cada maestro será respetado y apoyado, y que cada comunidad prosperará.  
+
+En **el 5to Distrito de Georgia**, lucharemos por restaurar y fortalecer la educación pública. Al invertir en maestros, modernizar escuelas y priorizar la equidad, podemos construir un futuro más brillante y justo para nuestros niños, familias y comunidades.  
+
+**Únete a nosotros en la lucha por escuelas públicas fuertes. Juntos, cumpliremos con la promesa de la educación para todos.**
+
+---
+
+**#EducaciónPública #SueldoDeMaestros #EscuelasModernas #JusticiaEducativa #ApoyemosANuestrosEstudiantes #Distrito5Georgia**

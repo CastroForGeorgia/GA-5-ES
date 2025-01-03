@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "From Junior Engineer to Staff Engineer: Building Systems, Solving Problems"
-description: "How Andres Castro's career as a software engineer shaped his leadership approach, focusing on understanding systems, empowering others, and delivering impactful results for communities."
+title: "De Ingeniero Junior a Ingeniero de Personal: Construyendo Sistemas, Resolviendo Problemas"
+description: "Cómo la carrera de Andres Castro como ingeniero de software moldeó su enfoque de liderazgo, centrado en entender sistemas, empoderar a otros y ofrecer resultados impactantes para las comunidades."
 date: 2024-12-13 00:00:00 +0000
 image: '/images/education-policy-header.webp'
 
@@ -9,50 +9,50 @@ redirect_from:
   - /2025-01-01-career-journey/
 ---
 
-Every journey begins with a single step. For me, that step was as a junior engineer, eager to learn, solve problems, and prove myself in a field that demanded precision and innovation. Over the years, I worked my way up to staff engineer, leading projects that weren’t just about technology but about people—improving lives, solving real-world challenges, and delivering results that mattered.
+Cada viaje comienza con un solo paso. Para mí, ese paso fue como ingeniero junior, ansioso por aprender, resolver problemas y demostrar mi valía en un campo que exigía precisión e innovación. Con el paso de los años, ascendí hasta convertirme en ingeniero de personal, liderando proyectos que no solo se trataban de tecnología, sino de personas: mejorando vidas, resolviendo desafíos del mundo real y entregando resultados que importaban.
 
-That career taught me more than just how to write code or build systems. It shaped how I approach challenges, how I collaborate, and how I lead. These lessons—earned through years of work—now define my vision for leadership and my approach to serving others.
+Esa carrera me enseñó más que solo cómo escribir código o construir sistemas. Moldeó mi forma de enfrentar desafíos, cómo colaboro y cómo lidero. Estas lecciones, ganadas a través de años de trabajo, ahora definen mi visión del liderazgo y mi enfoque para servir a los demás.
 
-## Breaking Down Challenges
+## Desglosando Desafíos
 
-One of the first things I learned as an engineer was that problems are rarely as simple as they seem. Behind every bug, glitch, or inefficiency is a system—one shaped by decisions, constraints, and human effort. To fix it, you can’t just patch the surface. You have to dig deeper.
+Una de las primeras cosas que aprendí como ingeniero fue que los problemas rara vez son tan simples como parecen. Detrás de cada error, fallo o ineficiencia hay un sistema, uno moldeado por decisiones, limitaciones y esfuerzo humano. Para solucionarlo, no puedes simplemente parchear la superficie. Tienes que profundizar.
 
-When I looked at lines of code, I didn’t just see syntax; I tried to understand the environment that created it. Was this written under a tight deadline? Was it part of a startup sprinting to deliver a product, or a corporate project bogged down by layers of process? This lens of understanding wasn’t about blame—it was about context. And it’s the same lens I bring to leadership.
+Cuando miraba líneas de código, no solo veía sintaxis; trataba de entender el entorno que lo creó. ¿Se escribió esto bajo una fecha límite ajustada? ¿Era parte de una startup que corría para entregar un producto, o un proyecto corporativo atascado por capas de procesos? Esta perspectiva de entendimiento no se trataba de culpas, sino de contexto. Y es la misma perspectiva que traigo al liderazgo.
 
-Whether I’m tackling a technical issue or addressing a systemic challenge in our community, I start by asking questions: Why is this happening? Who is affected? What constraints are shaping the problem? Only then can we craft solutions that don’t just fix what’s broken but make the entire system better.
+Ya sea que esté abordando un problema técnico o enfrentando un desafío sistémico en nuestra comunidad, empiezo haciendo preguntas: ¿Por qué está sucediendo esto? ¿Quién se ve afectado? ¿Qué limitaciones están moldeando el problema? Solo entonces podemos crear soluciones que no solo reparen lo que está roto, sino que mejoren todo el sistema.
 
-## Seeking Purpose in My Work
+## Buscando Propósito en Mi Trabajo
 
-Throughout my career, I’ve sought out opportunities to work on projects that make a difference. I’ve always believed that technology should serve a greater good, and that belief has guided every step of my journey.
+A lo largo de mi carrera, he buscado oportunidades para trabajar en proyectos que marquen la diferencia. Siempre he creído que la tecnología debe servir a un bien mayor, y esa creencia ha guiado cada paso de mi viaje.
 
-Some of the most transformative experiences in my career came through working with nonprofit arts organizations. These included the **[Baltimore Symphony Orchestra](https://www.bsomusic.org/)**, **[High Museum of Art](https://www.high.org/)**, **[Seattle Symphony Orchestra](https://seattlesymphony.org/)**, **[Lyric Opera of Chicago](https://www.lyricopera.org/)**, **[Oregon Shakespeare Festival](https://www.osfashland.org/)**, and the **[Straz Center for the Performing Arts](https://www.strazcenter.org/)**.  
+Algunas de las experiencias más transformadoras en mi carrera vinieron de trabajar con organizaciones artísticas sin fines de lucro. Estas incluyeron la **[Orquesta Sinfónica de Baltimore](https://www.bsomusic.org/)**, el **[Museo de Arte High](https://www.high.org/)**, la **[Orquesta Sinfónica de Seattle](https://seattlesymphony.org/)**, la **[Ópera Lírica de Chicago](https://www.lyricopera.org/)**, el **[Festival de Shakespeare de Oregón](https://www.osfashland.org/)** y el **[Centro Straz para las Artes Escénicas](https://www.strazcenter.org/)**.
 
-These projects taught me about the unique challenges faced by arts and nonprofit industries. From managing limited budgets to leveraging technology for broader community engagement, I saw firsthand how critical it is to align systems with an organization’s mission. Each of these institutions plays a vital role in enriching their communities, and supporting their goals gave my work a deeper purpose.
+Estos proyectos me enseñaron sobre los desafíos únicos que enfrentan las industrias artísticas y sin fines de lucro. Desde gestionar presupuestos limitados hasta aprovechar la tecnología para una mayor participación comunitaria, vi de primera mano cuán crítico es alinear los sistemas con la misión de una organización. Cada una de estas instituciones juega un papel vital en el enriquecimiento de sus comunidades, y apoyar sus objetivos le dio a mi trabajo un propósito más profundo.
 
-These experiences didn’t just make me a better engineer—they deepened my understanding of the arts’ importance in building strong, vibrant communities and the systemic challenges nonprofits face in achieving their missions.
+Estas experiencias no solo me hicieron un mejor ingeniero; profundizaron mi comprensión de la importancia de las artes en la construcción de comunidades fuertes y vibrantes y los desafíos sistémicos que enfrentan las organizaciones sin fines de lucro para lograr sus misiones.
 
-## Uplifting Others and Finding Fulfillment
+## Elevando a Otros y Encontrando Satisfacción
 
-The real turning point in my career came when I stopped trying to be the one with all the answers. I realized that my time was limited, but my impact could be multiplied if I focused on uplifting those around me.
+El verdadero punto de inflexión en mi carrera llegó cuando dejé de intentar ser el que tiene todas las respuestas. Me di cuenta de que mi tiempo era limitado, pero mi impacto podría multiplicarse si me enfocaba en elevar a quienes me rodean.
 
-When I poured my energy into mentoring teammates, sharing knowledge, and creating opportunities for others to grow, I saw something incredible happen. My career didn’t just move forward—it exploded. The more I invested in others, the more fulfilling my work became, and the more successful our teams were. 
+Cuando dirigí mi energía a mentorear a mis compañeros, compartir conocimientos y crear oportunidades para que otros crecieran, vi algo increíble suceder. Mi carrera no solo avanzó; explotó. Cuanto más invertía en los demás, más satisfactoria se volvía mi labor, y más exitosos eran nuestros equipos.
 
-This lesson transformed my understanding of leadership. True leadership isn’t about being the star performer—it’s about empowering others to shine. It’s about building systems, teams, and communities where everyone can thrive.
+Esta lección transformó mi comprensión del liderazgo. El verdadero liderazgo no se trata de ser el mejor en el escenario; se trata de empoderar a otros para que brillen. Se trata de construir sistemas, equipos y comunidades donde todos puedan prosperar.
 
-## Delivering Impactful Results
+## Entregando Resultados Impactantes
 
-In engineering, it’s not enough to build something—it has to work, and it has to matter. I’ve carried that lesson into every aspect of my life. Whether I’m designing systems or crafting policy, I focus on outcomes that make a tangible difference for people.
+En ingeniería, no basta con construir algo; tiene que funcionar y tiene que importar. He llevado esa lección a cada aspecto de mi vida. Ya sea que esté diseñando sistemas o elaborando políticas, me enfoco en resultados que marquen una diferencia tangible para las personas.
 
-When I think about the challenges we face as a community—housing insecurity, healthcare access, economic inequality—I see them as systems in need of redesign. Just as I did in my engineering career, I approach these problems with a focus on impact: crafting solutions that aren’t just bold but practical, actionable, and effective.
+Cuando pienso en los desafíos que enfrentamos como comunidad—la inseguridad habitacional, el acceso a la atención médica, la desigualdad económica—los veo como sistemas que necesitan ser rediseñados. Así como lo hice en mi carrera de ingeniería, abordo estos problemas con un enfoque en el impacto: creando soluciones que no solo sean audaces, sino prácticas, accionables y efectivas.
 
-## Leadership Built on Understanding and Empowerment
+## Liderazgo Basado en la Comprensión y el Empoderamiento
 
-Leadership, to me, isn’t about having all the answers. It’s about asking the right questions, bringing people together, and creating systems that serve everyone. It’s about listening—not just to the loudest voices but to those often left out of the conversation. And it’s about solving problems—not just for today but for the long term.
+El liderazgo, para mí, no se trata de tener todas las respuestas. Se trata de hacer las preguntas correctas, reunir a las personas y crear sistemas que sirvan a todos. Se trata de escuchar, no solo a las voces más fuertes, sino a aquellos que a menudo quedan fuera de la conversación. Y se trata de resolver problemas, no solo para hoy, sino a largo plazo.
 
-What fulfills me most isn’t just solving problems—it’s uplifting those around me. That’s what I want to do with my community and my country. I want to empower others to thrive, to grow, and to lead. I believe that when we work together, when we invest in each other, we can accomplish extraordinary things.
+Lo que más me satisface no es solo resolver problemas; es elevar a quienes me rodean. Eso es lo que quiero hacer con mi comunidad y mi país. Quiero empoderar a otros para que prosperen, crezcan y lideren. Creo que cuando trabajamos juntos, cuando invertimos en los demás, podemos lograr cosas extraordinarias.
 
-The systems we live in—our economy, our healthcare, our education—were built by people. And like any system, they can be rebuilt, redesigned, and improved. With the right leadership, with the right focus, we can solve the problems that hold us back and create a society that works for all of us.
+Los sistemas en los que vivimos—nuestra economía, nuestra atención médica, nuestra educación—fueron construidos por personas. Y como cualquier sistema, pueden ser reconstruidos, rediseñados y mejorados. Con el liderazgo adecuado, con el enfoque correcto, podemos resolver los problemas que nos frenan y crear una sociedad que funcione para todos nosotros.
 
 ---
 
-**This is the leadership I offer: one rooted in understanding, collaboration, and a relentless drive to empower others. Together, we can tackle the challenges ahead—and deliver results that truly matter.**
+**Este es el liderazgo que ofrezco: uno basado en la comprensión, la colaboración y un impulso incesante por empoderar a otros. Juntos, podemos enfrentar los desafíos que se avecinan y entregar resultados que realmente importen.**

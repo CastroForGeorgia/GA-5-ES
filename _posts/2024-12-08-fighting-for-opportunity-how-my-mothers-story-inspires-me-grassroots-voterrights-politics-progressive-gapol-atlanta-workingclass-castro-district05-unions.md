@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Fighting for Opportunity: How My Mother’s Story Inspires Me"
-description: "My mother’s journey to citizenship taught me the transformative power of opportunity. Her determination inspires my fight for policies that honor immigrant families, promote equity, and create pathways for success."
+title: "Luchando por Oportunidades: Cómo la Historia de Mi Madre Me Inspira"
+description: "El camino de mi madre hacia la ciudadanía me enseñó el poder transformador de la oportunidad. Su determinación inspira mi lucha por políticas que honren a las familias inmigrantes, promuevan la equidad y creen caminos hacia el éxito."
 date: 2024-12-08
 image: '/images/immigration-policy-header.webp'
 
@@ -9,41 +9,41 @@ redirect_from:
   - /2025-01-01-fighting-for-opportunity/
 ---
 
-When I think about the power of opportunity, I think of my mother. Her journey to citizenship wasn’t easy—it was a story of grit, determination, and faith in a better future. Watching her navigate the challenges of being an immigrant while raising a family taught me lessons I carry with me every day. Her story is a testament to how transformative opportunity can be when it’s paired with hard work and hope.
+Cuando pienso en el poder de la oportunidad, pienso en mi madre. Su camino hacia la ciudadanía no fue fácil; fue una historia de tenacidad, determinación y fe en un futuro mejor. Verla enfrentar los desafíos de ser inmigrante mientras criaba a una familia me enseñó lecciones que llevo conmigo todos los días. Su historia es un testimonio de cuán transformadora puede ser la oportunidad cuando se combina con trabajo duro y esperanza.
 
-Her determination didn’t just shape my life—it inspires my fight for policies that honor immigrant families, promote equity, and create pathways for success for everyone.
+Su determinación no solo moldeó mi vida; inspira mi lucha por políticas que honren a las familias inmigrantes, promuevan la equidad y creen caminos hacia el éxito para todos.
 
-## My Mother’s Journey
+## El Viaje de Mi Madre
 
-My mother immigrated to the United States with nothing but her grit and a dream. She worked tirelessly, often taking on multiple jobs just to keep our family afloat. For years, she lived in the shadows, like so many undocumented immigrants who contribute so much to our communities but are denied basic recognition and rights.
+Mi madre inmigró a los Estados Unidos con nada más que su valentía y un sueño. Trabajó incansablemente, a menudo asumiendo múltiples empleos solo para mantener a nuestra familia a flote. Durante años, vivió en las sombras, como tantos inmigrantes indocumentados que contribuyen tanto a nuestras comunidades pero que son negados el reconocimiento y los derechos básicos.
 
-Everything changed for her—and for us—when she had the chance to apply for citizenship through the Reagan-era Amnesty program. That opportunity gave her the stability to buy her first home, to provide more for her children, and to dream beyond survival. Her life transformed, and with it, so did ours.
+Todo cambió para ella—y para nosotros—cuando tuvo la oportunidad de solicitar la ciudadanía a través del programa de amnistía de la era Reagan. Esa oportunidad le dio la estabilidad para comprar su primera casa, para proporcionar más a sus hijos y para soñar más allá de la mera supervivencia. Su vida se transformó, y con ella, también la nuestra.
 
-## The Transformative Power of Opportunity
+## El Poder Transformador de la Oportunidad
 
-My mother’s story taught me that opportunity isn’t just about individual success—it’s about the ripple effects it creates for families and communities. When we invest in people, when we give them the tools and resources they need to thrive, the results are extraordinary.
+La historia de mi madre me enseñó que la oportunidad no se trata solo del éxito individual; se trata de los efectos en cadena que crea para las familias y las comunidades. Cuando invertimos en las personas, cuando les damos las herramientas y recursos que necesitan para prosperar, los resultados son extraordinarios.
 
-But opportunity shouldn’t be a matter of luck or timing. It should be a guarantee—a promise that everyone, regardless of where they come from, has a fair shot at building a better life. That’s why I fight for policies that ensure opportunity isn’t reserved for the few but available to all.
+Pero la oportunidad no debería ser cuestión de suerte o de tiempo. Debería ser una garantía—una promesa de que todos, sin importar de dónde vengan, tienen una oportunidad justa para construir una vida mejor. Por eso lucho por políticas que aseguren que la oportunidad no esté reservada para unos pocos, sino disponible para todos.
 
-## Fighting for Immigrant Families
+## Luchando por las Familias Inmigrantes
 
-My mother’s journey showed me the struggles immigrant families face and the immense contributions they make to our society. Yet, too often, our policies fail to reflect their humanity. That’s why I’m committed to:
+El viaje de mi madre me mostró las luchas que enfrentan las familias inmigrantes y las inmensas contribuciones que hacen a nuestra sociedad. Sin embargo, con demasiada frecuencia, nuestras políticas no reflejan su humanidad. Por eso estoy comprometido a:
 
-- **Pathways to Citizenship**: Advocating for legislation that provides undocumented immigrants with a clear, fair, and accessible pathway to legal status.  
-- **Family Unity**: Prioritizing policies that keep families together and end practices like detention and deportation that tear loved ones apart.  
-- **Economic Equity**: Creating opportunities for immigrants to access education, job training, and small business resources to help them succeed and contribute to our communities.  
-- **Protection and Dignity**: Ensuring that no one is forced to live in fear by ending exploitative practices and promoting humane immigration reform.
+- **Caminos hacia la Ciudadanía**: Abogar por legislación que proporcione a los inmigrantes indocumentados un camino claro, justo y accesible hacia el estatus legal.  
+- **Unidad Familiar**: Priorizar políticas que mantengan a las familias unidas y pongan fin a prácticas como la detención y deportación que separan a los seres queridos.  
+- **Equidad Económica**: Crear oportunidades para que los inmigrantes accedan a educación, capacitación laboral y recursos para pequeñas empresas que les ayuden a tener éxito y contribuir a nuestras comunidades.  
+- **Protección y Dignidad**: Asegurar que nadie se vea obligado a vivir con miedo al poner fin a prácticas explotadoras y promover una reforma migratoria humana.
 
-## Promoting Equity and Pathways for Success
+## Promoviendo la Equidad y Caminos hacia el Éxito
 
-The lessons I learned from my mother’s story go beyond immigration. They remind me of the importance of creating systems that uplift everyone, not just those who are already at the top. From affordable housing to universal healthcare to equitable education, every policy I fight for is rooted in the belief that opportunity should be universal.
+Las lecciones que aprendí de la historia de mi madre van más allá de la inmigración. Me recuerdan la importancia de crear sistemas que eleven a todos, no solo a aquellos que ya están en la cima. Desde vivienda asequible hasta atención médica universal y educación equitativa, cada política por la que lucho está arraigada en la creencia de que la oportunidad debería ser universal.
 
-Opportunity is transformative, but it requires investment. It requires leaders who are willing to act boldly to remove barriers, close gaps, and build pathways that allow people to thrive.
+La oportunidad es transformadora, pero requiere inversión. Requiere líderes dispuestos a actuar con valentía para eliminar barreras, cerrar brechas y construir caminos que permitan a las personas prosperar.
 
-## Why It Matters
+## Por Qué Importa
 
-My mother’s story is one of millions. It’s a reminder that behind every struggle is a family striving for something better, and behind every opportunity is the potential to change lives. Her determination inspires me to fight for a future where no one is left behind—a future where opportunity isn’t just a dream but a reality for all.
+La historia de mi madre es una de millones. Es un recordatorio de que detrás de cada lucha hay una familia esforzándose por algo mejor, y detrás de cada oportunidad está el potencial de cambiar vidas. Su determinación me inspira a luchar por un futuro donde nadie se quede atrás—un futuro donde la oportunidad no sea solo un sueño, sino una realidad para todos.
 
 ---
 
-**This is why I fight: to honor stories like my mother’s, to create policies that uplift immigrant families, and to build a future where opportunity belongs to everyone. Together, we can ensure that every family has the chance to thrive.**
+**Por eso lucho: para honrar historias como la de mi madre, para crear políticas que eleven a las familias inmigrantes y para construir un futuro donde la oportunidad pertenezca a todos. Juntos, podemos asegurar que cada familia tenga la oportunidad de prosperar.**

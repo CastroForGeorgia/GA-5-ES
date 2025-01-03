@@ -1,99 +1,99 @@
-# Code of Conduct
+# Código de Conducta
 
-## Our Pledge
+## Nuestro Compromiso
 
-We are committed to creating and maintaining a welcoming and respectful environment for everyone involved in the **Andres Castro for Georgia's 5th Congressional District** campaign. Whether you are a volunteer, supporter, constituent, or collaborator, we expect all participants to uphold the highest standards of conduct.
+Estamos comprometidos a crear y mantener un ambiente acogedor y respetuoso para todos los involucrados en la campaña de **Andres Castro para el 5to Distrito Congressional de Georgia**. Ya seas voluntario, simpatizante, constituyente o colaborador, esperamos que todos los participantes mantengan los más altos estándares de conducta.
 
-## Standards of Behavior
+## Normas de Comportamiento
 
-### **Be Respectful and Considerate**
+### **Sé Respetuoso y Considerado**
 
-- Treat all individuals with kindness and respect.
-- Acknowledge and value diverse perspectives and experiences.
-- Listen actively and engage in constructive dialogue.
+- Trata a todas las personas con amabilidad y respeto.
+- Reconoce y valora las diversas perspectivas y experiencias.
+- Escucha activamente y participa en un diálogo constructivo.
 
-### **Refrain from Offensive Language and Behavior**
+### **Evita Lenguaje y Comportamientos Ofensivos**
 
-- Do not use profanity, slurs, or derogatory language.
-- Avoid personal attacks, harassment, or intimidation.
-- Steer clear of discriminatory remarks based on race, gender, sexual orientation, religion, nationality, disability, or any other protected characteristic.
+- No uses groserías, insultos o lenguaje despectivo.
+- Evita ataques personales, acoso o intimidación.
+- Mantente alejado de comentarios discriminatorios basados en raza, género, orientación sexual, religión, nacionalidad, discapacidad o cualquier otra característica protegida.
 
-### **Focus on Issues, Not Individuals**
+### **Enfócate en los Problemas, No en las Personas**
 
-- Center discussions around policies, ideas, and solutions.
-- Critique concepts and actions without targeting individuals personally.
-- Maintain professionalism in all forms of communication.
+- Centra las discusiones en políticas, ideas y soluciones.
+- Critica conceptos y acciones sin atacar personalmente a los individuos.
+- Mantén el profesionalismo en todas las formas de comunicación.
 
-### **Maintain Privacy and Confidentiality**
+### **Mantén la Privacidad y Confidencialidad**
 
-- Respect the privacy of others by not sharing personal information without consent.
-- Handle sensitive campaign information responsibly and securely.
+- Respeta la privacidad de los demás al no compartir información personal sin consentimiento.
+- Maneja la información sensible de la campaña de manera responsable y segura.
 
-### **Promote Inclusivity and Accessibility**
+### **Promueve la Inclusividad y Accesibilidad**
 
-- Ensure that all campaign activities and materials are accessible to everyone.
-- Encourage participation from individuals of all backgrounds and abilities.
+- Asegúrate de que todas las actividades y materiales de la campaña sean accesibles para todos.
+- Fomenta la participación de individuos de todos los orígenes y habilidades.
 
-## Responsibilities of Participants
+## Responsabilidades de los Participantes
 
-- **Leaders and Organizers:**
-  - Set a positive example by adhering to the Code of Conduct.
-  - Address and resolve any reported violations promptly and fairly.
-  - Foster an inclusive and supportive environment.
+- **Líderes y Organizadores:**
+  - Da un ejemplo positivo al adherirse al Código de Conducta.
+  - Aborda y resuelve cualquier violación reportada de manera rápida y justa.
+  - Fomenta un ambiente inclusivo y de apoyo.
 
-- **Participants:**
-  - Abide by the standards outlined in this Code of Conduct.
-  - Report any misconduct or violations to the designated channels.
-  - Support a culture of respect and collaboration.
+- **Participantes:**
+  - Cumple con los estándares establecidos en este Código de Conducta.
+  - Reporta cualquier conducta inapropiada o violaciones a los canales designados.
+  - Apoya una cultura de respeto y colaboración.
 
-## Reporting and Enforcement
+## Reporte y Aplicación
 
-### **How to Report Violations**
+### **Cómo Reportar Violaciones**
 
-If you experience or witness any behavior that violates this Code of Conduct, please report it immediately through one of the following methods:
+Si experimentas o eres testigo de cualquier comportamiento que viole este Código de Conducta, por favor repórtalo de inmediato a través de uno de los siguientes métodos:
 
-- **Email:** Send a detailed report to [ethics@andrescastro.us](mailto:ethics@andrescastro.us).
-- **Online Form:** [Report a Ethics Violation](https://www.andrescastro.us/ethics-complaint)
+- **Correo Electrónico:** Envía un informe detallado a [ethics@andrescastro.us](mailto:ethics@andrescastro.us).
+- **Formulario en Línea:** [Reportar una Violación Ética](https://www.andrescastro.us/ethics-complaint)
 
-### **What to Include in a Report**
+### **Qué Incluir en un Informe**
 
-- A clear description of the incident(s).
-- Names or identifiers of individuals involved (if known).
-- Date, time, and location of the incident.
-- Any supporting evidence (e.g., screenshots, messages).
-- Your contact information (optional, for follow-up).
+- Una descripción clara del (de los) incidente(s).
+- Nombres o identificadores de las personas involucradas (si se conocen).
+- Fecha, hora y lugar del incidente.
+- Cualquier evidencia de apoyo (por ejemplo, capturas de pantalla, mensajes).
+- Tu información de contacto (opcional, para seguimiento).
 
-### **Confidentiality and Anonymity**
+### **Confidencialidad y Anonimato**
 
-All reports will be treated with the utmost confidentiality. You may choose to remain anonymous; however, providing contact information can help us address the issue more effectively.
+Todos los informes serán tratados con la máxima confidencialidad. Puedes optar por permanecer anónimo; sin embargo, proporcionar información de contacto puede ayudarnos a abordar el problema de manera más efectiva.
 
-### **No Retaliation**
+### **Sin Represalias**
 
-Retaliation against anyone who reports a violation or participates in an investigation is strictly prohibited. Such actions will result in severe consequences.
+Las represalias contra cualquier persona que reporte una violación o participe en una investigación están estrictamente prohibidas. Tales acciones resultarán en consecuencias severas.
 
-## Consequences of Violations
+## Consecuencias de las Violaciones
 
-Violations of this Code of Conduct may result in the following actions, depending on the severity and frequency of the behavior:
+Las violaciones de este Código de Conducta pueden resultar en las siguientes acciones, dependiendo de la gravedad y frecuencia del comportamiento:
 
-1. **Warning:** A formal notice addressing the inappropriate behavior and outlining expectations for future conduct.
-2. **Temporary Suspension:** A temporary removal from campaign activities or access to certain resources.
-3. **Permanent Removal:** A permanent ban from participating in campaign activities and access to all campaign resources.
+1. **Advertencia:** Un aviso formal que aborda el comportamiento inapropiado y detalla las expectativas para la conducta futura.
+2. **Suspensión Temporal:** Una remoción temporal de las actividades de la campaña o acceso a ciertos recursos.
+3. **Remoción Permanente:** Una prohibición permanente de participar en actividades de la campaña y acceso a todos los recursos de la campaña.
 
-## Addressing Grievances
+## Manejo de Quejas
 
-If you are unsatisfied with how your report was handled, you can escalate the matter by contacting:
+Si no estás satisfecho con la forma en que se manejó tu informe, puedes escalar el asunto contactando a:
 
-- **Campaign Ethics Committee:** [ethics@andrescastro.us](mailto:ethics@andrescastro.us)
-- **Third-Party Mediator:** *(Optional: Include contact information if applicable)*
+- **Comité de Ética de la Campaña:** [ethics@andrescastro.us](mailto:ethics@andrescastro.us)
+- **Mediador Externo:** *(Opcional: Incluir información de contacto si aplica)*
 
-## Acknowledgments
+## Agradecimientos
 
-This Code of Conduct is inspired by the [Contributor Covenant](https://www.contributor-covenant.org/) and best practices from successful campaigns and organizations committed to fostering inclusive and respectful environments.
+Este Código de Conducta se inspira en el [Contributor Covenant](https://www.contributor-covenant.org/) y en las mejores prácticas de campañas y organizaciones exitosas comprometidas a fomentar ambientes inclusivos y respetuosos.
 
-## Changes to This Code
+## Cambios a Este Código
 
-We reserve the right to modify this Code of Conduct at any time. Updates will be communicated through official campaign channels.
+Nos reservamos el derecho de modificar este Código de Conducta en cualquier momento. Las actualizaciones se comunicarán a través de los canales oficiales de la campaña.
 
 ---
 
-**Thank you for contributing to a positive and impactful campaign! Together, we can build a better future for Georgia's 5th Congressional District.**
+**¡Gracias por contribuir a una campaña positiva e impactante! Juntos, podemos construir un futuro mejor para el 5to Distrito Congressional de Georgia.**
