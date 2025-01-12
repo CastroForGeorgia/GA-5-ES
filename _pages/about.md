@@ -23,7 +23,7 @@ Me postulo para el Congreso para luchar por:
 Esta campaña se trata de **ti**, tu familia y de construir un futuro donde todos puedan prosperar.
 
 ## Aprende Más Sobre Mi Historia y Visión:
-- [Por Qué Me Postulo para el Congreso](/blog/leadership-grounded-in-experience-why-im-running-for-congress-district05-unions-voterrights-grassroots-progressive-workingclass-atlanta-politics-castro-gapol/)
+- [Por Qué Me Postulo para el Congreso](/blog/why-im-running/)
 - [La Garantía de Vivienda para Trabajadores: Viviendas Asequibles para Todos](/project/housing-community/)
 - [La Atención Médica es un Derecho Humano: Mi Plan para Medicare para Todos](/project/healthcare/)
 - [Derechos Civiles e Igualdad: Defendiendo la Justicia](/project/civil-rights-equality)
