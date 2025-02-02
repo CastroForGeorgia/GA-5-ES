@@ -23,7 +23,7 @@ Sé lo que significa luchar. Sé lo que es vivir de cheque en cheque, navegar po
 
 Por eso nunca aceptaré dinero corporativo. **Mi lealtad es hacia la gente, no hacia las corporaciones, los cabilderos ni la élite política que se ha dejado comprar.**
 
-Las fallas del Partido Demócrata actual son la razón por la que no tenemos [atención médica universal](https://www.fec.gov/data/receipts/?cycle=2024&data_type=processed&committee_id=C00752584&contributor_name=C00197228&two_year_transaction_period=2024&line_number=F3-11C). Son la razón por la que [su seguro de hogar está por las nubes](https://www.fec.gov/data/receipts/?cycle=2024&data_type=processed&committee_id=C00752584&contributor_name=C00040253&two_year_transaction_period=2024&line_number=F3-11C), [su factura de gas sigue aumentando](https://www.fec.gov/data/receipts/?cycle=2024&data_type=processed&committee_id=C00752584&contributor_name=gas&two_year_transaction_period=2024&line_number=F3-11C) y su [recibo de luz en Georgia sube](https://www.fec.gov/data/receipts/?cycle=2024&data_type=processed&committee_id=C00752584&contributor_name=C00119776&two_year_transaction_period=2024&line_number=F3-11C). En lugar de luchar por las familias trabajadoras, demasiados líderes han optado por proteger los intereses de los ricos y bien conectados.
+Las fallas del Partido Demócrata actual son la razón por la que no tenemos atención médica universal. Son la razón por la que su seguro de hogar está por las nubes, su factura de gas sigue aumentando y su recibo de luz en Georgia sube. En lugar de luchar por las familias trabajadoras, demasiados líderes han optado por proteger los intereses de los ricos y bien conectados.
 
 Eso no es liderazgo. Eso es complicidad.
 
