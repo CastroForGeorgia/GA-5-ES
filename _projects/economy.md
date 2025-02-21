@@ -1,128 +1,128 @@
 ---
-title: "Economy"
-description: "Strengthening local jobs, building affordable housing, and ensuring fair taxation to create a thriving and equitable economy."
+title: "Economía"
+description: "Fortaleciendo empleos locales, construyendo vivienda asequible y asegurando una tributación justa para crear una economía próspera y equitativa."
 date: 2025-02-16 00:00:00 +0000
-label: "Policy"
+label: "Política"
 image: "/images/economy-policy-header.webp"
 ---
 
-# **Building an Economy That Works for Everyone**  
+# **Construyendo una Economía que Funcione para Todos**  
 
-## **A Fair Economy Starts with the Working Class**  
+## **Una Economía Justa Comienza con la Clase Trabajadora**  
 
-The economy isn’t working for everyone. **While corporations dodge taxes and billionaires grow richer, working families struggle with stagnant wages, housing costs, and job instability.** In **Georgia’s 5th Congressional District**, we’re building an economy that puts people first—**protecting workers, ensuring fair taxation, and expanding economic opportunities.**  
+La economía no está funcionando para todos. **Mientras las corporaciones evaden impuestos y los multimillonarios se enriquecen, las familias trabajadoras luchan con salarios estancados, costos de vivienda y la inestabilidad laboral.** En **el 5to Distrito Congressional de Georgia**, estamos construyendo una economía que pone a las personas en primer lugar—**protegiendo a los trabajadores, asegurando una tributación justa y ampliando las oportunidades económicas.**  
 
-It’s time to **end corporate handouts, invest in affordable housing, and create a future where every family has a real chance at prosperity.**  
-
----
-
-## **The Challenges We Must Address**  
-
-### ❌ **Working Families Shoulder the Tax Burden While the Wealthy Pay Less**  
-- Billionaires and corporations **exploit loopholes** to avoid taxes while working people foot the bill.  
-- Stock-based wealth goes **untaxed**, even when used like income.  
-
-### ❌ **Housing Costs Are Out of Control**  
-- Wages haven’t kept up with rising **rent and home prices**.  
-- Public investments in **affordable housing have lagged**, leaving families vulnerable.  
-
-### ❌ **Jobs Are Being Replaced by Automation Without Worker Protections**  
-- Corporations cut costs with automation **while leaving workers behind**.  
-- Training programs and safety nets **aren’t keeping up** with job displacement.  
+Es hora de **terminar con los subsidios a las corporaciones, invertir en vivienda asequible y crear un futuro donde cada familia tenga una verdadera oportunidad de prosperar.**  
 
 ---
 
-## **A Bold Plan for Economic Justice**  
+## **Los Desafíos que Debemos Abordar**  
 
-### 🏛️ **1. Close Tax Loopholes and Make Corporations Pay Their Fair Share**  
-- **Tax Stock Leveraging Like Wages**  
-  - If the wealthy **borrow against stocks like income, they should be taxed like workers’ wages.**  
-- **End Corporate Tax Havens**  
-  - Stop companies from **hiding profits offshore** to avoid contributing to the economy.  
-- **Penalize Job Outsourcing**  
-  - Companies that move **over 1% of their workforce overseas per year** should face tax penalties.  
+### ❌ **Las Familias Trabajadoras Cargan con la Carga Fiscal Mientras los Ricos Pagan Menos**  
+- Los multimillonarios y las corporaciones **explotan lagunas** para evitar impuestos mientras las personas trabajadoras pagan la cuenta.  
+- La riqueza basada en acciones queda **sin impuestos**, incluso cuando se utiliza como ingreso.  
 
----
+### ❌ **Los Costos de Vivienda Están Fuera de Control**  
+- Los salarios no han seguido el ritmo del aumento de **los alquileres y los precios de las viviendas**.  
+- Las inversiones públicas en **vivienda asequible han quedado rezagadas**, dejando a las familias vulnerables.  
 
-### 🏗️ **2. Expand Affordable Housing Through the Workers’ Housing Guarantee**  
-- **Build Affordable Homes for Working Families**  
-  - Invest in **energy-efficient, mixed-income housing** to make homeownership and renting more affordable.  
-- **Create Jobs Through Housing Construction**  
-  - Infrastructure projects will **stimulate industries** like construction, manufacturing, and local services.  
-- **Protect Longtime Residents from Displacement**  
-  - Introduce **tenant protections** to prevent unfair evictions and skyrocketing rent increases.  
+### ❌ **Los Empleos Están Siendo Reemplazados por la Automatización Sin Protecciones para los Trabajadores**  
+- Las corporaciones reducen costos con la automatización **mientras dejan atrás a los trabajadores**.  
+- Los programas de capacitación y las redes de seguridad **no están a la altura** del desplazamiento laboral.  
 
 ---
 
-### 🤖 **3. Regulate Automation to Protect Jobs**  
-- **Ensure AI and Robotics Work for Workers, Not Just CEOs**  
-  - Companies must **prove that automation benefits employees** before implementing mass layoffs.  
-- **Fund Job Retraining and Career Transitions**  
-  - Establish **free or low-cost reskilling programs** for workers impacted by automation.  
-- **Support Small Businesses Adopting Worker-Friendly Technology**  
-  - Offer tax incentives for **businesses that integrate automation while protecting jobs**.  
+## **Un Plan Audaz para la Justicia Económica**  
+
+### 🏛️ **1. Cerrar Lagunas Fiscales y Hacer que las Corporaciones Paguen su Parte Justa**  
+- **Gravar el Apalancamiento de Acciones como Ingresos**  
+  - Si los ricos **piden prestado contra acciones como si fueran ingresos, deberían ser gravados como los salarios de los trabajadores.**  
+- **Terminar con los Paraísos Fiscales Corporativos**  
+  - Detener a las empresas de **ocultar ganancias en el extranjero** para evitar contribuir a la economía.  
+- **Penalizar la Externalización de Empleos**  
+  - Las empresas que muevan **más del 1% de su fuerza laboral al extranjero por año** deberían enfrentar penalizaciones fiscales.  
 
 ---
 
-### 💼 **4. Invest in Local Jobs and Small Business Growth**  
-- **Expand Access to Capital for Small Businesses**  
-  - Provide **grants and low-interest loans** to local businesses and worker-owned cooperatives.  
-- **Strengthen Worker Protections and Unions**  
-  - Guarantee **fair wages, paid leave, and collective bargaining rights** for all workers.  
-- **Invest in Infrastructure That Creates Jobs**  
-  - Fund **transportation, broadband, and clean energy projects** that boost local employment.  
+### 🏗️ **2. Ampliar la Vivienda Asequible a Través de la Garantía de Vivienda para Trabajadores**  
+- **Construir Viviendas Asequibles para Familias Trabajadoras**  
+  - Invertir en **viviendas de ingresos mixtos y energéticamente eficientes** para hacer que la propiedad y el alquiler sean más asequibles.  
+- **Crear Empleos a Través de la Construcción de Viviendas**  
+  - Los proyectos de infraestructura **estimularán industrias** como la construcción, la manufactura y los servicios locales.  
+- **Proteger a los Residentes de Largo Plazo de Desplazamientos**  
+  - Introducir **protecciones para inquilinos** para prevenir desalojos injustos y aumentos desmedidos de alquiler.  
 
 ---
 
-## **How This Plan Benefits Georgia’s 5th District**  
-
-### 📈 **Economic Growth Through Fair Policies**  
-- Closing tax loopholes **raises revenue for public investments** and eases the burden on working families.  
-- Investing in **housing and local businesses** keeps money circulating in the community.  
-
-### 🏘️ **Stable and Affordable Housing for Workers**  
-- The **Workers’ Housing Guarantee** ensures housing is **affordable and accessible** for all.  
-- Construction projects **create thousands of jobs** across multiple industries.  
-
-### 🤝 **Future-Proofing Jobs in an Automated Economy**  
-- Training programs prepare workers for **sustainable, high-paying careers** in **tech, clean energy, and skilled trades**.  
-- Regulating automation ensures **workers aren’t sacrificed for corporate profit margins**.  
-
-### 💪 **Stronger Communities, Thriving Families**  
-- When people have stable **jobs and homes**, they can **save, invest, and participate in their communities**—leading to a stronger economy for everyone.  
+### 🤖 **3. Regular la Automatización para Proteger Empleos**  
+- **Asegurar que la IA y la Robótica Trabajen para los Trabajadores, No Solo para los CEO**  
+  - Las empresas deben **demostrar que la automatización beneficia a los empleados** antes de implementar despidos masivos.  
+- **Financiar la Recapacitación Laboral y las Transiciones de Carrera**  
+  - Establecer **programas de recualificación gratuitos o de bajo costo** para los trabajadores afectados por la automatización.  
+- **Apoyar a las Pequeñas Empresas que Adoptan Tecnología Amigable con los Trabajadores**  
+  - Ofrecer incentivos fiscales a **las empresas que integren la automatización mientras protegen los empleos**.  
 
 ---
 
-## **Action Plan: An Economy That Works for the Many, Not the Few**  
-
-✅ **1. Close Corporate Tax Loopholes**  
-- Tax stock leveraging as income and **end offshore tax avoidance schemes**.  
-- Penalize **companies that offshore jobs without reinvesting in local workers**.  
-
-✅ **2. Build Housing and Strengthen Tenant Protections**  
-- Expand affordable housing through **The Workers’ Housing Guarantee**.  
-- Strengthen **renter protections** against predatory landlords.  
-
-✅ **3. Protect Workers from Automation-Driven Layoffs**  
-- Require companies to **retrain and transition workers** before replacing jobs with automation.  
-- Incentivize **collaborative automation models** that improve jobs rather than eliminate them.  
-
-✅ **4. Invest in Local Business Growth**  
-- Provide **small business grants and cooperative ownership funding**.  
-- Invest in **public infrastructure projects** that create jobs and boost local economies.  
+### 💼 **4. Invertir en Empleos Locales y el Crecimiento de Pequeñas Empresas**  
+- **Ampliar el Acceso al Capital para Pequeñas Empresas**  
+  - Proporcionar **subvenciones y préstamos de bajo interés** a negocios locales y cooperativas de trabajadores.  
+- **Fortalecer las Protecciones para Trabajadores y Sindicatos**  
+  - Garantizar **salarios justos, licencias pagadas y derechos de negociación colectiva** para todos los trabajadores.  
+- **Invertir en Infraestructura que Crea Empleos**  
+  - Financiar **proyectos de transporte, banda ancha y energía limpia** que impulsen el empleo local.  
 
 ---
 
-## **Conclusion: A Fair Economy for Georgia’s 5th District**  
+## **Cómo Este Plan Beneficia al 5to Distrito de Georgia**  
 
-**The economy isn’t broken—it’s rigged.** It’s rigged to benefit corporations, billionaires, and Wall Street while working families struggle. We’re here to **change that**.  
+### 📈 **Crecimiento Económico a Través de Políticas Justas**  
+- Cerrar las lagunas fiscales **aumenta los ingresos para inversiones públicas** y alivia la carga sobre las familias trabajadoras.  
+- Invertir en **vivienda y negocios locales** mantiene el dinero circulando en la comunidad.  
 
-By **closing tax loopholes, investing in affordable housing, and ensuring automation serves workers—not just CEOs—we will build an economy that works for everyone, not just the wealthy few.**  
+### 🏘️ **Vivienda Estable y Asequible para los Trabajadores**  
+- La **Garantía de Vivienda para Trabajadores** asegura que la vivienda sea **asequible y accesible** para todos.  
+- Los proyectos de construcción **crean miles de empleos** en múltiples industrias.  
 
-This is about **fair wages, stable jobs, and secure homes.** This is about **restoring economic power to the people.**  
+### 🤝 **Preparando los Empleos para un Futuro Automatizado**  
+- Los programas de capacitación preparan a los trabajadores para **carreras sostenibles y bien remuneradas** en **tecnología, energía limpia y oficios especializados**.  
+- Regular la automatización asegura que **los trabajadores no sean sacrificados por los márgenes de ganancia corporativos**.  
+
+### 💪 **Comunidades Más Fuertes, Familias Prósperas**  
+- Cuando las personas tienen **empleos y hogares estables**, pueden **ahorrar, invertir y participar en sus comunidades**—lo que lleva a una economía más fuerte para todos.  
 
 ---
 
-### **Join the Fight for Economic Justice**  
+## **Plan de Acción: Una Economía que Funcione para Muchos, No para Pocos**  
 
-It’s time to demand an economy that works for the **many, not the few**. Stand with us.
+✅ **1. Cerrar las Lagunas Fiscales Corporativas**  
+- Gravar el apalancamiento de acciones como ingresos y **terminar con los esquemas de evasión fiscal en el extranjero**.  
+- Penalizar **a las empresas que externalizan empleos sin reinvertir en trabajadores locales**.  
+
+✅ **2. Construir Vivienda y Fortalecer las Protecciones para Inquilinos**  
+- Ampliar la vivienda asequible a través de **La Garantía de Vivienda para Trabajadores**.  
+- Fortalecer las **protecciones para inquilinos** contra propietarios depredadores.  
+
+✅ **3. Proteger a los Trabajadores de Despidos Impulsados por la Automatización**  
+- Requerir que las empresas **recapaciten y transicionen a los trabajadores** antes de reemplazar empleos con automatización.  
+- Incentivar **modelos de automatización colaborativa** que mejoren los empleos en lugar de eliminarlos.  
+
+✅ **4. Invertir en el Crecimiento de Pequeñas Empresas Locales**  
+- Proporcionar **subvenciones para pequeñas empresas y financiamiento para la propiedad cooperativa**.  
+- Invertir en **proyectos de infraestructura pública** que creen empleos y fortalezcan las economías locales.  
+
+---
+
+## **Conclusión: Una Economía Justa para el 5to Distrito de Georgia**  
+
+**La economía no está rota—está amañada.** Está amañada para beneficiar a las corporaciones, multimillonarios y Wall Street mientras las familias trabajadoras luchan. Estamos aquí para **cambiar eso**.  
+
+Al **cerrar las lagunas fiscales, invertir en vivienda asequible y asegurar que la automatización sirva a los trabajadores—no solo a los CEO—construiremos una economía que funcione para todos, no solo para unos pocos privilegiados.**  
+
+Esto se trata de **salarios justos, empleos estables y hogares seguros.** Esto se trata de **restaurar el poder económico al pueblo.**  
+
+---
+
+### **Únete a la Lucha por la Justicia Económica**  
+
+Es hora de exigir una economía que funcione para **muchos, no para pocos**. Únete a nosotros.

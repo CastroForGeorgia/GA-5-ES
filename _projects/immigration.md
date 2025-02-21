@@ -1,139 +1,139 @@
 ---
-title: "Immigration"
-description: "Integrating immigrants, protecting families, and strengthening our communities without detention camps or mass deportations."
+title: "Inmigración"
+description: "Integrando a los inmigrantes, protegiendo a las familias y fortaleciendo nuestras comunidades sin campamentos de detención ni deportaciones masivas."
 date: 2024-11-28 00:00:00 +0000
-label: "Policy"
+label: "Política"
 image: "/images/immigration-policy-header.webp"
 ---
 
-# **Immigration Policy: Amnesty and Humane Reform**  
+# **Política de Inmigración: Amnistía y Reforma Humana**  
 
-## **A Just and Practical Approach to Immigration**  
+## **Un Enfoque Justo y Práctico hacia la Inmigración**  
 
-America has always been a nation of immigrants, yet our immigration system remains broken—**relying on detention, fear, and bureaucracy instead of solutions that strengthen families and communities**. In **Georgia’s 5th Congressional District**, we believe in an immigration policy built on **Amnesty, opportunity, and integration**, ensuring that hardworking people can contribute to our society **without fear of deportation or family separation**.  
+América siempre ha sido una nación de inmigrantes, sin embargo, nuestro sistema de inmigración sigue roto—**dependiendo de la detención, el miedo y la burocracia en lugar de soluciones que fortalezcan a las familias y comunidades**. En **el 5to Distrito Congresional de Georgia**, creemos en una política de inmigración basada en **Amnistía, oportunidades e integración**, asegurando que las personas trabajadoras puedan contribuir a nuestra sociedad **sin miedo a la deportación o la separación familiar**.  
 
-It’s time to **replace detention camps with pathways to citizenship** and **mass deportations with economic inclusion**.  
-
----
-
-## **Why Amnesty Is the Right Path Forward**  
-
-### 💡 **The Power of Opportunity**  
-Millions of undocumented individuals live, work, and contribute to our communities—yet they remain in legal limbo. **Amnesty provides a fair, earned path to citizenship** that strengthens our economy, unites families, and recognizes the dignity of those who call America home.  
-
-### 📉 **The Failure of Detention and Deportation**  
-- **Detention centers waste billions of taxpayer dollars** and fail to solve immigration challenges.  
-- **Mass deportations tear families apart** and weaken local economies.  
-- **A broken system keeps millions in the shadows**, limiting their ability to work, study, and contribute fully.  
-
-Instead of criminalizing immigrants, we must **integrate them into society through legal pathways and economic opportunity**.  
+Es hora de **reemplazar los campamentos de detención por caminos hacia la ciudadanía** y **las deportaciones masivas por inclusión económica**.  
 
 ---
 
-## **A Bold Plan for Humane Immigration Reform**  
+## **Por Qué la Amnistía Es el Camino Correcto a Seguir**  
 
-### 🛡️ **1. Make Amnesty the Foundation of Immigration Reform**  
-- **Pass Federal Amnesty Legislation**  
-  - Provide a **clear and achievable** pathway to legal residency and citizenship.  
-  - Prioritize **longtime residents, workers, and families** who have built their lives in the U.S.  
+### 💡 **El Poder de la Oportunidad**  
+Millones de personas indocumentadas viven, trabajan y contribuyen a nuestras comunidades—sin embargo, permanecen en un limbo legal. **La amnistía proporciona un camino justo y ganado hacia la ciudadanía** que fortalece nuestra economía, une a las familias y reconoce la dignidad de quienes llaman a América su hogar.  
 
-- **End Decades-Long Backlogs**  
-  - Streamline applications and **fix the broken system that forces immigrants to wait decades** for legal status.  
+### 📉 **El Fracaso de la Detención y Deportación**  
+- **Los centros de detención desperdician miles de millones de dólares de los contribuyentes** y no resuelven los desafíos de inmigración.  
+- **Las deportaciones masivas desgarran a las familias** y debilitan las economías locales.  
+- **Un sistema roto mantiene a millones en la sombra**, limitando su capacidad para trabajar, estudiar y contribuir plenamente.  
 
----
-
-### 🏛️ **2. End Detention Camps and Mass Deportations**  
-- **Shut Down Private Immigration Prisons**  
-  - End government contracts with for-profit detention centers profiting from human suffering.  
-
-- **Replace Detention with Community-Based Solutions**  
-  - Use **case management programs** instead of detention, allowing immigrants to **remain with their families** while resolving their legal status.  
-
-- **Deprioritize Non-Violent Immigration Enforcement**  
-  - Focus enforcement on **real public safety threats**, not families, workers, or asylum seekers.  
+En lugar de criminalizar a los inmigrantes, debemos **integrarlos en la sociedad a través de caminos legales y oportunidades económicas**.  
 
 ---
 
-### 🤝 **3. Provide a Real Path to Citizenship**  
-- **Simplify and Speed Up the Legalization Process**  
-  - Cut down bureaucratic delays that prevent immigrants from gaining legal status.  
-  - Provide **legal representation** to help individuals navigate the process.  
+## **Un Plan Audaz para una Reforma de Inmigración Humana**  
 
-- **Expand Work Permits and Residency Options**  
-  - Ensure immigrants who are **working, paying taxes, and contributing to society** can earn their place in the country legally.  
+### 🛡️ **1. Hacer de la Amnistía la Base de la Reforma de Inmigración**  
+- **Aprobar la Legislación Federal de Amnistía**  
+  - Proporcionar un **camino claro y alcanzable** hacia la residencia legal y la ciudadanía.  
+  - Priorizar a **residentes de larga data, trabajadores y familias** que han construido sus vidas en EE. UU.  
 
----
-
-### 💼 **4. Integrate Immigrants into the Economy**  
-- **Job Training and Workforce Development**  
-  - Invest in **apprenticeship programs, reskilling, and entrepreneurship support** for immigrants.  
-  - Connect workers to industries **in need of labor**, like construction, healthcare, and tech.  
-
-- **Support Immigrant-Owned Businesses**  
-  - Provide **small business grants and low-interest loans** to immigrant entrepreneurs.  
-  - Streamline business licensing and registration for **non-citizens with work permits**.  
+- **Terminar con los Atrasos de Décadas**  
+  - Agilizar las solicitudes y **arreglar el sistema roto que obliga a los inmigrantes a esperar décadas** por su estatus legal.  
 
 ---
 
-### 👨‍👩‍👧 **5. Keep Families Together and Strengthen Communities**  
-- **End Family Separations**  
-  - No child should be separated from their parents due to an immigration status issue.  
-  - Ensure families applying for legal status **stay together** throughout the process.  
+### 🏛️ **2. Terminar con los Campamentos de Detención y las Deportaciones Masivas**  
+- **Cerrar las Prisiones de Inmigración Privadas**  
+  - Terminar con los contratos gubernamentales con centros de detención con fines de lucro que se benefician del sufrimiento humano.  
 
-- **Expand Legal Aid and Social Support**  
-  - Increase funding for **immigration legal services** so families can navigate the system without fear.  
-  - Provide **access to healthcare, education, and social services** for newly legalized immigrants.  
+- **Reemplazar la Detención con Soluciones Basadas en la Comunidad**  
+  - Utilizar **programas de gestión de casos** en lugar de detención, permitiendo que los inmigrantes **permanezcan con sus familias** mientras resuelven su estatus legal.  
 
----
-
-## **Action Plan: Amnesty and Immigration Reform That Works**  
-
-✅ **1. Pass Amnesty Legislation**  
-- Introduce a **nationwide pathway to citizenship** for undocumented individuals.  
-- Provide **temporary legal status** while applicants move through the process.  
-
-✅ **2. End the Immigration Detention System**  
-- Shut down **inhumane detention centers** and move to **community-based alternatives**.  
-- Stop the separation of families at the border and in immigration courts.  
-
-✅ **3. Create Clear and Fair Citizenship Pathways**  
-- Fix **backlogged immigration cases** so families aren’t trapped in legal limbo for years.  
-- Expand access to **work permits and green cards** for long-term residents.  
-
-✅ **4. Integrate Immigrants into the Workforce**  
-- Launch **job training programs** in high-demand industries.  
-- Support **immigrant-owned businesses** through financial and technical assistance.  
-
-✅ **5. Protect Families and Strengthen Communities**  
-- Expand legal aid for immigrants and asylum seekers.  
-- Ensure **newly legalized immigrants have access to healthcare and education**.  
+- **Despriorizar la Aplicación de la Ley de Inmigración No Violenta**  
+  - Enfocar la aplicación en **verdaderos peligros para la seguridad pública**, no en familias, trabajadores o solicitantes de asilo.  
 
 ---
 
-## **Why This Matters for Georgia’s 5th District**  
+### 🤝 **3. Proporcionar un Verdadero Camino hacia la Ciudadanía**  
+- **Simplificar y Acelerar el Proceso de Legalización**  
+  - Reducir los retrasos burocráticos que impiden a los inmigrantes obtener estatus legal.  
+  - Proporcionar **representación legal** para ayudar a las personas a navegar el proceso.  
 
-### ✅ **Economic Growth**  
-Immigrants are job creators, taxpayers, and essential workers. A clear pathway to legal residency will **boost local economies** and **strengthen small businesses**.  
-
-### 🤝 **Stronger, More United Communities**  
-Keeping families together and allowing **full participation in civic life** leads to safer, more engaged communities.  
-
-### 💰 **Better Use of Taxpayer Dollars**  
-Ending **expensive, ineffective deportation programs** means redirecting resources to **education, healthcare, and infrastructure**.  
-
-### 🌎 **A Fair and Just Immigration System**  
-America should be a place of **opportunity, not fear**—our policies should reflect our values.  
+- **Expandir los Permisos de Trabajo y Opciones de Residencia**  
+  - Asegurar que los inmigrantes que están **trabajando, pagando impuestos y contribuyendo a la sociedad** puedan ganarse su lugar en el país legalmente.  
 
 ---
 
-## **A Future Where Immigration Strengthens Us All**  
+### 💼 **4. Integrar a los Inmigrantes en la Economía**  
+- **Capacitación Laboral y Desarrollo de la Fuerza Laboral**  
+  - Invertir en **programas de aprendizaje, reciclaje y apoyo al emprendimiento** para inmigrantes.  
+  - Conectar a los trabajadores con industrias **que necesitan mano de obra**, como la construcción, la salud y la tecnología.  
 
-America’s strength has always been its diversity. **Our immigration policies should reflect that strength** by ensuring that people who live, work, and contribute to society have a **real path to citizenship, not a lifetime of fear and uncertainty**.  
-
-Amnesty is **not just about immigration—it’s about human dignity, economic growth, and justice**. Georgia’s 5th District must lead in creating an immigration system that **works for everyone**.  
+- **Apoyar a los Negocios Propiedad de Inmigrantes**  
+  - Proporcionar **subvenciones para pequeñas empresas y préstamos a bajo interés** para emprendedores inmigrantes.  
+  - Agilizar la obtención de licencias y registros comerciales para **no ciudadanos con permisos de trabajo**.  
 
 ---
 
-### **Join the Fight for Immigration Justice**  
+### 👨‍👩‍👧 **5. Mantener a las Familias Juntas y Fortalecer Comunidades**  
+- **Terminar con las Separaciones Familiares**  
+  - Ningún niño debería ser separado de sus padres debido a un problema de estatus migratorio.  
+  - Asegurar que las familias que solicitan estatus legal **permanezcan juntas** durante todo el proceso.  
 
-It’s time to demand an immigration system that reflects **compassion, fairness, and common sense**.  
+- **Expandir la Asistencia Legal y el Apoyo Social**  
+  - Aumentar la financiación para **servicios legales de inmigración** para que las familias puedan navegar el sistema sin miedo.  
+  - Proporcionar **acceso a atención médica, educación y servicios sociales** para inmigrantes recién legalizados.  
+
+---
+
+## **Plan de Acción: Amnistía y Reforma de Inmigración que Funciona**  
+
+✅ **1. Aprobar la Legislación de Amnistía**  
+- Introducir un **camino nacional hacia la ciudadanía** para individuos indocumentados.  
+- Proporcionar **estatus legal temporal** mientras los solicitantes avanzan en el proceso.  
+
+✅ **2. Terminar con el Sistema de Detención de Inmigración**  
+- Cerrar **centros de detención inhumanos** y pasar a **alternativas basadas en la comunidad**.  
+- Detener la separación de familias en la frontera y en los tribunales de inmigración.  
+
+✅ **3. Crear Caminos Claros y Justos hacia la Ciudadanía**  
+- Arreglar **los casos de inmigración atrasados** para que las familias no queden atrapadas en un limbo legal durante años.  
+- Expandir el acceso a **permisos de trabajo y tarjetas verdes** para residentes de larga data.  
+
+✅ **4. Integrar a los Inmigrantes en la Fuerza Laboral**  
+- Lanzar **programas de capacitación laboral** en industrias de alta demanda.  
+- Apoyar a **negocios propiedad de inmigrantes** a través de asistencia financiera y técnica.  
+
+✅ **5. Proteger a las Familias y Fortalecer Comunidades**  
+- Expandir la asistencia legal para inmigrantes y solicitantes de asilo.  
+- Asegurar que **los inmigrantes recién legalizados tengan acceso a atención médica y educación**.  
+
+---
+
+## **Por Qué Esto Importa para el 5to Distrito de Georgia**  
+
+### ✅ **Crecimiento Económico**  
+Los inmigrantes son creadores de empleo, contribuyentes y trabajadores esenciales. Un camino claro hacia la residencia legal **impulsará las economías locales** y **fortalecerá a las pequeñas empresas**.  
+
+### 🤝 **Comunidades Más Fuertes y Unidas**  
+Mantener a las familias juntas y permitir la **participación plena en la vida cívica** conduce a comunidades más seguras y comprometidas.  
+
+### 💰 **Mejor Uso de los Dólares de los Contribuyentes**  
+Terminar con **programas de deportación costosos e ineficaces** significa redirigir recursos hacia **educación, atención médica e infraestructura**.  
+
+### 🌎 **Un Sistema de Inmigración Justo y Equitativo**  
+América debería ser un lugar de **oportunidad, no de miedo**—nuestras políticas deberían reflejar nuestros valores.  
+
+---
+
+## **Un Futuro Donde la Inmigración Nos Fortalece a Todos**  
+
+La fortaleza de América siempre ha sido su diversidad. **Nuestras políticas de inmigración deberían reflejar esa fortaleza** asegurando que las personas que viven, trabajan y contribuyen a la sociedad tengan un **camino real hacia la ciudadanía, no una vida de miedo e incertidumbre**.  
+
+La amnistía es **no solo sobre inmigración—es sobre dignidad humana, crecimiento económico y justicia**. El 5to Distrito de Georgia debe liderar en la creación de un sistema de inmigración que **funcione para todos**.  
+
+---
+
+### **Únete a la Lucha por la Justicia en Inmigración**  
+
+Es hora de exigir un sistema de inmigración que refleje **compasión, equidad y sentido común**.

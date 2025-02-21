@@ -1,126 +1,126 @@
 ---
-title: "Education"
-description: "Strengthening public education by raising teacher pay, modernizing schools, and ensuring equitable funding for all students."
+title: "Educación"
+description: "Fortaleciendo la educación pública mediante el aumento de salarios a los maestros, la modernización de escuelas y asegurando financiamiento equitativo para todos los estudiantes."
 date: 2024-11-28 00:00:00 +0000
-label: "Policy"
+label: "Política"
 image: "/images/education-policy-header.webp"
 ---
 
-# **Education for All: A Stronger Future Starts in Our Schools**  
+# **Educación para Todos: Un Futuro Más Fuerte Comienza en Nuestras Escuelas**  
 
-## **Public Education is the Foundation of Opportunity**  
+## **La Educación Pública es la Base de la Oportunidad**  
 
-A strong public education system is **the bedrock of democracy and economic prosperity**—but chronic underfunding, teacher burnout, and inequitable resource distribution threaten that promise. In **Georgia’s 5th Congressional District**, we are fighting to ensure **every student, no matter their zip code, has access to high-quality education**.  
+Un sólido sistema de educación pública es **la piedra angular de la democracia y la prosperidad económica**, pero la falta crónica de financiamiento, el agotamiento de los maestros y la distribución desigual de recursos amenazan esa promesa. En **el 5to Distrito Congressional de Georgia**, estamos luchando para asegurar que **cada estudiante, sin importar su código postal, tenga acceso a una educación de alta calidad**.  
 
-That means **investing in teachers, modernizing schools, and prioritizing equity** so that every child gets a fair chance at success.  
-
----
-
-## **The Challenges We Must Address**  
-
-### ❌ **Teachers Are Underpaid and Overworked**  
-- Many teachers **work second jobs** to make ends meet.  
-- Out-of-pocket spending on classroom supplies is the norm.  
-- Burnout and lack of support are driving **teacher shortages**.  
-
-### ❌ **School Funding is Unequal**  
-- Wealthier districts have better resources, while lower-income schools **struggle with outdated textbooks, technology, and facilities**.  
-- Public money is being siphoned off to **private and charter schools**, leaving public schools underfunded.  
-
-### ❌ **Schools Need Mental Health and Community Support**  
-- Students face **mental health challenges**, but there aren’t enough counselors or support services.  
-- Families need access to **after-school programs, tutoring, and community-based education support**.  
+Eso significa **invertir en maestros, modernizar escuelas y priorizar la equidad** para que cada niño tenga una oportunidad justa de éxito.  
 
 ---
 
-## **A Bold Plan to Strengthen Public Education**  
+## **Los Desafíos que Debemos Abordar**  
 
-### 👩‍🏫 **1. Pay and Support Teachers Like the Professionals They Are**  
-- **Raise Teacher Salaries**  
-  - Ensure teachers earn a **living wage** that reflects their expertise and dedication.  
-- **End Out-of-Pocket Expenses**  
-  - Fully fund classroom supplies so teachers don’t have to pay for essentials.  
-- **Expand Healthcare and Retirement Benefits**  
-  - Offer **comprehensive wellness programs**, including mental health resources for teachers.  
+### ❌ **Los Maestros Están Mal Pagados y Sobrecargados**  
+- Muchos maestros **tienen trabajos adicionales** para llegar a fin de mes.  
+- Gastar de su propio bolsillo en suministros para el aula es la norma.  
+- El agotamiento y la falta de apoyo están provocando **escasez de maestros**.  
 
----
+### ❌ **El Financiamiento Escolar es Desigual**  
+- Los distritos más ricos tienen mejores recursos, mientras que las escuelas de bajos ingresos **luchan con libros de texto, tecnología y instalaciones obsoletas**.  
+- El dinero público se está desviando hacia **escuelas privadas y charter**, dejando a las escuelas públicas con falta de fondos.  
 
-### 🏫 **2. Fully Fund Public Schools and End Privatization Schemes**  
-- **Increase Federal and State Education Funding**  
-  - Secure **equitable funding** to support struggling schools.  
-- **Target Resources Where They’re Needed Most**  
-  - Prioritize **low-income and underfunded schools** to close the achievement gap.  
-- **Ban Public Money from Going to Private Schools**  
-  - Stop **vouchers and charter school programs** that drain resources from public education.  
+### ❌ **Las Escuelas Necesitan Apoyo en Salud Mental y Comunitario**  
+- Los estudiantes enfrentan **desafíos de salud mental**, pero no hay suficientes consejeros o servicios de apoyo.  
+- Las familias necesitan acceso a **programas extracurriculares, tutorías y apoyo educativo comunitario**.  
 
 ---
 
-### 🏗️ **3. Modernize Schools and Improve Learning Environments**  
-- **Renovate Aging Buildings**  
-  - Invest in **safe, modern, energy-efficient school facilities**.  
-- **Equip Classrooms with Technology**  
-  - Ensure every student has **high-speed internet access, updated computers, and STEM learning tools**.  
+## **Un Plan Audaz para Fortalecer la Educación Pública**  
+
+### 👩‍🏫 **1. Pagar y Apoyar a los Maestros Como los Profesionales que Son**  
+- **Aumentar los Salarios de los Maestros**  
+  - Asegurar que los maestros ganen un **salario digno** que refleje su experiencia y dedicación.  
+- **Eliminar Gastos de Su Propio Bolsillo**  
+  - Financiar completamente los suministros para el aula para que los maestros no tengan que pagar por lo esencial.  
+- **Expandir Beneficios de Salud y Jubilación**  
+  - Ofrecer **programas de bienestar integral**, incluyendo recursos de salud mental para los maestros.  
 
 ---
 
-### 💡 **4. Expand Mental Health and Community-Based Support**  
-- **Fund School Counselors and Psychologists**  
-  - Lower student-to-counselor ratios so every child has **access to mental health support**.  
-- **Develop Community Schools**  
-  - Turn schools into hubs that provide **after-school programs, tutoring, healthcare, and family resources**.  
-- **Support Anti-Discrimination and Equity Initiatives**  
-  - Ensure schools are **safe, inclusive, and culturally responsive** learning environments.  
+### 🏫 **2. Financiar Completamente las Escuelas Públicas y Terminar con los Esquemas de Privatización**  
+- **Aumentar el Financiamiento Federal y Estatal para la Educación**  
+  - Asegurar **financiamiento equitativo** para apoyar a las escuelas en dificultades.  
+- **Dirigir Recursos Donde Más se Necesitan**  
+  - Priorizar **escuelas de bajos ingresos y con falta de fondos** para cerrar la brecha de logros.  
+- **Prohibir que el Dinero Público Vaya a Escuelas Privadas**  
+  - Detener **los vales y programas de escuelas charter** que drenan recursos de la educación pública.  
 
 ---
 
-## **Our Action Plan: A Fair, Well-Funded Education System**  
-
-✅ **1. Raise Teacher Pay and Fully Fund Schools**  
-- Pass federal legislation to **increase teacher salaries and fully fund public education**.  
-- End public funding for private school voucher programs.  
-
-✅ **2. Invest in School Infrastructure and Technology**  
-- Secure funding to **modernize schools and provide state-of-the-art learning tools**.  
-- Expand access to **STEM education, trade programs, and digital literacy training**.  
-
-✅ **3. Strengthen Mental Health Support in Schools**  
-- Increase funding for **school-based counselors and social workers**.  
-- Establish **free mental health programs for students and teachers**.  
-
-✅ **4. Expand Access to Early Childhood and After-School Programs**  
-- Invest in **universal pre-K** and quality childcare for working families.  
-- Fund **after-school programs and summer learning opportunities**.  
-
-✅ **5. Ensure Community Participation in Education Policy**  
-- Hold **town halls and school forums** to engage parents, students, and teachers in decision-making.  
-- Require **public transparency in school funding allocations**.  
+### 🏗️ **3. Modernizar las Escuelas y Mejorar los Entornos de Aprendizaje**  
+- **Renovar Edificios Antiguos**  
+  - Invertir en **instalaciones escolares seguras, modernas y energéticamente eficientes**.  
+- **Equipar Aulas con Tecnología**  
+  - Asegurar que cada estudiante tenga **acceso a internet de alta velocidad, computadoras actualizadas y herramientas de aprendizaje STEM**.  
 
 ---
 
-## **Why This Matters for Georgia’s 5th District**  
-
-### ✅ **Higher Teacher Retention and Better Learning Outcomes**  
-- **Well-paid, well-supported teachers** create **more stable** learning environments.  
-
-### 📈 **Economic Growth and Workforce Development**  
-- Strong public education **prepares students for high-paying careers** and strengthens the local economy.  
-
-### 🏡 **Thriving Communities**  
-- Community schools and education investment **create safer, more engaged neighborhoods**.  
-
-### 🎓 **Education Equity for All**  
-- Every child, **no matter their background**, gets **a fair shot at success**.  
+### 💡 **4. Expandir el Apoyo en Salud Mental y Comunitario**  
+- **Financiar Consejeros y Psicólogos Escolares**  
+  - Reducir las proporciones de estudiantes por consejero para que cada niño tenga **acceso a apoyo en salud mental**.  
+- **Desarrollar Escuelas Comunitarias**  
+  - Convertir las escuelas en centros que proporcionen **programas extracurriculares, tutorías, atención médica y recursos para familias**.  
+- **Apoyar Iniciativas de Equidad y Antidiscriminación**  
+  - Asegurar que las escuelas sean **entornos de aprendizaje seguros, inclusivos y culturalmente receptivos**.  
 
 ---
 
-## **A Future Where Every Child Thrives**  
+## **Nuestro Plan de Acción: Un Sistema Educativo Justo y Bien Financiado**  
 
-We have a **responsibility to invest in the next generation**. That starts with fully funding public education, supporting teachers, and **ensuring every student in Georgia’s 5th District has access to a high-quality education**.  
+✅ **1. Aumentar el Pago a los Maestros y Financiar Completamente las Escuelas**  
+- Aprobar legislación federal para **aumentar los salarios de los maestros y financiar completamente la educación pública**.  
+- Terminar con el financiamiento público para programas de vales escolares.  
 
-Public education is **not just a policy—it’s a promise**. A promise that every child can succeed, every teacher is valued, and every community benefits from strong schools.  
+✅ **2. Invertir en Infraestructura Escolar y Tecnología**  
+- Asegurar financiamiento para **modernizar escuelas y proporcionar herramientas de aprendizaje de última generación**.  
+- Expandir el acceso a **educación STEM, programas de oficios y capacitación en alfabetización digital**.  
+
+✅ **3. Fortalecer el Apoyo en Salud Mental en las Escuelas**  
+- Aumentar el financiamiento para **consejeros y trabajadores sociales en las escuelas**.  
+- Establecer **programas gratuitos de salud mental para estudiantes y maestros**.  
+
+✅ **4. Expandir el Acceso a Programas de Educación Infantil y Extracurriculares**  
+- Invertir en **preescolar universal** y cuidado infantil de calidad para familias trabajadoras.  
+- Financiar **programas extracurriculares y oportunidades de aprendizaje durante el verano**.  
+
+✅ **5. Asegurar la Participación Comunitaria en la Política Educativa**  
+- Realizar **asambleas y foros escolares** para involucrar a padres, estudiantes y maestros en la toma de decisiones.  
+- Requerir **transparencia pública en las asignaciones de financiamiento escolar**.  
 
 ---
 
-### **Join the Fight for Public Education**  
+## **Por Qué Esto Importa para el 5to Distrito de Georgia**  
 
-Education should empower—not limit—our children’s futures. **Let’s fight for the schools, teachers, and students that make our communities strong.** 
+### ✅ **Mayor Retención de Maestros y Mejores Resultados de Aprendizaje**  
+- **Maestros bien pagados y bien apoyados** crean entornos de aprendizaje **más estables**.  
+
+### 📈 **Crecimiento Económico y Desarrollo de la Fuerza Laboral**  
+- Una educación pública sólida **prepara a los estudiantes para carreras bien remuneradas** y fortalece la economía local.  
+
+### 🏡 **Comunidades Prósperas**  
+- Las escuelas comunitarias y la inversión en educación **crean vecindarios más seguros y comprometidos**.  
+
+### 🎓 **Equidad Educativa para Todos**  
+- Cada niño, **sin importar su origen**, tiene **una oportunidad justa de éxito**.  
+
+---
+
+## **Un Futuro Donde Cada Niño Prosperará**  
+
+Tenemos la **responsabilidad de invertir en la próxima generación**. Eso comienza con financiar completamente la educación pública, apoyar a los maestros y **asegurar que cada estudiante en el 5to Distrito de Georgia tenga acceso a una educación de alta calidad**.  
+
+La educación pública es **más que una política—es una promesa**. Una promesa de que cada niño puede tener éxito, cada maestro es valorado y cada comunidad se beneficia de escuelas fuertes.  
+
+---
+
+### **Únete a la Lucha por la Educación Pública**  
+
+La educación debería empoderar—no limitar—el futuro de nuestros niños. **Luchemos por las escuelas, los maestros y los estudiantes que hacen que nuestras comunidades sean fuertes.**

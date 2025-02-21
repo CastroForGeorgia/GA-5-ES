@@ -1,94 +1,94 @@
 ---
-title: "Medicare for All"
-description: "Affordable, high-quality healthcare for every resident—centered on people, not profits."
+title: "Medicare para Todos"
+description: "Atención médica asequible y de alta calidad para cada residente—centrada en las personas, no en las ganancias."
 date: 2025-02-19 00:00:00 +0000
-label: "Policy"
+label: "Política"
 image: "/images/medicare-for-all-header.webp"
 ---
 
-# **Healthcare for All: A Human Right, Not a Privilege**  
+# **Atención Médica para Todos: Un Derecho Humano, No un Privilegio**  
 
-Healthcare in **Georgia’s 5th Congressional District** is in crisis. Families are drowning in medical debt, prescription drug prices are skyrocketing, and too many people can’t afford to see a doctor when they need one. I am fighting for **Medicare for All**—a system where every resident gets **affordable, high-quality healthcare** without financial barriers.  
+La atención médica en **el 5to Distrito Congressional de Georgia** está en crisis. Las familias están ahogándose en deudas médicas, los precios de los medicamentos recetados están por las nubes y demasiadas personas no pueden permitirse ver a un médico cuando lo necesitan. Estoy luchando por **Medicare para Todos**—un sistema donde cada residente obtenga **atención médica asequible y de alta calidad** sin barreras financieras.  
 
-By eliminating **medical debt, lowering prescription drug prices, and expanding mental health services**, we will ensure that **healthcare serves people, not corporations**. No one should have to choose between rent and life-saving treatment.  
-
----
-
-## **The Healthcare Crisis: What’s at Stake**  
-
-- **💰 Out-of-control costs:** Nearly **30 million Americans** lack insurance, and millions more struggle with unaffordable premiums and surprise bills.  
-- **🚑 Medical debt is crushing families:** Too many people avoid care due to cost, leading to worse health outcomes.  
-- **💊 Prescription drugs are too expensive:** Big Pharma’s greed puts life-saving medications out of reach.  
-- **🧠 Mental health care is inaccessible:** Working families can’t afford counseling or therapy when they need it most.  
-- **🏥 Hospitals in underserved areas are closing:** Communities—especially in Black and working-class neighborhoods—are losing access to care.  
-
-**This is unacceptable.** We need bold action now.  
+Al eliminar **las deudas médicas, reducir los precios de los medicamentos recetados y expandir los servicios de salud mental**, aseguraremos que **la atención médica sirva a las personas, no a las corporaciones**. Nadie debería tener que elegir entre pagar la renta y recibir un tratamiento que le salve la vida.  
 
 ---
 
-## **The Solution: Medicare for All**  
+## **La Crisis de la Atención Médica: Lo Que Está en Juego**  
 
-### 🛡️ **1. Universal, Comprehensive Coverage**  
-- **Every resident covered**—no premiums, no deductibles, no surprise bills.  
-- **End medical debt**—no one should go bankrupt because they got sick.  
-- **Comprehensive care**—includes **mental health, dental, vision, prescription drugs, and long-term care**.  
+- **💰 Costos descontrolados:** Casi **30 millones de estadounidenses** carecen de seguro, y millones más luchan con primas inasequibles y facturas sorpresas.  
+- **🚑 La deuda médica está aplastando a las familias:** Demasiadas personas evitan la atención debido al costo, lo que lleva a peores resultados de salud.  
+- **💊 Los medicamentos recetados son demasiado caros:** La avaricia de las grandes farmacéuticas pone los medicamentos que salvan vidas fuera de alcance.  
+- **🧠 La atención de salud mental es inaccesible:** Las familias trabajadoras no pueden permitirse la asesoría o terapia cuando más lo necesitan.  
+- **🏥 Los hospitales en áreas desatendidas están cerrando:** Las comunidades—especialmente en vecindarios afroamericanos y de clase trabajadora—están perdiendo acceso a la atención.  
 
-### 🤝 **2. Support Healthcare Workers, Not Bureaucracy**  
-- **Doctors and nurses focus on patients, not paperwork.**  
-- **Invest in healthcare professionals**—train and retain more doctors, nurses, and caregivers.  
-- **Technology assists—never replaces—human caregivers.**  
-
-### 💊 **3. Lower Prescription Drug Prices**  
-- **Medicare negotiates drug prices** to bring down costs.  
-- **Expand access to generic medications** to ensure affordability.  
-- **End price gouging by Big Pharma.**  
-
-### 🧠 **4. Mental Health Care for All**  
-- **Mental health care is treated as a necessity, not a luxury.**  
-- **Expand school and workplace programs** for mental health support.  
-- **Use telehealth to reach underserved communities.**  
-
-### 🏥 **5. Strengthen Local Hospitals and Clinics**  
-- **Keep hospitals open** in underserved communities.  
-- **Invest in preventive care**—more screenings, vaccinations, and early interventions.  
-- **Close racial and economic health disparities.**  
+**Esto es inaceptable.** Necesitamos una acción audaz ahora.  
 
 ---
 
-## **How We Get It Done**  
+## **La Solución: Medicare para Todos**  
 
-✅ **Pass Medicare for All legislation** to guarantee universal healthcare.  
-✅ **Allow Medicare to negotiate drug prices** and stop Big Pharma’s price gouging.  
-✅ **Support healthcare workers** by reducing administrative burdens and increasing pay.  
-✅ **Expand mental health services** in schools, workplaces, and communities.  
-✅ **Engage directly with residents** through town halls and grassroots organizing.  
+### 🛡️ **1. Cobertura Universal y Comprensiva**  
+- **Cada residente cubierto**—sin primas, sin deducibles, sin facturas sorpresas.  
+- **Fin a la deuda médica**—nadie debería ir a la quiebra por enfermarse.  
+- **Atención integral**—incluye **salud mental, dental, visión, medicamentos recetados y atención a largo plazo**.  
 
----
+### 🤝 **2. Apoyar a los Trabajadores de la Salud, No a la Burocracia**  
+- **Médicos y enfermeras se enfocan en los pacientes, no en el papeleo.**  
+- **Invertir en profesionales de la salud**—formar y retener a más médicos, enfermeras y cuidadores.  
+- **La tecnología asiste—nunca reemplaza— a los cuidadores humanos.**  
 
-## **What Medicare for All Means for You**  
+### 💊 **3. Reducir los Precios de los Medicamentos Recetados**  
+- **Medicare negocia los precios de los medicamentos** para reducir costos.  
+- **Expandir el acceso a medicamentos genéricos** para asegurar la asequibilidad.  
+- **Terminar con la especulación de precios por parte de las grandes farmacéuticas.**  
 
-### 💪 **Better, More Compassionate Care**  
-- Healthcare professionals focus on **patients, not profits**.  
+### 🧠 **4. Atención de Salud Mental para Todos**  
+- **La atención de salud mental se trata como una necesidad, no como un lujo.**  
+- **Expandir programas en escuelas y lugares de trabajo** para el apoyo de salud mental.  
+- **Utilizar la telemedicina para llegar a comunidades desatendidas.**  
 
-### 💸 **No More Medical Debt**  
-- Families save **thousands** by eliminating premiums and high drug costs.  
-
-### 🏥 **Hospitals Stay Open**  
-- Community clinics and hospitals get the funding they need to serve everyone.  
-
-### 🧠 **Mental Health Is Finally a Priority**  
-- Therapy, counseling, and addiction treatment are accessible to all.  
-
----
-
-## **A Healthcare System That Works for Georgia’s 5th District**  
-
-No one in **GA-05** should struggle to afford healthcare. **Medicare for All** will guarantee coverage, control costs, and ensure that healthcare remains a **human right, not a privilege**.  
-
-Together, we can build a **people-first healthcare system** that prioritizes **compassion, dignity, and health—not corporate profits**.  
+### 🏥 **5. Fortalecer Hospitales y Clínicas Locales**  
+- **Mantener abiertos los hospitales** en comunidades desatendidas.  
+- **Invertir en atención preventiva**—más exámenes, vacunaciones e intervenciones tempranas.  
+- **Cerrar las disparidades raciales y económicas en salud.**  
 
 ---
 
-## **Join the Fight for Healthcare Justice**  
+## **Cómo Lo Logramos**  
 
-Healthcare should never be a luxury. Stand with us and demand a system that puts people over profits.  
+✅ **Aprobar la legislación de Medicare para Todos** para garantizar atención médica universal.  
+✅ **Permitir que Medicare negocie los precios de los medicamentos** y detener la especulación de precios de las grandes farmacéuticas.  
+✅ **Apoyar a los trabajadores de la salud** reduciendo las cargas administrativas y aumentando los salarios.  
+✅ **Expandir los servicios de salud mental** en escuelas, lugares de trabajo y comunidades.  
+✅ **Involucrar directamente a los residentes** a través de asambleas comunitarias y organización de base.  
+
+---
+
+## **Lo Que Medicare para Todos Significa Para Ti**  
+
+### 💪 **Mejor Atención, Más Compasiva**  
+- Los profesionales de la salud se enfocan en **los pacientes, no en las ganancias**.  
+
+### 💸 **No Más Deuda Médica**  
+- Las familias ahorran **miles** al eliminar primas y altos costos de medicamentos.  
+
+### 🏥 **Los Hospitales Permanecen Abiertos**  
+- Las clínicas y hospitales comunitarios reciben la financiación que necesitan para atender a todos.  
+
+### 🧠 **La Salud Mental Es Finalmente una Prioridad**  
+- La terapia, la asesoría y el tratamiento de adicciones son accesibles para todos.  
+
+---
+
+## **Un Sistema de Salud Que Funciona para el 5to Distrito de Georgia**  
+
+Nadie en **GA-05** debería luchar para poder pagar la atención médica. **Medicare para Todos** garantizará cobertura, controlará costos y asegurará que la atención médica siga siendo un **derecho humano, no un privilegio**.  
+
+Juntos, podemos construir un **sistema de salud centrado en las personas** que priorice **la compasión, la dignidad y la salud—no las ganancias corporativas**.  
+
+---
+
+## **Únete a la Lucha por la Justicia en Salud**  
+
+La atención médica nunca debería ser un lujo. Únete a nosotros y exige un sistema que ponga a las personas por encima de las ganancias.

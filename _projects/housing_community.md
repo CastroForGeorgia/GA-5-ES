@@ -1,101 +1,101 @@
 ---
-title: "Housing"
-description: "Affordable, sustainable homes and creating good-paying jobs without displacement or environmental harm."
+title: "Vivienda"
+description: "Hogares asequibles y sostenibles, y la creación de empleos bien remunerados sin desplazamiento ni daño ambiental."
 date: 2025-02-19 00:00:00 +0000
-label: "Policy"
+label: "Política"
 image: "/images/housing-policy-header.webp"
 ---
 
-# **🏠 Build Baby Build: Housing for Georgia’s 5th District**  
+# **🏠 Construir, Baby, Construir: Vivienda para el 5to Distrito de Georgia**  
 
-## **Housing Is a Right—Not a Commodity**  
+## **La Vivienda es un Derecho—No una Mercancía**  
 
-Housing costs in **Georgia’s 5th Congressional District** are rising, families are being priced out of their own neighborhoods, and development too often prioritizes profit over people. Our **Workers’ Housing Guarantee**, guided by the motto **Build Baby Build**, ensures that **affordable, sustainable housing** is a right—not a privilege.  
+Los costos de vivienda en el **5to Distrito Congresional de Georgia** están aumentando, las familias están siendo desplazadas de sus propios vecindarios, y el desarrollo a menudo prioriza las ganancias sobre las personas. Nuestra **Garantía de Vivienda para Trabajadores**, guiada por el lema **Construir, Baby, Construir**, asegura que la **vivienda asequible y sostenible** sea un derecho—no un privilegio.  
 
-This plan **modernizes existing buildings, builds smartly**, and creates **good-paying jobs** in the process. By focusing on **homeownership, condos, and energy-efficient redevelopment**, we will expand housing opportunities **without displacing residents or harming the environment**.  
-
----
-
-## **The Housing Crisis in Georgia’s 5th District**  
-
-- **🏠 Homeownership is out of reach**—Rising costs and stagnant wages have made it nearly impossible for working families to buy a home.  
-- **📈 Rents are skyrocketing**—Longtime residents are being pushed out by gentrification.  
-- **🔨 The housing supply is inadequate**—Developers prioritize luxury units, leaving affordable housing scarce.  
-- **💼 Housing construction should create jobs**—We need to train and employ **local workers**, not just bring in outside developers.  
-- **🌱 Sustainability matters**—New housing must be built responsibly to lower energy costs and protect our environment.  
-
-Georgia’s 5th District **has the land, the workforce, and the need.** Now, we need bold leadership to build smarter, fairer, and sustainably.  
+Este plan **moderniza edificios existentes, construye de manera inteligente** y crea **empleos bien remunerados** en el proceso. Al enfocarnos en **propiedad de vivienda, condominios y reurbanización energéticamente eficiente**, ampliaremos las oportunidades de vivienda **sin desplazar a los residentes ni dañar el medio ambiente**.  
 
 ---
 
-## **The Workers’ Housing Guarantee: A Bold Solution**  
+## **La Crisis de Vivienda en el 5to Distrito de Georgia**  
 
-### 🏗️ **1. Modernize and Expand Affordable Housing**  
-- **Revitalize underutilized buildings** into modern, energy-efficient homes.  
-- **Prioritize first-time homeownership** through affordable condos and starter homes.  
-- **Use green building materials** to reduce costs and lower utility bills.  
+- **🏠 La propiedad de vivienda está fuera de alcance**—El aumento de costos y los salarios estancados han hecho casi imposible que las familias trabajadoras compren una casa.  
+- **📈 Los alquileres están por las nubes**—Los residentes de larga data están siendo desplazados por la gentrificación.  
+- **🔨 La oferta de vivienda es inadecuada**—Los desarrolladores priorizan unidades de lujo, dejando escasa la vivienda asequible.  
+- **💼 La construcción de vivienda debe crear empleos**—Necesitamos capacitar y emplear a **trabajadores locales**, no solo traer desarrolladores externos.  
+- **🌱 La sostenibilidad importa**—Las nuevas viviendas deben construirse de manera responsable para reducir costos de energía y proteger nuestro medio ambiente.  
 
-### 💼 **2. Create Good-Paying Jobs Through Housing Works**  
-- **Hire and train local workers** to build and renovate homes.  
-- **Employment for the unhoused**—Provide job training in construction, sustainability, and property rehabilitation.  
-- **Support union labor** and fair wages for workers modernizing our housing stock.  
-
-### 🏠 **3. Build Pathways to Homeownership**  
-- **Offer down-payment assistance** for first-time buyers.  
-- **Allow workers to earn home credits** toward purchasing properties they helped build or renovate.  
-- **Protect longtime residents** by prioritizing affordable housing within their communities.  
-
-### 🌱 **4. Smart Growth Without Displacement**  
-- **Build in underutilized areas**—No need to bulldoze neighborhoods or green spaces.  
-- **Prioritize mixed-use developments**—Condos, townhomes, and small first-time homes instead of high-rise luxury apartments.  
-- **Ensure environmental sustainability**—Energy-efficient construction lowers costs for homeowners and renters.  
+El 5to Distrito de Georgia **tiene la tierra, la fuerza laboral y la necesidad.** Ahora, necesitamos un liderazgo audaz para construir de manera más inteligente, justa y sostenible.  
 
 ---
 
-## **How We Make It Happen**  
+## **La Garantía de Vivienda para Trabajadores: Una Solución Audaz**  
 
-✅ **1. Renovate and Build Smart**  
-- Identify **vacant and underused buildings** for modernization.  
-- Develop **mixed-income housing** that keeps communities diverse and thriving.  
+### 🏗️ **1. Modernizar y Ampliar la Vivienda Asequible**  
+- **Revitalizar edificios subutilizados** en hogares modernos y energéticamente eficientes.  
+- **Priorizar la propiedad de vivienda para primerizos** a través de condominios asequibles y casas iniciales.  
+- **Utilizar materiales de construcción ecológicos** para reducir costos y bajar las facturas de servicios.  
 
-✅ **2. Implement the Housing Works Program**  
-- Train and hire **local workers**, including those in need of housing, to build homes.  
-- **Provide skills training** in sustainable construction and energy efficiency.  
+### 💼 **2. Crear Empleos Bien Remunerados a Través de Housing Works**  
+- **Contratar y capacitar a trabajadores locales** para construir y renovar casas.  
+- **Empleo para los sin hogar**—Proporcionar capacitación laboral en construcción, sostenibilidad y rehabilitación de propiedades.  
+- **Apoyar el trabajo sindical** y salarios justos para los trabajadores que modernizan nuestro stock de vivienda.  
 
-✅ **3. Make Homeownership Possible**  
-- Down-payment assistance and financing for first-time homebuyers.  
-- Offer **work-to-own programs** that reward workers with homeownership opportunities.  
+### 🏠 **3. Construir Caminos hacia la Propiedad de Vivienda**  
+- **Ofrecer asistencia para el pago inicial** a compradores primerizos.  
+- **Permitir que los trabajadores ganen créditos para vivienda** hacia la compra de propiedades que ayudaron a construir o renovar.  
+- **Proteger a los residentes de larga data** priorizando la vivienda asequible dentro de sus comunidades.  
 
-✅ **4. Preserve Neighborhoods, Protect the Environment**  
-- Use **infill development** to prevent urban sprawl and environmental harm.  
-- Ensure **community-led development** that respects local history and culture.  
-
----
-
-## **Why This Matters for Georgia’s 5th District**  
-
-### 🏠 **Affordable Homes Without Displacement**  
-- Keeps **longtime residents in their communities** instead of pushing them out.  
-- Creates **housing people can actually afford**—not just luxury units for developers.  
-
-### 💼 **Jobs for the Community, Built by the Community**  
-- Thousands of **good-paying jobs** in construction, renovation, and sustainable energy.  
-- Training programs create **long-term employment and wealth-building opportunities**.  
-
-### 🌱 **Sustainable, Future-Focused Housing**  
-- **Energy-efficient homes** lower costs for families.  
-- **Green building practices** protect the environment and reduce emissions.  
+### 🌱 **4. Crecimiento Inteligente Sin Desplazamiento**  
+- **Construir en áreas subutilizadas**—No es necesario arrasar vecindarios o espacios verdes.  
+- **Priorizar desarrollos de uso mixto**—Condominios, casas adosadas y pequeñas casas para primerizos en lugar de apartamentos de lujo de gran altura.  
+- **Asegurar la sostenibilidad ambiental**—La construcción energéticamente eficiente reduce costos para propietarios e inquilinos.  
 
 ---
 
-## **A New Vision for Housing in Georgia’s 5th District**  
+## **Cómo Lo Haremos Realidad**  
 
-We **don’t** have to accept skyrocketing rents, corporate-driven development, and the displacement of working families. The **Workers’ Housing Guarantee** under **Build Baby Build** will **expand affordable housing, create good jobs, and build a sustainable future for everyone**.  
+✅ **1. Renovar y Construir de Manera Inteligente**  
+- Identificar **edificios vacíos y subutilizados** para modernización.  
+- Desarrollar **vivienda de ingresos mixtos** que mantenga a las comunidades diversas y prósperas.  
 
-By investing in **modernization, smart growth, and homeownership**, we will make **Georgia’s 5th District a leader in housing justice and economic opportunity**.  
+✅ **2. Implementar el Programa Housing Works**  
+- Capacitar y contratar a **trabajadores locales**, incluidos aquellos que necesitan vivienda, para construir casas.  
+- **Proporcionar capacitación en habilidades** en construcción sostenible y eficiencia energética.  
+
+✅ **3. Hacer Posible la Propiedad de Vivienda**  
+- Asistencia para el pago inicial y financiamiento para compradores de vivienda primerizos.  
+- Ofrecer **programas de trabajo para ser propietario** que recompensen a los trabajadores con oportunidades de propiedad.  
+
+✅ **4. Preservar Vecindarios, Proteger el Medio Ambiente**  
+- Utilizar **desarrollo de infill** para prevenir la expansión urbana y el daño ambiental.  
+- Asegurar **desarrollo liderado por la comunidad** que respete la historia y cultura local.  
 
 ---
 
-## **Join Us: Build Baby Build for a Stronger, Fairer Future**  
+## **Por Qué Esto Importa para el 5to Distrito de Georgia**  
 
-Housing is the foundation of opportunity. Let’s make sure **everyone** in Georgia’s 5th District has access to a home they can afford and a community they can thrive in.  
+### 🏠 **Hogares Asequibles Sin Desplazamiento**  
+- Mantiene a **los residentes de larga data en sus comunidades** en lugar de expulsarlos.  
+- Crea **vivienda que las personas realmente pueden pagar**—no solo unidades de lujo para desarrolladores.  
+
+### 💼 **Empleos para la Comunidad, Construidos por la Comunidad**  
+- Miles de **empleos bien remunerados** en construcción, renovación y energía sostenible.  
+- Los programas de capacitación crean **oportunidades de empleo a largo plazo y generación de riqueza**.  
+
+### 🌱 **Vivienda Sostenible y Enfocada en el Futuro**  
+- **Hogares energéticamente eficientes** reducen costos para las familias.  
+- **Prácticas de construcción ecológica** protegen el medio ambiente y reducen emisiones.  
+
+---
+
+## **Una Nueva Visión para la Vivienda en el 5to Distrito de Georgia**  
+
+No **tenemos** que aceptar alquileres desorbitantes, desarrollo impulsado por corporaciones y el desplazamiento de familias trabajadoras. La **Garantía de Vivienda para Trabajadores** bajo **Construir, Baby, Construir** **ampliará la vivienda asequible, creará buenos empleos y construirá un futuro sostenible para todos**.  
+
+Al invertir en **modernización, crecimiento inteligente y propiedad de vivienda**, haremos de **Georgia’s 5th District un líder en justicia de vivienda y oportunidades económicas**.  
+
+---
+
+## **Únete a Nosotros: Construir, Baby, Construir para un Futuro Más Fuerte y Justo**  
+
+La vivienda es la base de la oportunidad. Asegurémonos de que **todos** en el 5to Distrito de Georgia tengan acceso a un hogar que puedan pagar y a una comunidad en la que puedan prosperar.

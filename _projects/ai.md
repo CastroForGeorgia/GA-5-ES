@@ -1,167 +1,167 @@
 ---
-title: "Artificial General Intelligence (AGI)"
-description: "Ensuring AI and automation empower workers, protect jobs, and promote ethical, people-first development."
+title: "Inteligencia Artificial General (IAG)"
+description: "Asegurando que la IA y la automatización empoderen a los trabajadores, protejan empleos y promuevan un desarrollo ético y centrado en las personas."
 date: 2024-12-09 00:00:00 +0000
-label: "Policy"
+label: "Política"
 image: "/images/agi-header.webp"
 ---
 
-# **Artificial Intelligence: Technology That Works for Workers**  
+# **Inteligencia Artificial: Tecnología que Trabaja para los Trabajadores**  
 
-## **AI Must Serve People—Not Replace Them**  
+## **La IA Debe Servir a las Personas—No Reemplazarlas**  
 
-The rise of **Artificial Intelligence (AI) and automation** is transforming industries, but without **worker-first policies**, technology risks displacing jobs and deepening inequality. In **Georgia’s 5th Congressional District**, we are committed to ensuring AI enhances human potential, **protects workers, and expands economic opportunity—without leaving anyone behind**.  
+El auge de la **Inteligencia Artificial (IA) y la automatización** está transformando industrias, pero sin **políticas centradas en los trabajadores**, la tecnología corre el riesgo de desplazar empleos y profundizar la desigualdad. En el **5to Distrito Congressional de Georgia**, estamos comprometidos a asegurar que la IA potencie el potencial humano, **proteja a los trabajadores y amplíe las oportunidades económicas—sin dejar a nadie atrás**.  
 
-**Our goal: a future where AI works for us, not against us.**  
-
----
-
-## **The Challenges We Face**  
-
-### ❌ **Job Displacement Without Protections**  
-- AI and robotics are replacing workers in **manufacturing, logistics, retail, and even white-collar industries**.  
-- Companies prioritize automation **for profit**, ignoring its impact on workers.  
-
-### ❌ **Lack of AI Oversight and Transparency**  
-- AI-driven hiring, firing, and wage decisions often happen **without human oversight**.  
-- Workers are excluded from discussions on how AI is implemented in their workplaces.  
-
-### ❌ **Inequitable Access to AI Jobs and Training**  
-- Without investment in **reskilling programs**, displaced workers are left behind.  
-- **Low-income communities and workers of color** have fewer opportunities in AI-driven industries.  
-
-### ❌ **The Risk of AI-Owned Monopolies**  
-- A handful of corporations dominate AI, **centralizing power and wealth** at the expense of workers.  
-- Without policy intervention, **workers will lose control over how technology impacts their livelihoods**.  
+**Nuestro objetivo: un futuro donde la IA trabaje para nosotros, no en nuestra contra.**  
 
 ---
 
-## **A People-First AI Agenda**  
+## **Los Desafíos que Enfrentamos**  
 
-### 🛠️ **1. Protect Jobs Through Worker-Centric AI**  
-- **AI Should Assist, Not Replace:**  
-  - Require companies to use AI **to enhance, not eliminate** human labor.  
-  - Invest in **wearable exoskeletons and AI-assisted tools** to prevent injuries and improve productivity.  
+### ❌ **Desplazamiento Laboral Sin Protecciones**  
+- La IA y la robótica están reemplazando trabajadores en **manufactura, logística, comercio minorista e incluso en industrias de cuello blanco**.  
+- Las empresas priorizan la automatización **por ganancias**, ignorando su impacto en los trabajadores.  
 
-- **Automation Impact Assessments:**  
-  - Companies must conduct **public impact reports** before automating jobs.  
-  - Businesses must commit to **worker retraining programs** before job cuts.  
+### ❌ **Falta de Supervisión y Transparencia en la IA**  
+- Las decisiones sobre contratación, despido y salarios impulsadas por IA a menudo ocurren **sin supervisión humana**.  
+- Los trabajadores están excluidos de las discusiones sobre cómo se implementa la IA en sus lugares de trabajo.  
 
-- **Worker Oversight of AI Decisions:**  
-  - **Ban AI from making firing and wage decisions** without human review.  
-  - Establish **worker-led AI oversight committees** in major industries.  
+### ❌ **Acceso Inequitativo a Empleos y Capacitación en IA**  
+- Sin inversión en **programas de recualificación**, los trabajadores desplazados quedan atrás.  
+- Las **comunidades de bajos ingresos y los trabajadores de color** tienen menos oportunidades en industrias impulsadas por la IA.  
 
----
-
-### 📚 **2. Reskilling and Education for the Future**  
-- **Free AI and Robotics Training for Workers**  
-  - Provide free or low-cost **training programs** in AI maintenance, robotics, and automation management.  
-  - Ensure courses are accessible in **multiple languages and flexible formats**.  
-
-- **Community Tech Hubs in Georgia’s 5th District**  
-  - Establish **public AI learning centers** to train residents in tech-driven industries.  
-  - Offer workshops on **AI entrepreneurship** to help small businesses use automation ethically.  
-
-- **Equity in Access**  
-  - Prioritize funding for **Black, immigrant, and low-income workers** to access AI training programs.  
+### ❌ **El Riesgo de Monopolios Controlados por la IA**  
+- Un puñado de corporaciones domina la IA, **centralizando poder y riqueza** a expensas de los trabajadores.  
+- Sin intervención política, **los trabajadores perderán el control sobre cómo la tecnología impacta sus medios de vida**.  
 
 ---
 
-### 🛡️ **3. Strengthen Social Safety Nets**  
-- **Unemployment and Retraining Benefits**  
-  - Expand **unemployment protections** for workers displaced by automation.  
-  - Provide **stipends for workers** who enroll in retraining programs.  
+## **Una Agenda de IA Centrada en las Personas**  
 
-- **Universal Basic Income (UBI) Pilot for AI-Displaced Workers**  
-  - Launch a **UBI trial** in Georgia’s 5th District to support workers affected by automation.  
-  - Measure its impact on job transitions and economic stability.  
+### 🛠️ **1. Proteger Empleos a Través de una IA Centrada en los Trabajadores**  
+- **La IA Debe Asistir, No Reemplazar:**  
+  - Exigir a las empresas que utilicen la IA **para mejorar, no eliminar** el trabajo humano.  
+  - Invertir en **exoesqueletos portátiles y herramientas asistidas por IA** para prevenir lesiones y mejorar la productividad.  
 
-- **Affordable Healthcare for AI-Disrupted Workers**  
-  - Ensure all displaced workers receive **healthcare, mental health support, and job placement assistance**.  
+- **Evaluaciones de Impacto de la Automatización:**  
+  - Las empresas deben realizar **informes de impacto público** antes de automatizar empleos.  
+  - Las empresas deben comprometerse a **programas de recualificación para trabajadores** antes de realizar despidos.  
 
----
-
-### 💡 **4. Promote Worker Ownership and Economic Democracy**  
-- **AI Should Generate Shared Wealth, Not Just Corporate Profits**  
-  - Incentivize **worker-owned AI cooperatives** that allow employees to benefit from automation.  
-  - Provide grants and loans for **AI-driven small businesses** that create local jobs.  
-
-- **Tech Innovation That Stays in Georgia’s 5th**  
-  - Support AI research and development that **benefits the local economy**.  
-  - Ensure **public funding for AI projects** benefits communities, not just corporations.  
+- **Supervisión de los Trabajadores en las Decisiones de IA:**  
+  - **Prohibir que la IA tome decisiones de despido y salario** sin revisión humana.  
+  - Establecer **comités de supervisión de IA liderados por trabajadores** en las principales industrias.  
 
 ---
 
-### 🤖 **5. Ethical AI Development and Public Oversight**  
-- **AI Impact Reports Before Deployment**  
-  - Require companies to conduct **community impact studies** before launching AI-driven automation.  
+### 📚 **2. Recualificación y Educación para el Futuro**  
+- **Capacitación Gratuita en IA y Robótica para Trabajadores**  
+  - Proporcionar programas de **capacitación gratuitos o de bajo costo** en mantenimiento de IA, robótica y gestión de automatización.  
+  - Asegurar que los cursos sean accesibles en **múltiples idiomas y formatos flexibles**.  
 
-- **Transparency in AI Decision-Making**  
-  - **Mandate AI explainability**—workers should know how AI makes decisions affecting their jobs.  
-  - Create **public AI oversight boards** to hold companies accountable.  
+- **Centros Tecnológicos Comunitarios en el 5to Distrito de Georgia**  
+  - Establecer **centros de aprendizaje público sobre IA** para capacitar a los residentes en industrias impulsadas por la tecnología.  
+  - Ofrecer talleres sobre **emprendimiento en IA** para ayudar a las pequeñas empresas a usar la automatización de manera ética.  
 
-- **Ban AI in High-Risk Areas**  
-  - Prohibit AI from **making life-or-death decisions in healthcare, policing, and legal sentencing**.  
-  - Establish **ethical guidelines for AI** in public safety and labor markets.  
-
----
-
-## **Action Plan for Georgia’s 5th District**  
-
-✅ **1. Legislative Action**  
-- Introduce laws requiring **AI to enhance, not replace, human labor**.  
-- Require **corporate accountability** for job displacement and automation.  
-- Ban **AI-only hiring and firing decisions** without human oversight.  
-
-✅ **2. Workforce Investment**  
-- Fund **free reskilling programs** and **tech hubs** across Georgia’s 5th District.  
-- Ensure **displaced workers receive financial support** during job transitions.  
-
-✅ **3. AI Transparency and Ethics Enforcement**  
-- Establish **worker and citizen oversight boards** to regulate AI use in workplaces.  
-- Mandate **public disclosure of AI-driven decisions** in employment and wages.  
-
-✅ **4. Support for Local Innovation**  
-- Invest in **worker-owned AI startups** and small businesses using AI ethically.  
-- Provide funding for **public-sector AI projects** that benefit Georgia’s 5th District.  
+- **Equidad en el Acceso**  
+  - Priorizar la financiación para que **trabajadores negros, inmigrantes y de bajos ingresos** accedan a programas de capacitación en IA.  
 
 ---
 
-## **Why This Matters for Georgia’s 5th District**  
+### 🛡️ **3. Fortalecer las Redes de Seguridad Social**  
+- **Beneficios de Desempleo y Recualificación**  
+  - Ampliar las **protecciones de desempleo** para los trabajadores desplazados por la automatización.  
+  - Proporcionar **subsidios para trabajadores** que se inscriban en programas de recualificación.  
 
-### ✅ **Protecting Jobs and Workers**  
-We must ensure AI **enhances human labor**, keeping workplaces **safer and more productive** without eliminating livelihoods.  
+- **Piloto de Ingreso Básico Universal (IBU) para Trabajadores Desplazados por la IA**  
+  - Lanzar un **ensayo de IBU** en el 5to Distrito de Georgia para apoyar a los trabajadores afectados por la automatización.  
+  - Medir su impacto en las transiciones laborales y la estabilidad económica.  
 
-### 📈 **Expanding Economic Opportunity**  
-Investing in **AI reskilling, innovation, and entrepreneurship** will prepare Georgia’s 5th for high-demand, future-ready jobs.  
-
-### 🌍 **Ethical, Transparent Development**  
-AI should work for **all of us, not just Big Tech and corporations**.  
-
-### 🛡️ **Stronger Safety Nets for Workers**  
-By expanding **unemployment support, training benefits, and UBI pilots**, we can protect workers from economic shocks.  
+- **Atención Médica Asequible para Trabajadores Afectados por la IA**  
+  - Asegurar que todos los trabajadores desplazados reciban **atención médica, apoyo de salud mental y asistencia para la colocación laboral**.  
 
 ---
 
-## **Our Commitment to Georgia’s 5th District**  
+### 💡 **4. Promover la Propiedad de los Trabajadores y la Democracia Económica**  
+- **La IA Debe Generar Riqueza Compartida, No Solo Beneficios Corporativos**  
+  - Incentivar **cooperativas de IA de propiedad de los trabajadores** que permitan a los empleados beneficiarse de la automatización.  
+  - Proporcionar subvenciones y préstamos para **pequeñas empresas impulsadas por IA** que creen empleos locales.  
 
-The future of work **shouldn’t be dictated by corporations alone**. We need **bold policies** that protect workers, ensure AI is used responsibly, and create opportunities for shared prosperity in **Georgia’s 5th District**.  
-
-Technology must **work for us—not replace us**. By investing in **people-first AI policies**, we will lead the way in building an economy that **works for everyone**.  
-
----
-
-## **Conclusion: A Future That Works for Everyone**  
-
-AI and automation **don’t have to be a threat**—but without action, they will be. The choice is clear:  
-
-✅ **We can let corporations control AI, displace workers, and hoard profits.**  
-✅ **Or we can build a people-first AI economy that protects jobs, strengthens workers, and expands opportunity.**  
-
-**Georgia’s 5th District must lead in making AI a tool for justice, prosperity, and equity.**  
+- **Innovación Tecnológica que Permanezca en el 5to Distrito de Georgia**  
+  - Apoyar la investigación y el desarrollo de IA que **beneficie a la economía local**.  
+  - Asegurar que **la financiación pública para proyectos de IA** beneficie a las comunidades, no solo a las corporaciones.  
 
 ---
 
-### **Join Us in Shaping a People-First AI Future**  
+### 🤖 **5. Desarrollo Ético de la IA y Supervisión Pública**  
+- **Informes de Impacto de la IA Antes de la Implementación**  
+  - Exigir a las empresas que realicen **estudios de impacto comunitario** antes de lanzar la automatización impulsada por IA.  
 
-Stand with us as we fight for policies that protect workers, promote innovation, and ensure AI serves humanity.
+- **Transparencia en la Toma de Decisiones de IA**  
+  - **Mandatar la explicabilidad de la IA**—los trabajadores deben saber cómo la IA toma decisiones que afectan sus empleos.  
+  - Crear **juntas de supervisión pública de IA** para responsabilizar a las empresas.  
+
+- **Prohibir la IA en Áreas de Alto Riesgo**  
+  - Prohibir que la IA **tome decisiones de vida o muerte en atención médica, policía y sentencias legales**.  
+  - Establecer **directrices éticas para la IA** en seguridad pública y mercados laborales.  
+
+---
+
+## **Plan de Acción para el 5to Distrito de Georgia**  
+
+✅ **1. Acción Legislativa**  
+- Introducir leyes que exijan a la **IA mejorar, no reemplazar, el trabajo humano**.  
+- Exigir **responsabilidad corporativa** por el desplazamiento laboral y la automatización.  
+- Prohibir **decisiones de contratación y despido solo por IA** sin supervisión humana.  
+
+✅ **2. Inversión en la Fuerza Laboral**  
+- Financiar **programas gratuitos de recualificación** y **centros tecnológicos** en todo el 5to Distrito de Georgia.  
+- Asegurar que **los trabajadores desplazados reciban apoyo financiero** durante las transiciones laborales.  
+
+✅ **3. Transparencia de la IA y Aplicación de Ética**  
+- Establecer **juntas de supervisión de trabajadores y ciudadanos** para regular el uso de la IA en los lugares de trabajo.  
+- Mandatar la **divulgación pública de decisiones impulsadas por IA** en empleo y salarios.  
+
+✅ **4. Apoyo a la Innovación Local**  
+- Invertir en **startups de IA de propiedad de los trabajadores** y pequeñas empresas que usen la IA de manera ética.  
+- Proporcionar financiación para **proyectos de IA del sector público** que beneficien al 5to Distrito de Georgia.  
+
+---
+
+## **Por Qué Esto Importa para el 5to Distrito de Georgia**  
+
+### ✅ **Proteger Empleos y Trabajadores**  
+Debemos asegurar que la IA **mejore el trabajo humano**, manteniendo los lugares de trabajo **más seguros y productivos** sin eliminar medios de vida.  
+
+### 📈 **Ampliar Oportunidades Económicas**  
+Invertir en **recualificación en IA, innovación y emprendimiento** preparará al 5to Distrito de Georgia para empleos de alta demanda y listos para el futuro.  
+
+### 🌍 **Desarrollo Ético y Transparente**  
+La IA debe trabajar para **todos nosotros, no solo para las grandes tecnológicas y corporaciones**.  
+
+### 🛡️ **Redes de Seguridad Más Fuertes para los Trabajadores**  
+Al ampliar el **apoyo al desempleo, beneficios de recualificación y pilotos de IBU**, podemos proteger a los trabajadores de choques económicos.  
+
+---
+
+## **Nuestro Compromiso con el 5to Distrito de Georgia**  
+
+El futuro del trabajo **no debería ser dictado solo por las corporaciones**. Necesitamos **políticas audaces** que protejan a los trabajadores, aseguren que la IA se use de manera responsable y creen oportunidades para la prosperidad compartida en el **5to Distrito de Georgia**.  
+
+La tecnología debe **trabajar para nosotros—no reemplazarnos**. Al invertir en **políticas de IA centradas en las personas**, lideraremos el camino para construir una economía que **trabaje para todos**.  
+
+---
+
+## **Conclusión: Un Futuro que Funciona para Todos**  
+
+La IA y la automatización **no tienen que ser una amenaza**—pero sin acción, lo serán. La elección es clara:  
+
+✅ **Podemos dejar que las corporaciones controlen la IA, desplacen trabajadores y acumulen ganancias.**  
+✅ **O podemos construir una economía de IA centrada en las personas que proteja empleos, fortalezca a los trabajadores y amplíe oportunidades.**  
+
+**El 5to Distrito de Georgia debe liderar en hacer de la IA una herramienta para la justicia, la prosperidad y la equidad.**  
+
+---
+
+### **Únete a Nosotros para Dar Forma a un Futuro de IA Centrado en las Personas**  
+
+Párate con nosotros mientras luchamos por políticas que protejan a los trabajadores, promuevan la innovación y aseguren que la IA sirva a la humanidad.

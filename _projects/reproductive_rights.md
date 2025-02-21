@@ -1,108 +1,108 @@
 ---
-title: "Reproductive Rights"
-description: "Defending every woman's right to make her own healthcare decisions."
+title: "Derechos Reproductivos"
+description: "Defendiendo el derecho de cada mujer a tomar sus propias decisiones de salud."
 date: 2025-01-22 00:00:00 +0000
-label: "Policy"
+label: "Política"
 image: "/images/reproductive-rights-header.webp"
 ---
 
-# **Reproductive Rights: Protecting Freedom, Ensuring Access**  
+# **Derechos Reproductivos: Protegiendo la Libertad, Asegurando el Acceso**  
 
-## **The Fight for Reproductive Freedom**  
+## **La Lucha por la Libertad Reproductiva**  
 
-Reproductive rights are under attack across the country, and **Georgia’s 5th Congressional District** is no exception. **Georgia has one of the highest maternal mortality rates** in the nation, and restrictive laws disproportionately harm **Black women, low-income families, and rural communities**.  
+Los derechos reproductivos están bajo ataque en todo el país, y **el 5to Distrito Congresional de Georgia** no es la excepción. **Georgia tiene una de las tasas de mortalidad materna más altas** de la nación, y las leyes restrictivas afectan desproporcionadamente a **mujeres afroamericanas, familias de bajos ingresos y comunidades rurales**.  
 
-We must take bold action to **codify abortion rights, expand reproductive healthcare, and guarantee free birthing services**. No one should be forced to **travel out of state, struggle financially, or suffer from medical neglect** just to get the care they need.  
+Debemos tomar medidas audaces para **codificar los derechos al aborto, expandir la atención médica reproductiva y garantizar servicios de parto gratuitos**. Nadie debería verse obligado a **viajar fuera del estado, luchar financieramente o sufrir negligencia médica** solo para recibir la atención que necesita.  
 
-**Reproductive justice is non-negotiable.** We won’t back down.  
-
----
-
-## **Why This Matters in Georgia’s 5th District**  
-
-### 📉 **Georgia’s Maternal Mortality Crisis**  
-- **Georgia has the 2nd highest maternal mortality rate** in the nation—**33.9 deaths per 100,000 births**.  
-- Black women face **higher risks of complications** due to systemic healthcare disparities.  
-- Hospital closures and lack of funding in **Atlanta’s underserved neighborhoods** make access even worse.  
-
-**Reproductive rights are about survival. Georgia’s 5th District deserves better.**  
+**La justicia reproductiva es innegociable.** No nos rendiremos.  
 
 ---
 
-## **A Bold Agenda for Reproductive Justice**  
+## **Por Qué Esto Importa en el 5to Distrito de Georgia**  
 
-### 🛡️ **1. Codify the Right to Choose**  
-- **Enshrine abortion access into federal law** to prevent restrictive state policies.  
-- **End unnecessary barriers** like waiting periods and burdensome clinic regulations.  
+### 📉 **La Crisis de Mortalidad Materna en Georgia**  
+- **Georgia tiene la 2ª tasa de mortalidad materna más alta** de la nación—**33.9 muertes por cada 100,000 nacimientos**.  
+- Las mujeres afroamericanas enfrentan **mayores riesgos de complicaciones** debido a las disparidades sistémicas en la atención médica.  
+- El cierre de hospitales y la falta de financiamiento en **los vecindarios desatendidos de Atlanta** empeoran aún más el acceso.  
 
-### 🌐 **2. Expand Access to Reproductive Healthcare**  
-- **Guarantee free contraception** and family planning services for all.  
-- **Fund local reproductive health centers** to ensure access in underserved areas.  
-
-### ✊ **3. Address Racial and Economic Health Disparities**  
-- **Invest in maternal health programs** tailored for **Black women and low-income communities**.  
-- **Train local healthcare providers** to deliver culturally competent, high-quality reproductive care.  
-
-### 🏥 **4. Make Birthing and Maternal Care Free**  
-- **Ensure all prenatal, birthing, and postnatal services** are free for families.  
-- **Integrate comprehensive reproductive care into Medicare for All** to remove financial barriers.  
-
-### 📚 **5. Educate and Empower**  
-- **Implement evidence-based sex education** in public schools.  
-- **Raise awareness** about reproductive rights and available healthcare resources.  
+**Los derechos reproductivos son cuestión de supervivencia. El 5to Distrito de Georgia merece algo mejor.**  
 
 ---
 
-## **How We Deliver Reproductive Justice**  
+## **Una Agenda Audaz para la Justicia Reproductiva**  
 
-✅ **1. Codify Abortion Rights in Federal Law**  
-- Protect women from restrictive state laws by ensuring federal protections.  
-- Repeal the **Hyde Amendment** so Medicaid covers abortion services.  
+### 🛡️ **1. Codificar el Derecho a Elegir**  
+- **Consagrar el acceso al aborto en la ley federal** para prevenir políticas estatales restrictivas.  
+- **Eliminar barreras innecesarias** como los períodos de espera y las regulaciones onerosas de las clínicas.  
 
-✅ **2. Fund and Expand Healthcare Access**  
-- Increase federal support for **reproductive health clinics in underserved areas**.  
-- Guarantee **free contraception and family planning services** for all.  
+### 🌐 **2. Expandir el Acceso a la Atención Médica Reproductiva**  
+- **Garantizar anticonceptivos gratuitos** y servicios de planificación familiar para todos.  
+- **Financiar centros de salud reproductiva locales** para asegurar el acceso en áreas desatendidas.  
 
-✅ **3. Close the Healthcare Equity Gap**  
-- Direct funding to hospitals and clinics **serving Black and low-income communities**.  
-- Expand maternal health programs and ensure **culturally competent medical training** for providers.  
+### ✊ **3. Abordar las Disparidades de Salud Racial y Económica**  
+- **Invertir en programas de salud materna** adaptados para **mujeres afroamericanas y comunidades de bajos ingresos**.  
+- **Capacitar a los proveedores de salud locales** para ofrecer atención reproductiva de alta calidad y culturalmente competente.  
 
-✅ **4. Guarantee Free Birthing and Hospital Care**  
-- **Ensure every mother has access to free prenatal, birthing, and postnatal care.**  
-- Include full reproductive care in **Medicare for All**.  
+### 🏥 **4. Hacer que el Parto y la Atención Materna sean Gratuitos**  
+- **Asegurar que todos los servicios prenatales, de parto y postnatales** sean gratuitos para las familias.  
+- **Integrar atención reproductiva integral en Medicare para Todos** para eliminar las barreras financieras.  
 
-✅ **5. Fight Disinformation and Stigma**  
-- Implement **evidence-based sex education in public schools**.  
-- Challenge misinformation campaigns targeting **reproductive health clinics**.  
-
----
-
-## **What This Means for Georgia’s 5th District**  
-
-### ⚖️ **Legal Protections for Women’s Rights**  
-- No state should have the power to **control a woman’s body**—federal protections will ensure access in Georgia.  
-
-### 🏥 **Guaranteed Access to Reproductive Healthcare**  
-- Women in **Atlanta and surrounding communities** will have full reproductive healthcare access—**without cost or restriction**.  
-
-### ✊ **Health Equity for All Residents**  
-- Culturally competent healthcare, targeted investments, and hospital funding will close racial and economic disparities.  
-
-### 💰 **Free Birthing Services for Families**  
-- No parent should **go into debt** for bringing a child into the world.  
+### 📚 **5. Educar y Empoderar**  
+- **Implementar educación sexual basada en evidencia** en las escuelas públicas.  
+- **Aumentar la conciencia** sobre los derechos reproductivos y los recursos de atención médica disponibles.  
 
 ---
 
-## **A Future Where Reproductive Rights Are Secure**  
+## **Cómo Entregamos Justicia Reproductiva**  
 
-This fight is about more than just abortion—it’s about **health, dignity, and freedom**. Women deserve the right to control their own healthcare decisions, access affordable care, and give birth without financial strain.  
+✅ **1. Codificar los Derechos al Aborto en la Ley Federal**  
+- Proteger a las mujeres de las leyes estatales restrictivas asegurando protecciones federales.  
+- Derogar la **Enmienda Hyde** para que Medicaid cubra los servicios de aborto.  
 
-We **must protect reproductive freedom, expand healthcare access, and ensure that no woman is denied the care she needs**.  
+✅ **2. Financiar y Expandir el Acceso a la Atención Médica**  
+- Aumentar el apoyo federal para **clínicas de salud reproductiva en áreas desatendidas**.  
+- Garantizar **anticonceptivos gratuitos y servicios de planificación familiar** para todos.  
 
-Together, we will build a future where **healthcare is a right, not a privilege**—no matter where you live.  
+✅ **3. Cerrar la Brecha de Equidad en Salud**  
+- Dirigir fondos a hospitales y clínicas **que atienden a comunidades afroamericanas y de bajos ingresos**.  
+- Expandir programas de salud materna y asegurar **capacitación médica culturalmente competente** para los proveedores.  
+
+✅ **4. Garantizar Atención Gratuita de Parto y Hospitalaria**  
+- **Asegurar que cada madre tenga acceso a atención prenatal, de parto y postnatal gratuita.**  
+- Incluir atención reproductiva completa en **Medicare para Todos**.  
+
+✅ **5. Luchar Contra la Desinformación y el Estigma**  
+- Implementar **educación sexual basada en evidencia en las escuelas públicas**.  
+- Desafiar las campañas de desinformación dirigidas a **clínicas de salud reproductiva**.  
 
 ---
 
-### **Join the Fight for Reproductive Freedom**  
+## **Lo Que Esto Significa para el 5to Distrito de Georgia**  
 
-**Defend choice. Protect healthcare. Demand justice.**  
+### ⚖️ **Protecciones Legales para los Derechos de las Mujeres**  
+- Ningún estado debería tener el poder de **controlar el cuerpo de una mujer**—las protecciones federales asegurarán el acceso en Georgia.  
+
+### 🏥 **Acceso Garantizado a la Atención Médica Reproductiva**  
+- Las mujeres en **Atlanta y comunidades circundantes** tendrán acceso completo a la atención médica reproductiva—**sin costo ni restricciones**.  
+
+### ✊ **Equidad en Salud para Todos los Residentes**  
+- Atención médica culturalmente competente, inversiones específicas y financiamiento hospitalario cerrarán las disparidades raciales y económicas.  
+
+### 💰 **Servicios de Parto Gratuitos para las Familias**  
+- Ningún padre debería **endeudarse** por traer un hijo al mundo.  
+
+---
+
+## **Un Futuro Donde los Derechos Reproductivos Estén Asegurados**  
+
+Esta lucha es sobre más que solo el aborto—se trata de **salud, dignidad y libertad**. Las mujeres merecen el derecho a controlar sus propias decisiones de salud, acceder a atención asequible y dar a luz sin presión financiera.  
+
+Debemos **proteger la libertad reproductiva, expandir el acceso a la atención médica y asegurar que ninguna mujer sea negada la atención que necesita**.  
+
+Juntos, construiremos un futuro donde **la atención médica sea un derecho, no un privilegio**—sin importar dónde vivas.  
+
+---
+
+### **Únete a la Lucha por la Libertad Reproductiva**  
+
+**Defiende la elección. Protege la atención médica. Exige justicia.**
