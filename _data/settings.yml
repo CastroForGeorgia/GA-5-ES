@@ -1,13 +1,13 @@
 #-------------------------------
-# Site Settings
+# Configuración del Sitio
 title: CastroForGeorgia
-logo: '/images/logo.png' # You can add own logo. For example '/images/logo.png'.
+logo: '/images/logo.png' # Puedes agregar tu propio logo. Por ejemplo '/images/logo.png'.
 logo_dark: '/images/logo.png'
-description: Andres Castro, un defensor de la gente en el 5.º Distrito Congresional de Georgia. 
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+description: Andres Castro, un defensor del pueblo en el 5to Distrito Congressional de Georgia. 
+color_scheme: auto # Puedes elegir entre tres modos: auto, claro y oscuro. Por defecto, se establece el modo automático, lo que significa que el usuario puede elegir el modo claro u oscuro por sí mismo.
 
 #-------------------------------
-# Navigation Settings
+# Configuración de Navegación
 menu_settings:
   menu_items:
     - title: 'Inicio'
@@ -15,82 +15,94 @@ menu_settings:
     - title: 'Acerca de'
       url: '/about/'
     - title: "Por qué me postulo"
-      url: '/blog/why-im-running/'
+      url: '/blog/why-im-running'
     - title: 'Políticas'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'Contacto'
       url: 'https://actionnetwork.org/forms/connect-with-andres-share-your-vision'
 
 #-------------------------------
-# Author Settings
+# Configuración del Autor
 author:
   author_name: Andres Castro
   author_avatar: '/images/about-me-photo-zoom.jpg'
 
 #-------------------------------
-# Hero Settings
+# Configuración del Héroe
 hero:
   enable: true
-  hero_role: "Candidato para la Cámara de Representantes de EE.UU. (GA-05) ∙ Luchando por las familias trabajadoras, viviendas asequibles y dignidad económica"
-  hero_title: "¡Hola! Soy Andres <img src=\"/images/about-me-photo-zoom.jpg\" alt=\"Andres Castro Picture\" loading=\"lazy\"> <br> Luchando por el 5.º Distrito de Georgia"
-  hero_description: "Juntos, podemos construir un futuro que funcione para todos—donde la equidad, la justicia y las oportunidades sean más que promesas, sean realidades. Creemos un cambio significativo para las familias trabajadoras de Georgia."
+  hero_role: "Candidato a la Cámara de Representantes de EE. UU. (GA-05) ∙ Luchando por las familias trabajadoras, vivienda asequible y dignidad económica"
+  hero_title: "¡Hola! Soy Andres <br> Luchando por el 5to Distrito de Georgia"
+  hero_description: "Juntos, podemos construir un futuro que funcione para todos—donde la equidad, la justicia y la oportunidad sean más que promesas, sean realidades. Creamos un cambio significativo para las familias trabajadoras de Georgia."
   hero_button_text: "Únete al Movimiento"
   hero_button_link: "https://actionnetwork.org/forms/connect-with-andres-share-your-vision"
 
 #-------------------------------
-# Projects Section Settings
+# Configuración de la Sección de Proyectos
 projects:
   enable: true
   projects_title: Políticas
-  projects_description: Explora nuestra visión de un futuro más justo y equitativo para el 5.º Distrito de Georgia. Juntos, construiremos un futuro próspero y equitativo.
+  projects_description: Explora nuestra visión para un 5to Distrito de Georgia más justo y equitativo. Juntos, construiremos un futuro próspero y equitativo.
 
 #-------------------------------
-# Blog Section Settings
+# Configuración de la Sección de Blog
 blog:
   enable: true
   blog_title: Blog
-  blog_description: Construyamos un futuro que funcione para todos.
+  blog_description: Construyamos un futuro que funcione para todos nosotros.
 
 #-------------------------------
-# About Section Settings
+# Configuración de la Sección Acerca de
 about:
   enable: true
   about_image: "/images/about-me-photo.jpg"
   about_title: "Juntos por el Cambio"
-  about_description: "Construyamos un futuro donde cada familia en el 5.º Distrito de Georgia tenga acceso a oportunidades, equidad y justicia. Únete a mí en la lucha por soluciones audaces que eleven a las familias trabajadoras, protejan los derechos civiles y creen un gobierno que realmente funcione para todos nosotros."
+  about_description: "Construyamos un futuro donde cada familia en el 5to Distrito de Georgia tenga acceso a oportunidades, equidad y justicia. Únete a mí en la lucha por soluciones audaces que eleven a las familias trabajadoras, protejan los derechos civiles y creen un gobierno que realmente funcione para todos nosotros."
 
 #-------------------------------
-# Faq (Frequently Asked Questions) Settings
+# Configuración de Preguntas Frecuentes (FAQ)
 faq:
   enable: true
-  faq_title: "¿Necesitas respuestas?"
-  faq_description: "Conoce a Andres Castro y su compromiso con la creación de una comunidad más justa e inclusiva en el 5.º Distrito Congresional de Georgia."
+  faq_title: "¿Necesitas Respuestas?"
+  faq_description: "Conoce a Andres Castro y su compromiso de crear una comunidad más justa e inclusiva en el 5to Distrito Congressional de Georgia."
   faq_items:
     - title: "¿Qué motivó a Andres Castro a postularse para un cargo?"
-      description: "Andres Castro se motivó a postularse debido a su frustración con el liderazgo demócrata actual, que, según él, ha dejado de priorizar las necesidades de la gente. Ve líderes que no escuchan, actúan con lentitud y no cumplen las promesas hechas a las familias trabajadoras. Andres se está postulando para brindar un liderazgo audaz e intransigente que ponga a los residentes del 5.º Distrito Congresional de Georgia en primer lugar."
+      description: "Andres Castro se sintió motivado a postularse por la frustración con el liderazgo demócrata actual, que cree que ha dejado de priorizar las necesidades del pueblo. Ve a líderes que no están dispuestos a escuchar, lentos para actuar y que comprometen las promesas hechas a las familias trabajadoras. Andres está dispuesto a ofrecer un liderazgo audaz y firme que ponga a los residentes del 5to Distrito Congressional de Georgia en primer lugar."
 
     - title: "¿Quién es Andres Castro?"
-      description: "Andres Castro es un orgulloso hijo del área metropolitana de Atlanta, con raíces profundas en Marietta, Powder Springs y Atlanta. Creciendo en la pobreza, conoció de primera mano las luchas de las familias trabajadoras. A través de determinación y trabajo duro, Andres se convirtió en Ingeniero de Software Sénior, donde perfeccionó su experiencia en el uso de tecnología para resolver problemas complejos. Ahora, como candidato para Representante de EE.UU. en el 5.º Distrito Congresional de Georgia, Andres se enfoca en crear soluciones para viviendas asequibles, justicia económica y gobernanza transparente, asegurando oportunidades y equidad para todos."
+      description: "Andres Castro es un orgulloso hijo de Metro Atlanta, con profundas raíces en Marietta, Powder Springs y Atlanta. Creciendo en la pobreza, aprendió de primera mano las luchas de las familias trabajadoras. A través de la determinación y el trabajo duro, Andres se convirtió en Ingeniero de Software, donde perfeccionó su experiencia en el uso de la tecnología para resolver problemas complejos. Ahora, como candidato a Representante de EE. UU. en el 5to Distrito Congressional de Georgia, Andres se enfoca en crear soluciones para la vivienda asequible, la justicia económica y la gobernanza transparente, asegurando oportunidades y equidad para todos."
 
     - title: "¿Cuáles son las principales prioridades políticas de Andres Castro?"
-      description: "Las prioridades de Andres Castro incluyen soluciones audaces para abordar desigualdades sistémicas: viviendas asequibles mediante programas como La Garantía de Vivienda para los Trabajadores, atención médica universal para garantizar el acceso a todos, programas de reentrenamiento laboral conscientes de la automatización y responsabilidad corporativa para que las grandes empresas cumplan con estándares justos de salarios e impuestos. Con su experiencia técnica, Andres también defiende la ética en la IA y soluciones innovadoras y equitativas para empoderar a los trabajadores y comunidades."
+      description: "Las prioridades de Andres Castro incluyen soluciones audaces para abordar las desigualdades sistémicas: vivienda asequible a través de programas como La Garantía de Vivienda para Trabajadores, atención médica universal para garantizar el acceso para todos, programas de reentrenamiento laboral conscientes de la automatización y responsabilidad corporativa para exigir a las grandes empresas estándares justos de salario e impuestos. Con su formación técnica, Andres también aboga por la IA ética y soluciones innovadoras y equitativas para empoderar a los trabajadores y comunidades."
 
     - title: "¿Cómo pueden los simpatizantes involucrarse en la campaña de Andres Castro?"
-      description: "Los simpatizantes pueden participar como voluntarios en actividades como tocar puertas, hacer llamadas telefónicas y organizar eventos, asistir a reuniones comunitarias y compartir los mensajes de la campaña en redes sociales. También puedes suscribirte al boletín de la campaña para mantenerte informado y tomar acción. Tu apoyo y participación son fundamentales para impulsar un cambio significativo en el 5.º Distrito Congresional de Georgia."
+      description: "Los simpatizantes pueden involucrarse ofreciendo su tiempo para hacer canvassing, llamadas telefónicas y organizar eventos, asistiendo a reuniones comunitarias y asambleas, y compartiendo mensajes de la campaña en las redes sociales. También puedes suscribirte al boletín de la campaña para mantenerte informado y actuar. Tu apoyo y participación son fundamentales para impulsar un cambio significativo en el 5to Distrito Congressional de Georgia."
 
 #-------------------------------
-# Social Links
+# Enlaces Sociales
 social:
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://www.instagram.com/castroforgeorgia/"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/CastroForGeorgia"}
 - {icon: "fa-brands fa-bluesky", name: "Bluesky", link: "https://bsky.app/profile/castroforgeorgia.bsky.social"}
 - {icon: "fa-brands fa-huggingface", name: "Huggingface", link: "https://huggingface.co/CastroForGeorgia"}
 
-# Example of adding a new link to the footer - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
-# Other icons can be found at https://fontawesome.com/icons
+# Ejemplo de agregar un nuevo enlace al pie de página - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
+# Otros íconos se pueden encontrar en https://fontawesome.com/icons
 
 #-------------------------------
 # Google Analytics
 google-analytics: G-8XLD5HNY8Q
+
+#-------------------------------
+# Configuración de Localización
+languages:
+  default: "en"
+  supported:
+  - lang_code: en
+    lang_name: "Inglés (EE. UU.)"
+  - lang_code: es
+    lang_name: "Español (MX)"
+  - lang_code: vi
+    lang_name: "Vietnamita (VN)"
+  - lang_code: ko
+    lang_name: "Coreano (KR)"

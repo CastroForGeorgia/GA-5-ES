@@ -1,6 +1,6 @@
 # Enlaces Útiles
 
-- [Sitio Web Oficial de la Campaña](andrescastro.us)
+- [Sitio Oficial de la Campaña](andrescastro.us)
 - [Registro de Voluntarios](andrescastro.us)
 - [Debates sobre Políticas](andrescastro.us)
 

@@ -1,55 +1,38 @@
 ---
-
-layout: post  
-title: "El Partido Demócrata ha perdido su camino: Por qué me postulo para el Congreso"  
-description: "Las fallas del Partido Demócrata, corrompido por la influencia corporativa, me han impulsado a luchar por su regreso a sus raíces."  
-date: 2025-01-12  
-image: '/images/about-me-photo.jpg'
-
-redirect_from:  
-  - /blog/por-que-me-postulo/
-
+layout: post
+title: "Por qué me postulo para el Congreso en el 5to Distrito de Georgia"
+description: "Los fracasos del Partido Demócrata, corrompido por la influencia corporativa, me han empujado a luchar por su regreso a sus raíces."
+date: 2025-01-12
+image: '/images/about-me-photo-zoom.jpg'
 ---
 
-# El Partido Demócrata ha perdido su camino
+## **El Partido Demócrata Ha Perdido Su Camino—Es Hora de Recuperarlo**  
 
-El Partido Demócrata fue una vez el campeón de la clase trabajadora, un partido que luchaba por la justicia económica, los derechos civiles y la oportunidad para todos. Pero con el tiempo, ha sido absorbido por la influencia corporativa, poniendo las ganancias sobre las personas y el poder sobre los principios. Esto ha dejado a millones de estadounidenses de clase trabajadora, incluyéndome a mí, desilusionados y exigiendo un cambio.
+El Partido Demócrata ha abandonado sus raíces de clase trabajadora, sucumbiendo a la influencia corporativa a expensas de los estadounidenses comunes. Me postulo para el Congreso en **el 5to Distrito de Georgia** porque me niego a quedarme de brazos cruzados mientras nuestro partido prioriza las ganancias sobre las personas. Necesitamos un liderazgo que luche por la justicia económica, los derechos civiles y un cambio audaz y transformador—no un incrementalismo que nos mantiene en la lucha.  
 
-Me postulo para el Congreso porque me niego a aceptar que esto es lo mejor que podemos hacer. El partido en el que creo, el partido que debería luchar por los trabajadores, por las familias que luchan, por aquellos cuyas voces son ignoradas, necesita ser recuperado. Es hora de líderes que no tengan miedo de enfrentarse a los intereses corporativos y pongan a las personas en primer lugar.
+## **Un Partido en una Encrucijada**  
 
-## No soy de la izquierda ni de la derecha; soy de abajo
+Nuestras cuentas siguen aumentando, la atención médica sigue siendo inasequible y los salarios no se ajustan—sin embargo, demasiados líderes demócratas aceptan el statu quo. Hablan de cambio pero nunca luchan por él. El partido debe elegir: ¿se pondrá del lado del pueblo o seguirá siendo un peón de las corporaciones estadounidenses?  
 
-Sé lo que significa luchar. Sé lo que es vivir de cheque en cheque, navegar por sistemas que parecen construidos para frenarnos y ver a líderes que afirman luchar por nosotros pero que no actúan cuando importa.
+## **No Soy de la Izquierda ni de la Derecha—Soy de Abajo**  
 
-Por eso nunca aceptaré dinero corporativo. **Mi lealtad es hacia la gente, no hacia las corporaciones, los cabilderos ni la élite política que se ha dejado comprar.**
+Sé lo que significa luchar. A diferencia de los políticos que aceptan dinero corporativo e ignoran al resto de nosotros, **nunca** aceptaré donaciones corporativas. Mi lealtad es hacia la clase trabajadora—inquilinos, familias y todos aquellos que viven de cheque en cheque en **GA-05**.  
 
-Las fallas del Partido Demócrata actual son la razón por la que no tenemos atención médica universal. Son la razón por la que su seguro de hogar está por las nubes, su factura de gas sigue aumentando y su recibo de luz en Georgia sube. En lugar de luchar por las familias trabajadoras, demasiados líderes han optado por proteger los intereses de los ricos y bien conectados.
+## **Elegir un Lado**  
 
-Eso no es liderazgo. Eso es complicidad.
+Los demócratas se dividen en dos categorías:  
 
-## Un partido que debe elegir un lado
+- **Los que ven el cambio como esencial**—porque su supervivencia depende de ello.  
+- **Los que lo ven como una buena idea**—apoyándolo en teoría pero nunca sintiendo su urgencia.  
 
-En mi trayectoria como demócrata, y ahora como candidato en GA-05, he visto dos grupos en nuestro partido:
+Para los trabajadores en **GA-05**, el incrementalismo no es una opción. La justicia y la equidad no pueden ser eslóganes vacíos. Necesitamos acción, ahora.  
 
-- **Aquellos para quienes el cambio progresista es esencial.** Sus libertades, medios de vida y supervivencia dependen de ello.
-- **Aquellos para quienes el cambio progresista es una buena idea.** Algo que apoyan en teoría, pero que no impacta sus vidas de manera significativa.
+## **Un Multiplicador Político para el Cambio**  
 
-El establishment se ha alineado demasiado a menudo con el segundo grupo, tratando la justicia y la equidad como eslóganes en lugar de necesidades. Están cómodos con cambios lentos e incrementales que nunca alteran el status quo. Pero para la gente de clase trabajadora, para las familias que luchan, para aquellos de nosotros que no podemos permitirnos esperar, eso no es suficiente.
+Esta campaña no se trata solo de ganar—se trata de construir un movimiento. Seré un **multiplicador político**, utilizando la tecnología y el poder de base para hacer que la política sea más accesible e inclusiva. Juntos, podemos crear una coalición para responsabilizar a nuestros líderes y devolver al Partido Demócrata su lugar legítimo: **del lado del pueblo**.  
 
-Necesitamos acciones audaces. Y las necesitamos ahora.
+## **Es Hora de una Revolución Política**  
 
-## Mi visión para el cambio: Un multiplicador político
+La toma de control corporativa del Partido Demócrata lo ha desconectado y lo ha alejado de la realidad. **Es hora de limpiar la casa.** Necesitamos representantes que sean lealmente inquebrantables con sus comunidades, no con donantes corporativos.  
 
-Esta campaña es más grande que una elección. **No me postulo solo para ganar un escaño; me postulo para construir un movimiento.**
-
-El cambio real ocurre cuando nos organizamos, movilizamos y elevamos a líderes en todos los niveles que se niegan a ser comprados. Mi visión es ser un **multiplicador político**, un representante que no solo lucha por mi distrito, sino que empodera a otros para que tomen esta lucha en sus propias comunidades. Construiremos una coalición de personas de clase trabajadora que exigen rendición de cuentas y que impulsen al Partido Demócrata de vuelta a sus raíces.
-
-Usaremos todas las herramientas a nuestra disposición, incluyendo tecnología de vanguardia, para hacer que la política sea accesible y para involucrar a más personas en la lucha. Porque esto no se trata solo de políticas; se trata de poder. Y es hora de recuperar ese poder.
-
-## Es hora de una revolución política
-
-La toma corporativa del Partido Demócrata lo ha dejado débil, sin inspiración y desconectado de las personas a las que afirma servir. **Es hora de limpiar la casa.** Es hora de reemplazar la política transaccional de hoy con un liderazgo que sea audaz, sin miedo y profundamente arraigado en las luchas de la gente común.
-
-Por eso me postulo. **Esta campaña no se trata de mí; se trata de nosotros.** Se trata de los trabajadores, inquilinos, padres y jóvenes que están cansados de ser ignorados. Se trata de restaurar la integridad en nuestra política y asegurar que nuestro gobierno trabaje para la gente, no para los poderosos.
-
-**No me detendré. No seré comprado. Únase a mí, y luchemos juntos para recuperar nuestro partido y nuestro 
+Me postulo en **GA-05** porque esta lucha no se trata de mí—se trata de todos nosotros que hemos sido ignorados durante demasiado tiempo. **No me detendré. No seré comprado.** Únete a mí, y reclamemos juntos nuestro partido—y nuestro futuro.
