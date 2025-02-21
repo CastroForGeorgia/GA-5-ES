@@ -1,34 +1,29 @@
 ---
 layout: page
-title: Sobre Andres Castro
-description: Conoce a Andres Castro, un líder de clase trabajadora y ingeniero de software que se postula para el Congreso en el 5to Distrito de Georgia para luchar por las familias, la igualdad y soluciones audaces impulsadas por la gente.
+title: About Andres Castro
+description: Meet Andres Castro, a working-class leader and software engineer running for Congress in Georgia’s 5th District to fight for families, equality, and bold, people-powered solutions.
 permalink: /about/
-image: '/images/about-me-photo.jpg'
-keywords: [Andres Castro, Liderazgo de Clase Trabajadora, 5to Distrito de Georgia, Sociedad Inclusiva, Justicia Económica, Tecnología para el Bien, Vivienda Asequible, Atención Médica Universal]
+image: '/images/about-me.jpg'
+
 ---
 
-# Sobre Andres Castro
+# About Me
 
-Hola, soy **Andres Castro**, ingeniero de software y líder de clase trabajadora que se postula para el Congreso en el **5to Distrito de Georgia**. Mi historia comenzó como hijo de un valiente inmigrante de Acapulco, México, quien nos trajo a Georgia para escapar del abuso y la pobreza. Creciendo en **Marietta y Powder Springs**, viví de primera mano los desafíos de la pobreza, el racismo y las barreras sistémicas.
+**I’m Andres Castro—a working-class leader, software engineer, and community advocate running for Congress in Georgia’s 5th District. My core mission is to fight for economic justice, Medicare for All, and civil rights, ensuring that working families have a real voice in Washington.**
 
-Con esfuerzo y determinación, obtuve un título en **Ciencias de la Computación** de la Universidad Estatal de Kennesaw, lancé una exitosa carrera en ingeniería y me convertí en un orgulloso propietario de vivienda en **Oakland City, Atlanta**. Mis experiencias me enseñaron que se necesita un cambio sistémico para asegurar que nadie se quede atrás.
+I know firsthand what it’s like to struggle. Growing up in **Marietta and Powder Springs** with an immigrant mother from **Acapulco, Mexico**, I faced poverty, racism, and systemic barriers. Determination carried me through **Kennesaw State University**, where I earned a **Computer Science degree** while juggling jobs to pay the bills. Today, I’m proud to be a **homeowner in Oakland City, Atlanta**, a testament to the resilience of working people everywhere.
 
-Me postulo para el Congreso para luchar por:  
-- **Justicia Económica**: Una economía justa con salarios dignos, sindicatos fuertes y vivienda asequible.  
-- **Atención Médica Universal**: Medicare para Todos para garantizar atención de calidad a cada residente.  
-- **Derechos Civiles**: Igualdad y protección para todos, incluidas las comunidades marginadas y LGBTQ+.  
-- **Gobierno Abierto**: Transparencia y rendición de cuentas, devolviendo el poder al pueblo.  
-- **Tecnología para el Bien**: Políticas que aseguren que la innovación sirva a la humanidad, no a la avaricia corporativa.  
+But no accomplishment matters without the people we love. **My wife**, a committed feminist advocate, has taught me the value of standing firm—even when facing political divides. Her parents and I don’t always see eye to eye politically, but we share a deep commitment to strong family ties and hard work. **My younger brother**, who is finishing his last year of service in the Coast Guard, and **my older sister**, a small business owner now helping me campaign, remind me every day why we need a government that respects and rewards hard work. And **my niece**, on the verge of graduating from **Georgia State University** with a game design degree, shows the promise that comes when we invest in young people’s futures.
 
-Esta campaña se trata de **ti**, tu familia y de construir un futuro donde todos puedan prosperar.
+Keeping family close has always been one of my greatest priorities—so much so that I was fortunate enough to buy **two side-by-side homes** for us. Now, I’m running for Congress to make sure families across our district have the same opportunity to thrive, no matter their background.
 
-## Aprende Más Sobre Mi Historia y Visión:
-- [Por Qué Me Postulo para el Congreso](/blog/why-im-running/)
-- [La Garantía de Vivienda para Trabajadores: Viviendas Asequibles para Todos](/project/housing-community/)
-- [La Atención Médica es un Derecho Humano: Mi Plan para Medicare para Todos](/project/healthcare/)
-- [Derechos Civiles e Igualdad: Defendiendo la Justicia](/project/civil-rights-equality)
-- [Tecnología para las Personas: Mi Visión para una IA Ética](/project/ai/)
+## Learn More About My Vision
+- [Why I’m Running for Congress](/blog/why-im-running/)  
+- [The Workers’ Housing Guarantee: Affordable Homes for All](/project/housing-community/)  
+- [Healthcare is a Human Right: My Plan for Medicare for All](/project/healthcare/)  
+- [Civil Rights and Equality: Standing Up for Justice](/project/civil-rights-equality)  
+- [Technology for People: My Vision for Ethical AI](/project/ai/)  
 
-Juntos, podemos construir un futuro más justo y fuerte para el **5to Distrito de Georgia**.  
-Pongámonos a trabajar.  
-**[Únete a Nosotros Hoy](https://actionnetwork.org/forms/subscribe-form)**
+I believe that **we** have the power to demand better—better wages, better healthcare, better schools, and a better future for all. Let’s stand together to create a Congress that champions the working class and protects every family’s right to thrive.
+
+**Let’s get to work. [Join Us Today](https://actionnetwork.org/forms/subscribe-form)**

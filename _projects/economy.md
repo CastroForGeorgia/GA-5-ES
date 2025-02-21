@@ -1,119 +1,128 @@
 ---
-title: "Economía"
-description: "Creando oportunidades justas al proteger empleos locales, construir vivienda asequible y cerrar lagunas fiscales injustas para fomentar una economía próspera y equitativa en el 5to Distrito de Georgia."
-date: 2024-11-28 00:00:00 +0000
-label: "Política"
+title: "Economy"
+description: "Strengthening local jobs, building affordable housing, and ensuring fair taxation to create a thriving and equitable economy."
+date: 2025-02-16 00:00:00 +0000
+label: "Policy"
 image: "/images/economy-policy-header.webp"
-keywords: [Política Económica, Tributación Justa, Automatización, Vivienda Asequible, Garantía de Vivienda para Trabajadores, Empleos Locales, Creación de Empleos, 5to Distrito Congresional de Georgia, Justicia Económica, Desigualdad de Riqueza]
 ---
 
-# Construyendo una Economía que Funcione para Todos
+# **Building an Economy That Works for Everyone**  
 
-## Resumen
+## **A Fair Economy Starts with the Working Class**  
 
-En el **5to Distrito Congresional de Georgia**, las familias trabajadoras son la columna vertebral de nuestra economía. Sin embargo, soportan una carga fiscal injusta, enfrentan inestabilidad habitacional y lidian con los impactos disruptivos de la automatización. Nuestra política económica **nivelará el campo de juego**, protegerá los empleos locales y construirá un futuro donde cada residente tenga acceso a vivienda, oportunidades y una oportunidad justa de prosperar.
+The economy isn’t working for everyone. **While corporations dodge taxes and billionaires grow richer, working families struggle with stagnant wages, housing costs, and job instability.** In **Georgia’s 5th Congressional District**, we’re building an economy that puts people first—**protecting workers, ensuring fair taxation, and expanding economic opportunities.**  
 
----
-
-## **Nuestros Objetivos Económicos**
-
-### 🛡️ **1. Proteger a los Trabajadores de la Avaricia Corporativa**
-- **Eliminar Lagunas Fiscales en el Extranjero**: Eliminar los paraísos fiscales y las penalizaciones que permiten a las corporaciones externalizar empleos y ocultar ganancias en el extranjero.
-- **Penalizar la Externalización de Empleos**: Las empresas que reubiquen **más del 1% de su fuerza laboral anualmente** enfrentarán sanciones financieras para desalentar despidos masivos.
-- **Cerrar Lagunas Fiscales en el Apalancamiento de Acciones**: Los inversionistas adinerados deben pagar su parte justa al utilizar acciones como ingreso líquido.
+It’s time to **end corporate handouts, invest in affordable housing, and create a future where every family has a real chance at prosperity.**  
 
 ---
 
-### 🏗️ **2. Garantizar Vivienda Asequible para los Trabajadores**
-**La Garantía de Vivienda para Trabajadores** es una piedra angular de nuestro plan para abordar la inseguridad habitacional y fomentar el crecimiento económico.
+## **The Challenges We Must Address**  
 
-- **Crear Miles de Empleos**:  
-  Construir vivienda asequible estimula industrias como **la construcción, la manufactura y los servicios locales**, generando oportunidades de empleo sostenibles.
+### ❌ **Working Families Shoulder the Tax Burden While the Wealthy Pay Less**  
+- Billionaires and corporations **exploit loopholes** to avoid taxes while working people foot the bill.  
+- Stock-based wealth goes **untaxed**, even when used like income.  
 
-- **Construir Hogares Asequibles**:  
-  Invertir en **vivienda segura y accesible** que asegure que cada trabajador pueda permitirse un hogar estable, mejorando la seguridad financiera y el bienestar comunitario.
+### ❌ **Housing Costs Are Out of Control**  
+- Wages haven’t kept up with rising **rent and home prices**.  
+- Public investments in **affordable housing have lagged**, leaving families vulnerable.  
 
-- **Fortalecer las Economías Locales**:  
-  La vivienda estable permite a las familias ahorrar, invertir localmente y apoyar a las pequeñas empresas, impulsando la vitalidad económica.
-
----
-
-### 🤝 **3. Tributación Justa para un Crecimiento Sostenible**
-Cerraremos las lagunas fiscales y aseguraremos que los multimillonarios y las corporaciones paguen su parte justa:
-
-- **Gravar el Apalancamiento de Acciones como Ingreso**:  
-  Cuando las acciones se utilizan como garantía para préstamos u otra liquidez, serán gravadas como **ingreso**, al igual que los cheques de pago de los trabajadores.
-
-- **Eliminar Lagunas Fiscales de la Avaricia Corporativa**:  
-  - Prevenir la evasión fiscal a través de cuentas en el extranjero.  
-  - Eliminar los incentivos para que las empresas reemplacen a los trabajadores con automatización sin un plan para reentrenar o redistribuir a esos empleados.  
-
-- **Apoyar a las Familias Trabajadoras**:  
-  La tributación justa nos permite reinvertir en programas como vivienda asequible, educación e infraestructura que benefician a todos.
+### ❌ **Jobs Are Being Replaced by Automation Without Worker Protections**  
+- Corporations cut costs with automation **while leaving workers behind**.  
+- Training programs and safety nets **aren’t keeping up** with job displacement.  
 
 ---
 
-### ⚙️ **4. Abordar el Impacto de la Automatización en los Trabajadores**
-La automatización puede ser una herramienta para el progreso, pero no a costa de los medios de vida de los trabajadores.
+## **A Bold Plan for Economic Justice**  
 
-- **Regular la Automatización que Roba Empleos**:  
-  Implementar salvaguardias para asegurar que **nuevas tecnologías complementen a los trabajadores**, en lugar de reemplazarlos por completo.
-
-- **Capacitación Laboral y Transición Profesional**:  
-  - Financiar **programas de reentrenamiento** para trabajadores desplazados por la automatización.  
-  - Proporcionar asesoramiento profesional y recursos para ayudar a los trabajadores a asegurar empleos sostenibles y listos para el futuro.
-
-- **Apoyar la Automatización Colaborativa**:  
-  Incentivar a las empresas que utilizan la automatización para aumentar la productividad mientras protegen o amplían las oportunidades laborales para los empleados.
+### 🏛️ **1. Close Tax Loopholes and Make Corporations Pay Their Fair Share**  
+- **Tax Stock Leveraging Like Wages**  
+  - If the wealthy **borrow against stocks like income, they should be taxed like workers’ wages.**  
+- **End Corporate Tax Havens**  
+  - Stop companies from **hiding profits offshore** to avoid contributing to the economy.  
+- **Penalize Job Outsourcing**  
+  - Companies that move **over 1% of their workforce overseas per year** should face tax penalties.  
 
 ---
 
-## **Cómo Nuestro Plan Beneficia al 5to Distrito**
-
-### 📈 **Crecimiento Económico a Través de Políticas Justas**
-- Cerrar las lagunas fiscales y reinvertir en vivienda asequible estimulará la **creación de empleos** y levantará las economías locales.
-- La tributación justa asegura que los ricos contribuyan con su parte, reduciendo las cargas sobre las familias trabajadoras.
-
-### 🏘️ **Estabilidad Habitacional para Todos**
-- La **Garantía de Vivienda para Trabajadores** asegura vivienda asequible para las familias, mejorando la seguridad financiera y la calidad de vida.
-- Construir vivienda crea miles de empleos locales en diversas industrias.
-
-### 🤖 **Preparando los Empleos para el Futuro**
-- Al abordar los desafíos de la automatización de manera directa, los trabajadores tendrán acceso a capacitación, apoyo y protecciones que aseguran que **nadie se quede atrás**.
-
-### 💪 **Comunidades Locales Más Fuertes**
-- La estabilidad habitacional, la creación de empleos y las políticas fiscales justas empoderan a las familias para **ahorrar, invertir localmente y prosperar**, impulsando un crecimiento comunitario vibrante.
+### 🏗️ **2. Expand Affordable Housing Through the Workers’ Housing Guarantee**  
+- **Build Affordable Homes for Working Families**  
+  - Invest in **energy-efficient, mixed-income housing** to make homeownership and renting more affordable.  
+- **Create Jobs Through Housing Construction**  
+  - Infrastructure projects will **stimulate industries** like construction, manufacturing, and local services.  
+- **Protect Longtime Residents from Displacement**  
+  - Introduce **tenant protections** to prevent unfair evictions and skyrocketing rent increases.  
 
 ---
 
-## **Plan de Acción**
-
-✅ **1. Legislación para Cerrar Lagunas Fiscales**
-- Introducir leyes para gravar el apalancamiento de acciones como ingreso y poner fin a la evasión fiscal en el extranjero.  
-- Penalizar a las corporaciones que externalizan empleos sin reinvertir en las comunidades locales.
-
-✅ **2. Inversión en Vivienda y Empleos**
-- Lanzar **La Garantía de Vivienda para Trabajadores** para construir hogares asequibles y crear miles de empleos en construcción.  
-- Financiar proyectos de infraestructura que creen oportunidades de empleo duraderas y mejoren los recursos comunitarios.
-
-✅ **3. Proteger a los Trabajadores de la Automatización**
-- Implementar regulaciones que requieran a las empresas adoptar **automatización amigable con los trabajadores**.  
-- Establecer programas de reentrenamiento financiados por el gobierno federal para trabajadores desplazados para asegurar que tengan las habilidades necesarias para tener éxito en industrias en evolución.
-
-✅ **4. Apoyar el Crecimiento Económico Local**
-- Asociarse con pequeñas empresas para fortalecer la creación de empleos locales.  
-- Invertir en programas que amplíen el acceso a la educación, la capacitación vocacional y el cuidado infantil asequible.
+### 🤖 **3. Regulate Automation to Protect Jobs**  
+- **Ensure AI and Robotics Work for Workers, Not Just CEOs**  
+  - Companies must **prove that automation benefits employees** before implementing mass layoffs.  
+- **Fund Job Retraining and Career Transitions**  
+  - Establish **free or low-cost reskilling programs** for workers impacted by automation.  
+- **Support Small Businesses Adopting Worker-Friendly Technology**  
+  - Offer tax incentives for **businesses that integrate automation while protecting jobs**.  
 
 ---
 
-## Conclusión
-
-Nuestra visión económica para el **5to Distrito Congresional de Georgia** es simple: **justicia, oportunidad y prosperidad para todos**. Al cerrar las lagunas fiscales corporativas, proteger a los trabajadores y construir vivienda asequible, crearemos una economía donde cada familia tenga la oportunidad de prosperar.
-
-Creemos en una economía donde **la riqueza se comparte, no se acumula**, donde se protegen los empleos locales y donde nadie se queda atrás ante los cambios económicos.  
-
-**Únete a nosotros mientras construimos una economía más justa, fuerte y resiliente para el 5to Distrito de Georgia.**
+### 💼 **4. Invest in Local Jobs and Small Business Growth**  
+- **Expand Access to Capital for Small Businesses**  
+  - Provide **grants and low-interest loans** to local businesses and worker-owned cooperatives.  
+- **Strengthen Worker Protections and Unions**  
+  - Guarantee **fair wages, paid leave, and collective bargaining rights** for all workers.  
+- **Invest in Infrastructure That Creates Jobs**  
+  - Fund **transportation, broadband, and clean energy projects** that boost local employment.  
 
 ---
 
-**#GarantíaDeViviendaParaTrabajadores #TributaciónJusta #EmpleosParaTodos #JusticiaAutomatización #JusticiaEconómica**
+## **How This Plan Benefits Georgia’s 5th District**  
+
+### 📈 **Economic Growth Through Fair Policies**  
+- Closing tax loopholes **raises revenue for public investments** and eases the burden on working families.  
+- Investing in **housing and local businesses** keeps money circulating in the community.  
+
+### 🏘️ **Stable and Affordable Housing for Workers**  
+- The **Workers’ Housing Guarantee** ensures housing is **affordable and accessible** for all.  
+- Construction projects **create thousands of jobs** across multiple industries.  
+
+### 🤝 **Future-Proofing Jobs in an Automated Economy**  
+- Training programs prepare workers for **sustainable, high-paying careers** in **tech, clean energy, and skilled trades**.  
+- Regulating automation ensures **workers aren’t sacrificed for corporate profit margins**.  
+
+### 💪 **Stronger Communities, Thriving Families**  
+- When people have stable **jobs and homes**, they can **save, invest, and participate in their communities**—leading to a stronger economy for everyone.  
+
+---
+
+## **Action Plan: An Economy That Works for the Many, Not the Few**  
+
+✅ **1. Close Corporate Tax Loopholes**  
+- Tax stock leveraging as income and **end offshore tax avoidance schemes**.  
+- Penalize **companies that offshore jobs without reinvesting in local workers**.  
+
+✅ **2. Build Housing and Strengthen Tenant Protections**  
+- Expand affordable housing through **The Workers’ Housing Guarantee**.  
+- Strengthen **renter protections** against predatory landlords.  
+
+✅ **3. Protect Workers from Automation-Driven Layoffs**  
+- Require companies to **retrain and transition workers** before replacing jobs with automation.  
+- Incentivize **collaborative automation models** that improve jobs rather than eliminate them.  
+
+✅ **4. Invest in Local Business Growth**  
+- Provide **small business grants and cooperative ownership funding**.  
+- Invest in **public infrastructure projects** that create jobs and boost local economies.  
+
+---
+
+## **Conclusion: A Fair Economy for Georgia’s 5th District**  
+
+**The economy isn’t broken—it’s rigged.** It’s rigged to benefit corporations, billionaires, and Wall Street while working families struggle. We’re here to **change that**.  
+
+By **closing tax loopholes, investing in affordable housing, and ensuring automation serves workers—not just CEOs—we will build an economy that works for everyone, not just the wealthy few.**  
+
+This is about **fair wages, stable jobs, and secure homes.** This is about **restoring economic power to the people.**  
+
+---
+
+### **Join the Fight for Economic Justice**  
+
+It’s time to demand an economy that works for the **many, not the few**. Stand with us.

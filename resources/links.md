@@ -1,11 +1,11 @@
-# Enlaces Útiles
+# Useful Links
 
-- [Sitio Web Oficial de la Campaña](andrescastro.us)
-- [Registro de Voluntarios](andrescastro.us)
-- [Debates sobre Políticas](andrescastro.us)
+- [Official Campaign Website](andrescastro.us)
+- [Volunteer Sign-Up](andrescastro.us)
+- [Policy Discussions](andrescastro.us)
 
-## Formularios de Contacto
+## Contact Forms
 
-- [Consultas Generales](andrescastro.us)
-- [Registro de Voluntarios](andrescastro.us)
-- [Sugerencias de Políticas](andrescastro.us)
+- [General Inquiries](andrescastro.us)
+- [Volunteer Registration](andrescastro.us)
+- [Policy Suggestions](andrescastro.us)
